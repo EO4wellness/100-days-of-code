@@ -9,7 +9,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
-## Day 0: November 18, 2018
+### Day 0: November 18, 2018
 
 #### Continued Building the _Recipe App_ 
 
