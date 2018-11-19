@@ -8,8 +8,9 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com) -->
+### Year: 2018
 
-## Day 1: November 18, 2018
+## Day 1: November 18, Sunday
 
 #### Continued Building the _Recipe App_ 
 
@@ -20,12 +21,11 @@
 **Sections to work:**  _Shopping List_ and _Likes Model_. 
 
 
-<!-- ### Day 2: June 27, Monday
+## Day 2: November 19, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+#### Completed building the _Recipe App_
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Worked on the _Shopping List_ and _Likes_ section of the app, got them to work fine. Also implemented persistent data storage to remember the recipes liked by user irrespective of page reloads.  
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Thoughts** Finally I've completed building the _Recipe App_. I started this project way before taking up this challenge so that means I have to come up with a new project/task for the next few days of the challenge...eyes firmly set on FreeCodeCamp. Really looking forward to what lies on store. 
+
