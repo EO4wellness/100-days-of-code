@@ -15,7 +15,7 @@
 
 **Today's Progress**: Built the very important - _Recipe View_ section of the _Recipe App_, rendered the API response to the UI with an additional feature of letting users change the number of servings to see real-time results on the UI.  
 
-**Thoughts**: Almost finished building the app, just a few more sections left to work on. Felt very good indeed. Just can't believe I've taken up this challenge. Hope I can take this momentum forward without having to slip at any stage of the challenge. I'm really determined to go all the way. Welcome to my *#100DaysOfCode* log.
+**Thoughts**: Almost finished building the app, just a few more sections left to work on. Felt very good indeed. Just can't believe I've taken up this challenge. Hope I can take this momentum forward without having to slip at any stage of the challenge. I'm really determined to go all the way. Welcome to my *#100DaysOfCode* journal.
 
 **Sections to work:**  _Shopping List_ and _Likes Model_. 
 
