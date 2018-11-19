@@ -9,7 +9,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 0: November 18, 2018
+## Day 1: November 18, 2018
 
 #### Continued Building the _Recipe App_ 
 
@@ -20,7 +20,7 @@
 **Sections to work:**  _Shopping List_ and _Likes Model_. 
 
 
-<!-- ### Day 1: June 27, Monday
+<!-- ### Day 2: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
