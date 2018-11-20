@@ -29,3 +29,8 @@
 
 **Thoughts** Finally I've completed building the _Recipe App_. I started this project way before taking up this challenge so that means I have to come up with a new project/task for the next few days of the challenge...eyes firmly set on FreeCodeCamp. Really looking forward to what lies on store. 
 
+## Day 3: November 20, Tuesday
+
+**Today's Progress**: Did some final corrections, cleaned up the code a bit before generating the build-version of the _Recipe App_ and deploying it. Also my portfolio website got a very quick update.
+
+**Thoughts** This day was focused more on deploying the _Recipe App_ and I should say it went quite well. Updating the portfolio site was much of a breeze. 
