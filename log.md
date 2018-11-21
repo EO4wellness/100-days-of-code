@@ -34,3 +34,9 @@
 **Today's Progress**: Did some final corrections, cleaned up the code a bit before generating the build-version of the _Recipe App_ and deploying it. Also my portfolio website got a very quick update.
 
 **Thoughts** This day was focused more on deploying the _Recipe App_ and I should say it went quite well. Updating the portfolio site was much of a breeze. 
+
+## Day 4: November 21, Wednesday
+
+**Today's Progress**: Finished up a couple of CSS sections on FreeCodeCamp.  
+
+**Thoughts** Refreshed a bit of CSS through FreeCodeCamp exercises. Couldn't do an awful lot today because of the semester exam tomorrow. 
