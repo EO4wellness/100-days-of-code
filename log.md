@@ -40,3 +40,9 @@
 **Today's Progress**: Finished up a couple of CSS sections on FreeCodeCamp.  
 
 **Thoughts** Refreshed a bit of CSS through FreeCodeCamp exercises. Couldn't do an awful lot today because of the semester exam tomorrow. 
+
+## Day 5: November 22, Thursday
+
+**Today's Progress**: Did the Applied Visual Design, Applied Accessibility and Responsive Web Design Principles sections on FreeCodeCamp. 
+
+**Thoughts** It's always great fun coding up these animations in CSS. Yet another day in which I couldn't spend a lot of time coding. A strong comeback is on the cards buddy. See ya tomorrow!  
