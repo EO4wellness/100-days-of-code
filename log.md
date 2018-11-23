@@ -46,3 +46,9 @@
 **Today's Progress**: Did the Applied Visual Design, Applied Accessibility and Responsive Web Design Principles sections on FreeCodeCamp. 
 
 **Thoughts**: It's always great fun coding up these animations in CSS. Yet another day in which I couldn't spend a lot of time coding. A strong comeback is on the cards buddy. See ya tomorrow!  
+
+## Day 6: November 23, Friday
+
+**Today's Progress**: Completed all the _Responsive Web Design_ challenges on _FreeCodeCamp_ except the projects.
+
+**Thoughts**: Yet another day where I only focused on FreeCodeCamp exercises but I think the all the fun starts tomorrrow when I start doing the projects. Also starting my _Machine Learning_ jouney tomorrow. Hoping for the best.
