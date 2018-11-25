@@ -52,3 +52,9 @@
 **Today's Progress**: Completed all the _Responsive Web Design_ challenges on _FreeCodeCamp_ except the projects.
 
 **Thoughts**: Yet another day where I only focused on FreeCodeCamp exercises but I think the all the fun starts tomorrrow when I start doing the projects. Also starting my _Machine Learning_ jouney tomorrow. Hoping for the best.
+
+## Day 7: November 24, Saturday
+
+**Today's Progress**: Started the Machine Learning journey. Learnt some basics about machine learning and linear regression.
+
+**Thoughts**: Finaly learning what I've always wanted to but it doesn't seem so simple of a task but if it was simple I wouldn't be doing it. I hope this curiosity can steer me in the right way and help me get there, no matter what I'm not giving up.
