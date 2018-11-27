@@ -58,3 +58,15 @@
 **Today's Progress**: Started the Machine Learning journey. Learnt some basics about machine learning and linear regression.
 
 **Thoughts**: Finaly learning what I've always wanted to but it doesn't seem so simple of a task but if it was simple I wouldn't be doing it. I hope this curiosity can steer me in the right way and help me get there, no matter what I'm not giving up.
+
+## Day 8: November 25, Sunday
+
+**Today's Progress**:  Learnt the basics of Univariate Linear Regression, involving Model Representation and Cost Function.
+
+**Thoughts**: Spent most of the day learning ML but solved a couple of 4yu katas(coding challenges) on CodeWars which actually took well more than a hour indeed. 
+
+## Day 9: November 26, Monday
+
+**Today's Progress**: Learnt what Gradient Descent algorithm is and how it's used with Linear Regression to build Machine Learning models. 
+
+**Thoughts**: You know what? Machine Learning is awesome. Learnt my first ML algorithm and it wasn't all that easy I agree considering the fact that I've never quite been good at math mainly because of lack of interest. This thing has absolutely changed me. Just can't wait to learn Multivariate Linear Regression. 
