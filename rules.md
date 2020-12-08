@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-November 18, 2018.
+Round One: [Jan 1, 20202](https://twitter.com/EO4wellness/status/1212414652388380672)
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
