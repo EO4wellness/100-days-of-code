@@ -1,11 +1,15 @@
 T-I-L / Today I Learned 
 [Today I Learned Repo](https://github.com/EO4wellness/T-I-L)
 
-# 100 Days Of Code - Log
-:sunny: Day 1: 12-08-2020<br>
-Today's Progress: Fixed...<br>
-Thoughts: Learned...<br>
-Link to work: [Project Name](http://www.example.com) --><br>
+Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship.
+Dec 2, 2020: Discovered the "secret" and updated GitHub profile homepage using it. https://github.com/EO4wellness/EO4wellness
+Dec 3, 2020: Began Bertlesmann Udacity Data Track coursework. Completed reading all of the introductory materials, website pages, FAQ, slack, calendar and completed lesson 1 & 2.
+Dec 4, 2020: Lesson 3-Linear Regression
+Dec 5, 2020: Lesson 3-Review Linear Regression. Reviewed and completed Lesson 3.
+Dec 6, 2020: Completed Lesson 3, 4, and 5. Reviewing and exploring other course-related materials, digging in deeper with tutorials at the Alteryx website.
+Dec 7, 2020: Orientation, began Alteryx website training.
+Dec 8, 2020: Reviewed Intro to Python.  Began [TIL Python repository](https://github.com/EO4wellness/T-I-L/tree/main/python) 
+
 
 # Template Formating Styles 
 Day 1: MM-DD-YYYY<br>
