@@ -9,6 +9,6 @@ T-I-L / Today I Learned
 :sunny: Dec 6, 2020: Completed Lesson 3, 4, and 5. Reviewing and exploring other course-related materials, digging in deeper with tutorials at the Alteryx website.<br>
 :sunny: Dec 7, 2020: Orientation, began Alteryx website training.<br>
 :sunny: Dec 8, 2020: Reviewed Intro to Python.  Began [TIL Python repository](https://github.com/EO4wellness/T-I-L/tree/main/python)<br>
-:sunny: Dec 9, 2020: Updated "Hello World" with READme notes; reading & replies Bertlesmann Tech scholarship, turned on "discussions" and "night mode" in github.
+:sunny: Dec 9, 2020: Updated "Hello World" with READme notes; reading & replies Bertlesmann Tech scholarship, turned on "discussions" and "night mode" in github. 
 :sunny: Dec 10, 2020: Cybrary security course, [gist](https://github.com/EO4wellness/leary-leerie/blob/master/gist.md), git education and coding. 
 ... more coming soon<br>
