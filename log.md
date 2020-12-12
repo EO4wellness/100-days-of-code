@@ -12,6 +12,6 @@ T-I-L / Today I Learned
 :sunny: Dec 9, 2020: Updated "Hello World" with READme notes; reading & replies Bertlesmann Tech scholarship, turned on "discussions" and "night mode" in github.<br> 
 :sunny: Dec 10, 2020: Cybrary security course, [gist](https://github.com/EO4wellness/leary-leerie/blob/master/gist.md), git education and coding. <br> 
 :sunny: Dec 11, 2020: WP updates, security patches, plugin updates, generate site up-to-date sitemaps times all of the websites. <br>
-:sunny: Dec 12, 2020: Install Markdown Pad on each device. Write up Markdown Pad info. [Create Folder](https://github.com/EO4wellness/T-I-L/tree/main/markdown) | [Lessson 1 MD](https://www.markdowntutorial.com/lesson/1/)<br>
+:sunny: Dec 12, 2020: Install Markdown Pad on each device. Write up Markdown Pad info. [Create Folder](https://github.com/EO4wellness/T-I-L/tree/main/markdown) | [Lessson 1 MD](https://www.markdowntutorial.com/lesson/1/). Patience, debugging.  :) <br>
 :sunny: Dec 13, 2020: <br>
 ... more coming soon<br>
