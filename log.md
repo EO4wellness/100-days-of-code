@@ -16,5 +16,6 @@ T-I-L / Today I Learned
 :sunny: Dec 13, 2020: Debugging some javascript run-time errors.  How to [delete](https://github.com/EO4wellness/T-I-L/wiki/GitHub-Delete) on GitHub. Began a [#100 Days of Polyglot Learning](https://github.com/EO4wellness/T-I-L/tree/main/polyglot) folder in the Today-I-Learned respository to also log my language learning fun, as well as practice MarkDown formatting skills! <br>
 :sunny: Dec 14, 2020: [Get your Startup Started](https://github.com/EO4wellness/leary-leerie/tree/master/Get-Your-Start-Up-Started) course completion, [#100 Days of Polyglot Learning](https://github.com/EO4wellness/T-I-L/tree/main/polyglot) <br>
 :sunny: Dec 15, 2020: [PHP](https://www.sololearn.com/learning/1059)|[#100 Days of Polyglot Learning](https://github.com/EO4wellness/T-I-L/tree/main/polyglot) <br>
-:sunny: Dec 16, 2020: <br>
+:sunny: Dec 16, 2020: oddles of server maintenacne, website backups and updates, schedule updates;|[#100 Days of Polyglot Learning](https://github.com/EO4wellness/T-I-L/tree/main/polyglot) <br>
+:sunny: Dec 17, 2020: <br>
 ... more coming soon<br>
