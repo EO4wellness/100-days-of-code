@@ -19,6 +19,6 @@ T-I-L / Today I Learned
 :sunny: Dec 16, 2020: oddles of server maintenacne, website backups and updates, schedule updates;|[#100 Days of Polyglot Learning](https://github.com/EO4wellness/T-I-L/tree/main/polyglot) and [Leo este pagina en Espanol](https://andradelucas.medium.com/14-reposit%C3%B3rios-excelentes-do-github-para-ajudar-na-sua-carreira-52b0184b7fab) <br>
 :sunny: Dec 17, 2020: HTML, web development. language studies-slovak, spanish, german, other, welsh, japaneese.<br>
 :sunny: Dec 18, 2020: spent about 8 hrs writing and adjusting HTML, CSS, PHP code today.language studies-slovak, spanish, german, other, welsh, japaneese (the later i was delighted to discover a "sounds" and writing portion of the app!  yes!  great practice--did about an hour of sound writing and sound combo quizes)  <br>
-:sunny: Dec 18, 2020: Udacity Shell Workshop and language lessons. <br>
-:sunny: Dec 18, 2020: (<br>
+:sunny: Dec 18, 2020: [Udacity Shell Workshop](https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md) and [language lessons](https://github.com/EO4wellness/T-I-L/tree/main/polyglot). [XML-RPC](https://github.com/EO4wellness/T-I-L/blob/main/Reading.md) authentication reading/implementation best practices <br>
+:sunny: Dec 19, 2020: (<br>
 ... more coming soon<br>
