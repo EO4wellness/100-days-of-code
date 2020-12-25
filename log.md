@@ -25,4 +25,5 @@ T-I-L / Today I Learned
 :sunny: Dec 22, 2020: Updated [T-I-L Markdown Lessons Learned](https://github.com/EO4wellness/T-I-L/tree/main/markdown), [T-I-L Wiki Security](https://github.com/EO4wellness/T-I-L/wiki/Security), wrote HTML updates, offers, newsletter, as well as accomplished server maintenance, as well as several review & progress into new words/sentences in [Polyglot](https://github.com/EO4wellness/T-I-L/tree/main/polyglot) language training sessions, earning several bonuses for accomplishments.<br>
 :sunny: Dec 23, 2020: HTML, MD, and language studies.<br>
 :sunny: Dec 24, 2020: server maintence + backups + list serve culling, xml, cvs, HTML, MD, and lots of FUN language studies.<br>
+:sunny: Dec 25, 2020: [Version Control lessons and practice assignments and reading](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md) and language lessons.<br>
 ... more coming soon<br>
