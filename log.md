@@ -26,4 +26,5 @@ T-I-L / Today I Learned
 :sunny: Dec 23, 2020: HTML, MD, and language studies.<br>
 :sunny: Dec 24, 2020: server maintence + backups + list serve culling, xml, cvs, HTML, MD, and lots of FUN language studies.<br>
 :sunny: Dec 25, 2020: [Version Control lessons and practice assignments and reading](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md) and language lessons.<br>
+:sunny: Dec 26, 2020: HTML, CSS, PHP, service maintenance, bash, SSH, FTP today, plus language lessons. 
 ... more coming soon<br>
