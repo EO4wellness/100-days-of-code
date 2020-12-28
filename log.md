@@ -28,4 +28,5 @@ T-I-L / Today I Learned
 :sunny: Dec 25, 2020: [Version Control lessons and practice assignments and reading](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md) and language lessons.<br>
 :sunny: Dec 26, 2020: HTML, CSS, PHP, service maintenance, bash, SSH, FTP today, plus language lessons. <br>
 :sunny: Dec 27, 2020: HTML, CSS, AI, markdown and lots of wonderful language lessons, quiz (monthly and weekly) [Finished my league in 7th place this week on Duolingo](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-27-finished7th-this-weeks-league-on-duo.png).<br>
+:sunny: Dec 28, 2020: Coding today: HTML, CSS, Python; Joined SWoC, registered for upcoming coding events; Did language studies. [Progressed to Obsidian League](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-28-duo-league.jpg)
 ... more coming soon<br>
