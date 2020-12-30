@@ -28,7 +28,6 @@ T-I-L / Today I Learned
 :sunny: Dec 25, 2020: [Version Control lessons and practice assignments and reading](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md) and language lessons.<br>
 :sunny: Dec 26, 2020: HTML, CSS, PHP, service maintenance, bash, SSH, FTP today, plus language lessons. <br>
 :sunny: Dec 27, 2020: HTML, CSS, AI, markdown and lots of wonderful language lessons, quiz (monthly and weekly) [Finished my league in 7th place this week on Duolingo](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-27-finished7th-this-weeks-league-on-duo.png).<br>
-:sunny: Dec 28, 2020: Coding today: HTML, CSS, Python; Joined SWoC, registered for upcoming coding events; Did language studies. [Progressed to Obsidian League](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-28-duo-league.jpg)
-:sunny: Dec 28, 2020: HTML, Udacity coursework; Duolingo-Mondly-Drops sessions. 
-:sunny: Dec 29, 2020: HTML, coursework, Yo leí en español esta [presentación de"Git"](https://www2.slideshare.net/emateucr/coloquios-ucr-2013gitsolis?qid=34aa4446-dd12-4c37-ac3a-7a4ed53f8b09&v=&b=&from_search=1) Did language studies.
+:sunny: Dec 28, 2020: Coding today: HTML, CSS, Python; Joined SWoC, registered for upcoming coding events; Did language studies. [Progressed to Obsidian League](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-28-duo-league.jpg)<br>
+:sunny: Dec 29, 2020: HTML, coursework, Yo leí en español esta [presentación de"Git"](https://www2.slideshare.net/emateucr/coloquios-ucr-2013gitsolis?qid=34aa4446-dd12-4c37-ac3a-7a4ed53f8b09&v=&b=&from_search=1) Did language studies.<br>
 ... more coming soon<br>
