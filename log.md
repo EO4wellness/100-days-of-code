@@ -30,4 +30,9 @@ T-I-L / Today I Learned
 :sunny: Dec 27, 2020: HTML, CSS, AI, markdown and lots of wonderful language lessons, quiz (monthly and weekly) [Finished my league in 7th place this week on Duolingo](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-27-finished7th-this-weeks-league-on-duo.png).<br>
 :sunny: Dec 28, 2020: Coding today: HTML, CSS, Python; Joined SWoC, registered for upcoming coding events; Did language studies. [Progressed to Obsidian League](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2020-12-28-duo-league.jpg)<br>
 :sunny: Dec 29, 2020: HTML, coursework, Yo leí en español esta [presentación de"Git"](https://www2.slideshare.net/emateucr/coloquios-ucr-2013gitsolis?qid=34aa4446-dd12-4c37-ac3a-7a4ed53f8b09&v=&b=&from_search=1) Did language studies.<br>
+:sunny: Dec 30, 2020: MD, HTML + language studies.<br>
+:sunny: Dec 31, 2020: MD, HTML + language studies.<br>
+:sunny: Jan 1, 2021: MD, HTML + language studies. <br>
+:sunny: Dec 2, 2021: Installing PHP scripts on server, server maintenance, MD, HTML + language studies. <br>
+Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE - Introduction to Winter Code & Internship OnBoarding Project 
 ... more coming soon<br>
