@@ -35,5 +35,8 @@ T-I-L / Today I Learned
 :sunny: R2D32: Jan 1, 2021: MD, HTML + language studies. <br>
 :sunny: R2D33: Jan 2, 2021: Installing PHP scripts on server, server maintenance, MD, HTML + language studies.
 Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE - Introduction to Winter Code & Internship OnBoarding Project <br>
-:sunny: R2D34: Jan 3, 2021:
+:sunny: R2D34: Jan 3, 2021: HTML, CSS, server maintenance, command line; language studies. <br>
+:sunny: R2D35: Jan 4, 2021: [PHP](https://github.com/EO4wellness/T-I-L/blob/main/PHP/README.md) HTML, CSS, server maintenance, command line; language studies. <br>
+
+
 ... more coming soon<br>
