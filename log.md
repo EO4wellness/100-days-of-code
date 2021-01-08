@@ -39,7 +39,9 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R2D35: Jan 4, 2021: [PHP](https://github.com/EO4wellness/T-I-L/blob/main/PHP/README.md) HTML, CSS, server maintenance, command line; language studies. <br>
 :sunny: R2D36: Jan 5, 2021: WordPress Security, TIL how to [cut-n-paste Japanese without use of a Japanese keyboard](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Greetings.md#practice-session), that Google Translate understands basic transliterations of Japanese and can accurately find the characters for somnething you try to approximate the sounds for following basic english phonics rules; I also coded a bit in HTML and CSS to produce a mobile responsive template and did server maintenance, as well as the standard langauge lessons, practicing markdown. <br>
 :sunny: R2D37: Jan 6, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/readme.md), MD, and language studies. <br>
-:sunny: R2D38: Jan 7, 2021: FreeCodeCampe and language lessons. Cleaned up Udacity repo 
+:sunny: R2D38: Jan 7, 2021: FreeCodeCampe and language lessons. Cleaned up Udacity repo <br>
+:sunny: R2D39: Jan 8, 2021: FreeCodeCampe and language lessons. CSS, HTML, MD, and server <br>
+
 
 
 ... more coming soon<br>
