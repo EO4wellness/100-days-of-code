@@ -44,6 +44,7 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R2D40: Jan 9, 2021: [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md) CSS lesson, realized Free Code Camp also allows for an easier way to save your code, within the lessons; so I [started saving them in this repo](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org/exercise-solutions).  Will need to restore old lesons/codes to be consistent. Discovered Google's online [Font Library](https://github.com/EO4wellness/T-I-L/blob/main/Google/README.md). Want to research other options. Language studies - most notable - studied all of the other languages I normally don't do daily and restored my skill sets there, as well as complted [Castle 2 of Welsh](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2021-01-02-finished-castle2.png) today and of course practice MD/gitHub skills. <br>
 :sunny: R2D41: Jan 10, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), checked in with SWOC, daily language lessons. <br>
 :sunny: R1D42: Jan 11, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), MD, Git; language exercises.
-
+:sunny: R1D43: Jan 12, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), Web Security course, language exercises.
+:sunny: R1D44: Jan 13, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), language exercises.
 
 ... more coming soon<br>
