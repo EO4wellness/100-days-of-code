@@ -46,5 +46,6 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D42: Jan 11, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), MD, Git; language exercises.
 :sunny: R1D43: Jan 12, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), Web Security course, language exercises.
 :sunny: R1D44: Jan 13, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), language exercises.
+:sunny: R1D45: Jan 14, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md#add-different-padding-to-each-side-of-an-element), [Version Control](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/add-commits.md) coursework; daily language studies. 
 
 ... more coming soon<br>
