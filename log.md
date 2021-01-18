@@ -50,4 +50,5 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D46: Jan 15, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), Leet-Code, language exercises.<br>
 :sunny: R1D47: Jan 16, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md), Leet-Code, version course work. language exercises.<br>
 :sunny: R1D48: Jan 17, 2021: [FreeCode Camp], Leet Code, version course work, language lessons. 
+sunny: R1D48: Jan 18, 2021: [FreeCode Camp], Leet Code, version course work, language lessons. 
 ... more coming soon<br>
