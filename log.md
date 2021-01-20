@@ -52,4 +52,5 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D48: Jan 17, 2021: [FreeCode Camp], Leet Code, version course work, language lessons.<br> 
 :sunny: R1D48: Jan 18, 2021: [FreeCode Camp], Leet Code, version course work, language lessons. <br>
 :sunny: R1D49: Jan 19, 2021: [FreeCode Camp], Leet Code checkin, version control brnaching course work, daily MD practice, and language lessons. <br> 
+:sunny: R1D49: Jan 20, 2021: [FreeCode Camp], Leet Code, Udacity course work, daily MD practice, and language lessons. <br> 
 ... more coming soon<br>
