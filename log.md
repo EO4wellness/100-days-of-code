@@ -54,6 +54,5 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D50: Jan 19, 2021: [FreeCode Camp], Leet Code checkin, version control brnaching course work, daily MD practice, and language lessons. <br> 
 :sunny: R1D51: Jan 20, 2021: [FreeCode Camp], Leet Code, Udacity course work, daily MD practice, and language lessons. <br> 
 :sunny: R1D52: Jan 21, 2021: [FreeCode Camp], Leet Code, finished Udacity version control, daily MD practice, and language lessons<br> 
-:sunny: R1D52: Jan 22, 2021: New CSS and JavaScript lesson with FreeCode Camp; [JavaScript lesson with W3Schools](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/W3Schools/README.md), checkin {Leet Code](, Daily MD practice, and language lessons. 
-:sunny: R1D52: Jan 22, 2021: New CSS and [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) lesson with FreeCode Camp; [JavaScript lesson with W3Schools](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/W3Schools/README.md), checkin [Leet Code](https://leetcode.com/), Daily MD practice, and language lessons. 
+:sunny: R1D53: Jan 22, 2021: New CSS and [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) lesson with FreeCode Camp; [JavaScript lesson with W3Schools](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/W3Schools/README.md), checkin [Leet Code](https://leetcode.com/), Daily MD practice, and language lessons. 
 ... more tomorow...<br>
