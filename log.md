@@ -56,4 +56,5 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D52: Jan 21, 2021: [FreeCode Camp], Leet Code, finished Udacity version control, daily MD practice, and language lessons<br> 
 :sunny: R1D53: Jan 22, 2021: New CSS and [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) lesson with FreeCode Camp; [JavaScript lesson with W3Schools](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/W3Schools/README.md), checkin [Leet Code](https://leetcode.com/), Daily MD practice, and language lessons. <br>
 :sunny: R1D54: Jan 23, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md) completed the "Basic CSS' portion of the Responsive Web Design Certification program. Leet Code check in. Daily MD and Git practice.  Daily language lessons completed. <br>
+:sunny: R1D54: Jan 24, 2021: [FreeCode Camp] continue Responsive Web Design Certification program and one new lesson of JavaScript. Leet Code check in. Daily MD and Git practice.  Daily language lessons completed. <br>
 ... more tomorow...<br>
