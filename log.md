@@ -67,5 +67,5 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D64: Feb 1, 2021: [FreeCode Camp] Leet Code check in.  Daily MD and Git practice. Daily language lessons. <br>
 :sunny: R1D65: Feb 2, 2021: [FreeCode Camp] Leet Code check in.  Daily MD and Git practice. Daily language lessons.<br>
 :sunny: R1D66: Feb 3, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md). Leet Code Check in. Daily MD and GIT practice.  Daily language lessons. <br> 
-:sunny: R1D67: Feb 4, 2021: FreeCodeCamp, Leet Code, Nutanix, Daily MD and Git practice. Daily language lessons<br> 
+:sunny: R1D67: Feb 4, 2021: FreeCodeCamp, Leet Code, Nutanix, Daily MD and Git practice. Did 1 lesson in JavaScript studies. Daily language lessons<br> 
 ... more tomorow...<br>
