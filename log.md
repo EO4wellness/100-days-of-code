@@ -75,5 +75,5 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D69: Feb 7, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
 :sunny: R1D70: Feb 8, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
 :sunny: R1D71: Feb 9, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge. Attended WordFence live security discussion. Daily markdown and git practice. Daily language studies. <br>
-:sunny: R1D72: Feb 10, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D72: Feb 10, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. server maintenance, html, backup, security fixes. Daily language studies. <br>
 ... more tomorow...<br>
