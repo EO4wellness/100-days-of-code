@@ -65,15 +65,15 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D59: Jan 28, 2021: [FreeCode Camp] continue Responsive Web Design Certification program. Leet Code check in. Daily MD and Git practice. Worked on Udacity Nutanix course work.  Daily language lessons completed. <br>
 :sunny: R1D60: Jan 29, 2021: [FreeCode Camp] continue Responsive Web Design Certification program. Leet Code check in. Daily MD and Git practice. Worked on Udacity Nutanix course work.  Daily language lessons completed. <br>
 :sunny: R1D61: Jan 30, 2021: [FreeCode Camp] continue Responsive Web Design Certification program. Leet Code check in. Daily MD and Git practice. Worked on Udacity Nutanix course work.  Daily language lessons completed. <br>
-:sunny: R1D63: Jan 31, 2021: [FreeCode Camp] continue Responsive Web Design Certification program. Leet Code check in. Attempted daily challenge--made progress but not quite ready yet to do it--need to keep working on my programming skills. Daily MD and Git practice. Worked on Udacity Nutanix course work.  Daily language lessons completed. <br>
-:sunny: R1D64: Feb 1, 2021: [FreeCode Camp] Leet Code check in.  Daily MD and Git practice. Daily language lessons. <br>
-:sunny: R1D65: Feb 2, 2021: [FreeCode Camp] Leet Code check in.  Daily MD and Git practice. Daily language lessons.<br>
-:sunny: R1D66: Feb 3, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md). Leet Code Check in. Daily MD and GIT practice.  Daily language lessons. <br> 
-:sunny: R1D67: Feb 4, 2021: FreeCodeCamp, Leet Code, Nutanix, Daily MD and Git practice. Did 1 lesson in JavaScript studies. Daily language lessons<br> 
-:sunny: R1D68: Feb 5, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. JavaScript.  HTML/CSS web dev. Server Security.  Daily language studies. <br>
-:sunny: R1D69: Feb 6, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. JavaScript.  HTML/CSS web dev.  Daily language studies. <br>
-:sunny: R1D70: Feb 7, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
-:sunny: R1D71: Feb 8, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
-:sunny: R1D72: Feb 9, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge. Attended WordFence live security discussion. Daily markdown and git practice. Daily language studies. <br>
-:sunny: R1D73: Feb 10, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D62: Jan 31, 2021: [FreeCode Camp] continue Responsive Web Design Certification program. Leet Code check in. Attempted daily challenge--made progress but not quite ready yet to do it--need to keep working on my programming skills. Daily MD and Git practice. Worked on Udacity Nutanix course work.  Daily language lessons completed. <br>
+:sunny: R1D63: Feb 1, 2021: [FreeCode Camp] Leet Code check in.  Daily MD and Git practice. Daily language lessons. <br>
+:sunny: R1D64: Feb 2, 2021: [FreeCode Camp] Leet Code check in.  Daily MD and Git practice. Daily language lessons.<br>
+:sunny: R1D65: Feb 3, 2021: [FreeCode Camp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md). Leet Code Check in. Daily MD and GIT practice.  Daily language lessons. <br> 
+:sunny: R1D66: Feb 4, 2021: FreeCodeCamp, Leet Code, Nutanix, Daily MD and Git practice. Did 1 lesson in JavaScript studies. Daily language lessons<br> 
+:sunny: R1D67: Feb 5, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. JavaScript.  HTML/CSS web dev. Server Security.  Daily language studies. <br>
+:sunny: R1D68: Feb 6, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. JavaScript.  HTML/CSS web dev.  Daily language studies. <br>
+:sunny: R1D69: Feb 7, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D70: Feb 8, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D71: Feb 9, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge. Attended WordFence live security discussion. Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D72: Feb 10, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
 ... more tomorow...<br>
