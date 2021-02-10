@@ -1,5 +1,7 @@
-T-I-L / Today I Learned 
+# T-I-L / Today I Learned 
 [Today I Learned Repo](https://github.com/EO4wellness/T-I-L)
+
+## Round Beginning Dec, 2020 thru to present:
 
 :sunny: Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship.<br>
 :sunny: Dec 2, 2020: Discovered the "secret" and updated GitHub profile homepage using it. https://github.com/EO4wellness/EO4wellness<br>
@@ -72,5 +74,6 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D69: Feb 6, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. JavaScript.  HTML/CSS web dev.  Daily language studies. <br>
 :sunny: R1D70: Feb 7, 2021: FreeCodeCamp, Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
 :sunny: R1D71: Feb 8, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
-:sunny: R1D72: Feb 9, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D72: Feb 9, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge. Attended WordFence live security discussion. Daily markdown and git practice. Daily language studies. <br>
+:sunny: R1D73: Feb 10, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. Daily language studies. <br>
 ... more tomorow...<br>
