@@ -78,6 +78,8 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D72: Feb 10, 2021: Several lessons of [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) Leet Code Daily Challenge.  Daily markdown and git practice. server maintenance, html, backup, security fixes. Daily language studies. <br>
 :snowman: R1D73: Feb 11, 2021: FreeCodeCamp Design and JavaScript lessons; LeetCode daily challenge; Daily MarkDown and Git practice; Udacity JavaScript; Daily language lessons. <br>
 :snowman: R1D74: Feb 12, 2021: FreeCodeCamp Design lesson, LeetCode challenge & 30 days daily check in; Mark down and git practice; Daily language studies. <br>
+:snowman: R1D75: Feb 13, 2021: FreeCodeCamp Design lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
+:snowman: R1D76: Feb 14, 2021: FreeCodeCamp Design lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
 ... more tomorow...<br>
 
 
