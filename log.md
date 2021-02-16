@@ -80,6 +80,8 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :snowman: R1D74: Feb 12, 2021: FreeCodeCamp Design lesson, LeetCode challenge & 30 days daily check in; Mark down and git practice; Daily language studies. <br>
 :snowman: R1D75: Feb 13, 2021: FreeCodeCamp Design lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
 :snowman: R1D76: Feb 14, 2021: FreeCodeCamp Design lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
+:snowman: R1D77: Feb 15, 2021: FreeCodeCamp Java lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
+:snowman: R1D78: Feb 16, 2021: FreeCodeCamp Java lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
 ... more tomorow...<br>
 
 
