@@ -98,7 +98,7 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D92: March 2, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
 :sunny: R1D93: March 3, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
 :sunny: R1D94: March 4, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
-:sunny: R1D95: March 5, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
+:sunny: R1D95: March 5, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. [Earned This Today in Latin](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-05-EO4Wellness-earned.png) <br>
 ... more tomorow...<br>
 
 
