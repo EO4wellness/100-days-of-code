@@ -100,7 +100,7 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D94: March 4, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. <br>
 :sunny: R1D95: March 5, 2021: [FreeCodeCamp Assessability](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) lesson, LeetCode challenge; Mark down and git practice; Daily language studies. [Earned This Today in Latin](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-05-EO4Wellness-earned.png) <br>
 :sunny: R1D96: March 6, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility.html); Mark down and git practice; Daily language studies. <br>
-:sunny: R1D97: March 7, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md) <br>
+:sunny: R1D97: March 7, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md) Earned [Legendary Achievement](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/EO4Wellness_2021-03-07-LEGENDARY-achievement-earned.png) <br>
 :sunny: R1D98: March 8, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/use-display-flex-to-position-two-boxes.html); Daily mark down, git, and language study practice. <br>
 ... more tomorow...<br>
 
