@@ -3,7 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](https://github.com/EO4wellness/100-days-of-code/blob/master/round-2_log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
