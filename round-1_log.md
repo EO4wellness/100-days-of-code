@@ -102,6 +102,8 @@ Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE 
 :sunny: R1D96: March 6, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility.html); Mark down and git practice; Daily language studies. <br>
 :sunny: R1D97: March 7, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md) Earned [Legendary Achievement](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/EO4Wellness_2021-03-07-LEGENDARY-achievement-earned.png) <br>
 :sunny: R1D98: March 8, 2021:[FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/use-display-flex-to-position-two-boxes.html); Daily mark down, git, and language study practice. <br>
+:sunny: R1D99: March 9, 2021: FreeCodeCamp lessons; Daily Mark-Down and Git practice; Daily language lessons.<br>
+:sunny: R1D100: March 10, 2021: [FreeCodCamp lesson](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Flexbox.md), daily MD and Git practice; language lessons. 
 ... more tomorow...<br>
 
 
