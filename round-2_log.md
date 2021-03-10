@@ -6,5 +6,5 @@
 Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 ☀️ R2D1-2021-03-12: <br>
-☀️ R2D1-2021-03-11: First Day of Round 2 this year. Continued: FreeCodeCamp studies Flexbox, devChallenge studies, daily Git and MD practice, language studies.<br>
+☀️ R2D1-2021-03-11: First Day of Round 2 this year. Continued: FreeCodeCamp studies [Flexbox](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Flexbox.md), [devChallenge](https://github.com/EO4wellness/T-I-L/tree/main/HTML/DevChallenges) studies, daily Git and MD practice, [polyglot studies](https://github.com/EO4wellness/T-I-L/tree/main/polyglot).<br>
 
