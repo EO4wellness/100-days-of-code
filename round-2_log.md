@@ -5,7 +5,7 @@
 # Log:
 Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-☀️ R2D7 2021-03-17: FreeCodeCamp lesson(s).  Read about different CSS techniques on DailyDev<br>
+🌦️ R2D7 2021-03-17: FreeCodeCamp lesson(s).  Read about different CSS techniques on DailyDev<br>
 ☀️ R2D6 2021-03-16: FreeCodeCamp; [Cross Scripting](https://web.dev/strict-csp/); Discovered and read about [Sidekick browser](https://www.meetsidekick.com/) worked on my HTML & CSS project. <br>
 ☀️ R2D5 2021-03-15: FreeCodeCamp, Reading dev articles, worked more on the project, HTML, GIT, MD. and daily language practice. [Concluded Flexbox section of FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-03-15-Flexbox-completion.jpg); Attended online zoom conference abotu AI in education and distance learning.<br>
 🌦️ R2D4 2021-03-14: [FreeCodeCamp Lessons](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Flexbox.md). HTML, GIT, MD, and daily launguage study practice. Lots of HTML and CSS practice today.  Ongoing web design project work. <br>
