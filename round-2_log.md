@@ -6,7 +6,7 @@
 Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 ☀️ R2D10 2021-03-20 [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) CSS/HTML project; DailyDev reading and study of [Python Libraries](https://github.com/EO4wellness/T-I-L/wiki/Python#python-dictionaries) and [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/topics-reading.md). <br>
-🎐 R2D9 2021-03-19: [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) DailyDev Readhing. CSS & HTML studies and project work.  <br>
+🌻 R2D9 2021-03-19: [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) DailyDev Readhing. CSS & HTML studies and project work.  <br>
 ⛅ R2D8 2021-03-18: [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md). DailyDev reading; 555 Consectutive days of language studies with DuoLingo.<br>
 🌦️ R2D7 2021-03-17: FreeCodeCamp lesson(s).  Read about different CSS techniques on DailyDev including [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)<br>
 ☀️ R2D6 2021-03-16: FreeCodeCamp; [Cross Scripting](https://web.dev/strict-csp/); Discovered and read about [Sidekick browser](https://www.meetsidekick.com/) worked on my HTML & CSS project. <br>
