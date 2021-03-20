@@ -3,7 +3,7 @@
 * Round 2 began: March 11, 2021 & concluded: 
 
 # Log:
-Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
+STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 ☀️ R2D10 2021-03-20 [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) CSS/HTML project; DailyDev reading and study of [Python Libraries](https://github.com/EO4wellness/T-I-L/wiki/Python#python-dictionaries) and [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/topics-reading.md). <br>
 🌻 R2D9 2021-03-19: [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) DailyDev Readhing. CSS & HTML studies and project work.  <br>
