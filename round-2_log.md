@@ -5,6 +5,8 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+☀️ R2D13 2021-03-23 [FreeCodeCamp]JavaScript studies, daily MD/Git practice, HTML, CSS, work on the server and DailyDev reading and practice. <br>
+🌦️ R2D12 2021-03-22 FCC Discord Bot creation and tutorial. <br>
 ☀️🌡️ R2D11 2021-03-21 [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md), daily MD/GIT practice, daily HTML/CSS practice.  Working on project. Setting goal to complete basic FreeCode Camp course by the end of this next week, and then working on the projects. <br> 
 ☀️ R2D10 2021-03-20 [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) CSS/HTML project; DailyDev reading and study of [Python Libraries](https://github.com/EO4wellness/T-I-L/wiki/Python#python-dictionaries) and [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/topics-reading.md). <br>
 🌻 R2D9 2021-03-19: [FreeCodeCamp](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) DailyDev Readhing. CSS & HTML studies and project work.  <br>
