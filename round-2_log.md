@@ -5,7 +5,9 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-⛅ R2D17 2021-03-28 Free Code Camp JavaScript Study, Daily.Dev reading, HTML/CSS/MD/GIT practice, working on HTML/CSS projects 🐑 <br> 
+
+🌧️ $2D19 2021-03-29 FreeCodeCamp JavaScript Indexes, Daily.Dev reading video chat with Node.js; HTML/CSS/MD/GIT practice and projects<br>
+⛅ R2D18 2021-03-28 Free Code Camp JavaScript Study, Daily.Dev reading, HTML/CSS/MD/GIT practice, working on HTML/CSS projects 🐑 <br> 
 
 ![FreeCodeCamp-FirstProject-Completed](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/projects-folder/Tribute-Page/images/project-over-view.png)
 
