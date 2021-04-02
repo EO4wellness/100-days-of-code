@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+☀️ R2D23 2021-04-02 freeCodeCamp JavaScript study and project; daily.dev reading; [Flexboy study](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md#my-study), HTML/CSS/MD/Git, OpenMind study<br> 
 🌤️ R2D22 2021-04-01 freeCodeCamp JavaScript studies; daily.dev reading, Flexbox study, HTML/CSS/MD/Git, big data study<br> 
 🌧️ R2D21 2021-03-31 freeCodeCamp JavaScript studies; daily.dev reading, [What the Flexbox study](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md); HTML/CSS/MD/Git.<br>
 🌧️ R2D20 2021-03-30 Multi-Dimensional Arrays With Indexes; PHP git breach and security related; <br>
