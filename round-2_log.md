@@ -6,6 +6,7 @@
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 
+R2D26 2021-04-04 want to read:https://dev.to/axlyaguana11/concepts-you-need-to-know-if-you-are-a-javascript-beginner-5am0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email<br> 
 ☀️ R2D25 2021-04-04 freeCodeCamp JavaScript study and project work; daily.dev reading; HTML/CSS/MD/Git, OpenMind study<br> 
 ☀️ R2D24 2021-04-03 freeCodeCamp JavaScript study and project; daily.dev reading; [Flexbox study](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md#my-study), HTML/CSS/MD/Git, OpenMind study<br> 
 ☀️ R2D23 2021-04-02 freeCodeCamp JavaScript study and project; daily.dev reading; [Flexbox study](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md#my-study), HTML/CSS/MD/Git, OpenMind study<br> 
