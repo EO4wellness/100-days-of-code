@@ -5,6 +5,9 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+
+🌦️ R2D31 2021-04-10 freeCodeCamp JavaScript study and project work; daily.dev reading; HTML/CSS/MD/Git, OpenMind study<br>
+🌦️ R2D30 2021-04-09 freeCodeCamp JavaScript study and project work; daily.dev reading; HTML/CSS/MD/Git, OpenMind study<br>
 🌦️ R2D29 2021-04-08 freeCodeCamp JavaScript study and project work; daily.dev reading; HTML/CSS/MD/Git, OpenMind study<br>
 🌤️ R2D28 2021-04-07 freeCodeCamp JavaScript study and project work; daily.dev reading; HTML/CSS/MD/Git, OpenMind study<br> 
 🌤️ R2D27 2021-04-06 freeCodeCamp JavaScript study and project work; daily.dev reading; HTML/CSS/MD/Git, OpenMind study<br> 
