@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌧️ R2D35 2021-04-14 [Cleaning Images](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) and the coordinating [Paper](https://ieeexplore.ieee.org/document/9288928); Daily.Dev article reading; HTML, CSS, JS, MD, Git practice; FreeCodeCampe, Cousera, and SoloLearn studies; Attended the Founder Institute UN SG webinar.<br>
 🌤️ R2D34 2021-04-13 InDesign, HTML, CSS, JS, MD, Git practice; Daily.Dev reading; FreeCodeCampe, Cousera, and SoloLearn studies;<br>
 ☀️ R2D33 2021-04-12 [SoloLearn Certification](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/ResonsiveWebDesign.md); freeCodeCamp JavaScript work; daily.dev; daily css/html/js/md/git practice <br>
 ☀️♨️ R2D32 2021-04-11 freeCodeCamp JavaScript, sololearn, community questions@sololearn; daily.dev reading; css/html/md/git practice<br>
