@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌥️ R2D36 2021-04-15 Read about various research, [papers](https://arxiv.org/pdf/2104.03902.pdf), current science theory looking into [autodidactic algorithms](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/) and [Autodiadactic Neurosurgeons](https://arxiv.org/abs/2102.02638) type concepts-the links here are just a sample of this; SoloLearn lessons and challenges; FreeCodeCamp lessons and project work. Database/server skills practice. <br> 
 🌧️ R2D35 2021-04-14 [Cleaning Images](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) and the coordinating [Paper](https://ieeexplore.ieee.org/document/9288928); Daily.Dev article reading; HTML, CSS, JS, MD, Git practice; FreeCodeCampe, Cousera, and SoloLearn studies; Attended the Founder Institute UN SG webinar.<br>
 🌤️ R2D34 2021-04-13 InDesign, HTML, CSS, JS, MD, Git practice; Daily.Dev reading; FreeCodeCampe, Cousera, and SoloLearn studies;<br>
 ☀️ R2D33 2021-04-12 [SoloLearn Certification](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/ResonsiveWebDesign.md); freeCodeCamp JavaScript work; daily.dev; daily css/html/js/md/git practice <br>
