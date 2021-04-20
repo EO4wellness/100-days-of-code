@@ -7,7 +7,7 @@ STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Lear
 
 ☀️ R2D41 2021-04-20 SoloLearn; freeCodeCamp; [Daily Dev](https://chartscss.org/). <br>
 ☀️ R2D40 2021-04-19 SoloLearn; freeCodeCamp; [Daily Dev](https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h). <br>
-🥶 R2D39 2021-04-18 SoloLearn; freeCodeCamp; Daily Dev. <br>
+🥶 R2D39 2021-04-18 SoloLearn; freeCodeCamp; [Daily Dev](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g). <br>
 🥶 R2D38 2021-04-17 SoloLearn; freeCodeCamp; Daily Dev. <br>
 🌧️ R2D37 2021-04-16 SoloLearn; freeCodeCamp; Daily Dev. <br>
 🌥️ R2D36 2021-04-15 Read about various research, [papers](https://arxiv.org/pdf/2104.03902.pdf), current science theory looking into [autodidactic algorithms](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/) and [Autodiadactic Neurosurgeons](https://arxiv.org/abs/2102.02638) type concepts-the links here are just a sample of this; SoloLearn lessons and challenges; FreeCodeCamp lessons and project work. Database/server skills practice. <br> 
