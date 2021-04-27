@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+☀️ R2D47 2021-04-26 SoloLearn; freeCodeCamp; Daily Dev-[Sudoku in CSS](https://css-tricks.com/generating-and-solving-sudokus-in-css/)|[media-queries & exercises](https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/)|[css/html hamburger](https://unclebigbay.hashnode.dev/building-the-world-simplest-hamburger-with-html-and-css)
 ☀️ R2D46 2021-04-25 SoloLearn; freeCodeCamp; [Daily Dev](https://pythonawesome.com/github-self-hosted-runner-matrix-build-visualizations-for-kubernetes/)<br>
 ⛅ R2D45 2021-04-24 SoloLearn; freeCodeCamp; [Daily Dev](https://www.geeksforgeeks.org/7-tips-to-improve-javascript-performance/)<br>
 🌧️ R2D44 2021-04-23 SoloLearn; freeCodeCamp; [Daily Dev](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/); [GitLab studies](https://gitlab.edcast.com/); [LinkedIn Studies](https://www.linkedin.com/learning/wordpress-internationalization/welcome); [Registered for TestProject.io](https://app.testproject.io); [google elevate](https://www.youtube.com/watch?v=F1J8bDKVTQ4)<br>
