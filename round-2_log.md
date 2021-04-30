@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+☁️ R2D51 2021-04-30 Sololearn; freeCodeCamp; Daily Dev readings. Did a number of challenges and lessons in SoloLearn.<br>
 ⛈️ R2D50 2021-04-29 SoloLearn; freeCodeCamp; Daily Dev Readings<br> 
 ☁️ R2D49 2021-04-28 Sololearn; freeCodeCamp; Daily Dev readings. Did a number of challenges and lessons in SoloLearn.<br>
 🌕 R2D48 2021-04-27 SoloLearn; freeCodeCamp; Daily Dev Readings-[CSS Scroll Bar Tutorial](https://www.freecodecamp.org/news/css-scrollbar-tutorial/) | [Organizing CSS](https://rehansaeed.com/system-for-grouping-and-sorting-css-properties/)<br>
