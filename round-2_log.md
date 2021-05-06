@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌞 R2D57 2021-05-06 Sololearn; freeCodeCamp, daily dev <br> 
 🌞 R2D56 2021-05-05 SoloLearn; freeCodeCamp, Daily Dev Readings & MD/HTML/CSS practice. Server updates.<br>
 ⛈️ R2D55 2021-05-04 Sololearn, freeCodeCamp, daily dev<br>
 👽 may the fourth be with you!  👾 <br>
