@@ -5,7 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-☀️ R2D59 2021-05-08 SoloLearn-[earned Python Basic cert]; freeCodeCamp; Daily.Dev; [JavaScript-DetroidCoding](https://youtu.be/FedwAF8WPfc)<br> 
+☀️ R2D59 2021-05-08 SoloLearn-[earned Python Basic cert](https://www.sololearn.com/certificates/course/en/15619122/1157/landscape/png); freeCodeCamp; Daily.Dev; [JavaScript-DetroidCoding](https://youtu.be/FedwAF8WPfc)<br> 
 ☀️ R2D58 2021-05-07 SoloLearn Python Lists; [freeCodeCamp code challenge](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/01.BasicJavaScript/profile-lookup.js), daily dev reading [What's the best IDE for Python](https://ayushirawat.com/best-ides-for-python) & [Making an extension for Google](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1) <br> 
 🌞 R2D57 2021-05-06 Sololearn; freeCodeCamp, daily dev, wrote simple [BMI calculator](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/code-scripts/BMI-Calculator.py) <br> 
 🌞 R2D56 2021-05-05 SoloLearn; freeCodeCamp, Daily Dev Readings & MD/HTML/CSS practice. Server updates.<br>
