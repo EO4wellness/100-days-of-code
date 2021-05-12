@@ -5,8 +5,9 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-🌑 R2D62 2021-05-11 freeCodeCamp [Begin ES6 Studies](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md); SoloLearn; Daily.Dev Reading<br>
-🌑  R2D61 2021-05-10 SoloLearn, Free Code Camp-Finished [Basic JS](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-05-10_FCC_completed-basic-javascript.jpg), Daily Dev [CSS to Avoid](https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553c05131).<br>
+🌑 R2D63 2021-05-12 freeCodeCamp, SoloLearn, daily.dev<br> 
+:newmoon: R2D62 2021-05-11 freeCodeCamp [Begin ES6 Studies](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md); SoloLearn; Daily.Dev Reading<br>
+🌑 R2D61 2021-05-10 SoloLearn, Free Code Camp-Finished [Basic JS](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-05-10_FCC_completed-basic-javascript.jpg), Daily Dev [CSS to Avoid](https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553c05131).<br>
 🌤️ 📺 🛒 🛍️ R2D60 2021-05-09 SoloLearn, Free Code Camp, [Daily Dev-Git Command Summary](https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus).<br>
 ☀️ R2D59 2021-05-08 SoloLearn-[earned Python Basic cert](https://www.sololearn.com/certificates/course/en/15619122/1157/landscape/png); freeCodeCamp; Daily.Dev; [JavaScript-DetroidCoding](https://youtu.be/FedwAF8WPfc)<br> 
 ☀️ R2D58 2021-05-07 SoloLearn Python Lists; [freeCodeCamp code challenge](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/01.BasicJavaScript/profile-lookup.js), daily dev reading [What's the best IDE for Python](https://ayushirawat.com/best-ides-for-python) & [Making an extension for Google](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1) <br> 
