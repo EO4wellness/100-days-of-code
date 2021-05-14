@@ -6,7 +6,7 @@
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 
-🌙R2D64 2021-05-13 freeCodeCamp, SoloLearn, Daily.dev [OpenSource](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac) and [JavaScript](https://lexitarblog.hashnode.dev/what-to-learn-before-a-javascript-framework-in-2021)<br>
+🌙 ⭐ 🛒 R2D64 2021-05-13 freeCodeCamp, SoloLearn, Daily.dev [OpenSource](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac) and [JavaScript](https://lexitarblog.hashnode.dev/what-to-learn-before-a-javascript-framework-in-2021)<br>
 🌑R2D63 2021-05-12 freeCodeCamp, SoloLearn, daily.dev<br> 
 🌑R2D62 2021-05-11 freeCodeCamp [Begin ES6 Studies](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md); SoloLearn; Daily.Dev Reading<br>
 🌑 R2D61 2021-05-10 SoloLearn, Free Code Camp-Finished [Basic JS](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-05-10_FCC_completed-basic-javascript.jpg), Daily Dev [CSS to Avoid](https://betterprogramming.pub/5-css-practices-to-avoid-as-a-web-developer-1b7553c05131).<br>
