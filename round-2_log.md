@@ -5,7 +5,10 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-R2D65 2022-05-14 Udacity course, SoloLearn, freeCodeCamp, dailydev<br>
+
+⛈️ R2D67 2021-05-16 freeCodeCamp; [Sololearn](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-05-16-CSS-completed-Unit.jpg), Daily.dev [Ugly JS](https://javascript.plainenglish.io/how-to-make-your-js-fetch-not-look-so-ugly-f45c89f8bc3a) <br>
+⛅ R2D66 2021-05-15 freeCodeCamp; Sololearn; Daily.dev [GitVideos](https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories)<br>
+☀️ R2D65 2021-05-14 Udacity course, SoloLearn, freeCodeCamp, dailydev<br>
 🌙 ⭐ 🛒 R2D64 2021-05-13 freeCodeCamp, SoloLearn, Daily.dev [OpenSource](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac) and [JavaScript](https://lexitarblog.hashnode.dev/what-to-learn-before-a-javascript-framework-in-2021)<br>
 🌑R2D63 2021-05-12 freeCodeCamp, SoloLearn, daily.dev<br> 
 🌑R2D62 2021-05-11 freeCodeCamp [Begin ES6 Studies](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md); SoloLearn; Daily.Dev Reading<br>
