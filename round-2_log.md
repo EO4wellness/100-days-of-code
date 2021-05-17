@@ -5,7 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-
+🌧️ R2D68 2021-05-17 freeCodeCamp; SoloLearn CSS; Daily.Dev [JS](https://javascript.plainenglish.io/client-side-rendering-vs-server-side-rendering-1e4b1fabba01)<br>
 ⛈️ R2D67 2021-05-16 freeCodeCamp; [Sololearn](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-05-16-CSS-completed-Unit.jpg), Daily.dev [Ugly JS](https://javascript.plainenglish.io/how-to-make-your-js-fetch-not-look-so-ugly-f45c89f8bc3a); [Udacity: ML](https://www.brainscape.com/flashcards/lesson-4-machine-learning-10093752/packs/17974857) <br>
 ⛅ R2D66 2021-05-15 freeCodeCamp; Sololearn; Daily.dev [GitVideos](https://thenextweb.com/news/github-now-lets-developers-upload-videos-to-their-repositories)<br>
 ☀️ R2D65 2021-05-14 Udacity course, SoloLearn, freeCodeCamp, dailydev<br>
