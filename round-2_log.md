@@ -5,8 +5,9 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-🌒 R2D722021-05-21
-😎🌙 🍰 R2D70 2021-05-20 freeCodeCamp; SoloLearn JS; Daily.dev, Udacity, [Learned about and signed up for Scrimba](https://scrimba.com/allcourses)<br>
+⛈️ R2D73 2021-05-22 freeCodeCamp ES6 and some review; SoloLearn JS; Daily.dev: [Linus Switch](https://opensource.com/article/21/5/switch-to-linux) | [Serverless java](https://dzone.com/articles/what-is-serverless-with-java) | [Trending New Apps-great UI/UX research](https://www.androidpolice.com/2021/05/22/10-new-and-notable-android-apps-from-the-last-two-weeks-including-mopria-print-service-clubhouse-and-tuned-5-8-21-5-22-21/) | [Git Teams](https://www.c-sharpcorner.com/article/lets-know-about-team-in-github-in-details/); Udacity ML <br>
+🌙 R2D72 2021-05-21 freeCodeCamp ES6; SoloLearn JS; Daily.dev, <br>
+😎🌙 🍰 R2D71 2021-05-20 freeCodeCamp; SoloLearn JS; Daily.dev, Udacity, [Learned about and signed up for Scrimba](https://scrimba.com/allcourses)<br>
 ⛈️ 🌈 📡 R2D70 2021-05-19 freeCodeCamp; SoloLearn JS; Daily.dev, Udacity ML<br>
 ⛈️ 📡R2D69 2021-05-18 freeCodeCamp; Sololearn [CSS](https://www.sololearn.com/Certificate/1023-15619122/jpg); Daily.dev [Nocturnal Coding](https://mr-unity-buddy.hashnode.dev/why-developers-love-to-code-at-night); [Udacity ML](https://www.brainscape.com/flashcards/lesson-4-machine-learning-10093752/packs/17974857); [CSS Psuedo-Elements](https://css-tricks.com/almanac/selectors/f/first-letter/), [VLC-Windows Bug](https://www.videolan.org/vlc/releases/3.0.12-update.html) and [Can I Use](https://caniuse.com/)<br>
 🌧️ ⭐ 🛒 R2D68 2021-05-17 freeCodeCamp; SoloLearn CSS; Daily.Dev [JS](https://javascript.plainenglish.io/client-side-rendering-vs-server-side-rendering-1e4b1fabba01)<br>
