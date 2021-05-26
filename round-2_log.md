@@ -6,7 +6,7 @@
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 
-⛈️ R2D77 2021-05-26 freeCodeCamp Es6; Sololearn; daily.dev<br>
+⛈️ Full Moon, Eclipse R2D77 2021-05-26 freeCodeCamp Es6; Sololearn; daily.dev<br>
 ⛈️ R2D76 2021-05-25 freeCodeCamp Es6; Sololearn; daily.dev<br>
 ⛈️ R2D75 2021-05-24 freeCodeCamp Es6; Sololearn; daily.dev<br>
 ⛈️ R2D74 2021-05-23 freeCodeCamp Es6; Sololearn; daily.dev<br>
