@@ -5,6 +5,11 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+
+⛈️ R2D77 2021-05-26 freeCodeCamp Es6; Sololearn; daily.dev<br>
+⛈️ R2D76 2021-05-25 freeCodeCamp Es6; Sololearn; daily.dev<br>
+⛈️ R2D75 2021-05-24 freeCodeCamp Es6; Sololearn; daily.dev<br>
+⛈️ R2D74 2021-05-23 freeCodeCamp Es6; Sololearn; daily.dev<br>
 ⛈️ R2D73 2021-05-22 freeCodeCamp ES6 and some review; SoloLearn JS; Daily.dev: [Linus Switch](https://opensource.com/article/21/5/switch-to-linux) | [Serverless java](https://dzone.com/articles/what-is-serverless-with-java) | [Trending New Apps-great UI/UX research](https://www.androidpolice.com/2021/05/22/10-new-and-notable-android-apps-from-the-last-two-weeks-including-mopria-print-service-clubhouse-and-tuned-5-8-21-5-22-21/) | [Git Teams](https://www.c-sharpcorner.com/article/lets-know-about-team-in-github-in-details/); Udacity ML <br>
 🌙 R2D72 2021-05-21 freeCodeCamp ES6; SoloLearn JS; Daily.dev, <br>
 😎🌙 🍰 R2D71 2021-05-20 freeCodeCamp; SoloLearn JS; Daily.dev, Udacity, [Learned about and signed up for Scrimba](https://scrimba.com/allcourses)<br>
