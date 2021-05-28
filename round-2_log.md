@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌡️ R2D79 2021-05-28 freeCodeCamp ES6; Sololearn JS-Python-Machine-Learning lessons and a few challenges; daily.dev [Word Press focus](https://github.com/EO4wellness/T-I-L/blob/main/WordPress/readme.md), server maintenance-backend</br>
 🌕 R2D78 2021-05-27 freeCodeCamp Es6; Sololearn; daily.dev-[architecture](https://tsh.io/blog/how-to-document-your-architecture/) | [UML](https://www.uml.org/what-is-uml.htm) and [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) | [VS Code for Frontend](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/)<br>
 ⛈️ 🌕 Eclipse R2D77 2021-05-26 freeCodeCamp Es6; Sololearn; daily.dev<br>
 ⛈️ R2D76 2021-05-25 freeCodeCamp Es6; Sololearn; daily.dev<br>
