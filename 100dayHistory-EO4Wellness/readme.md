@@ -17,4 +17,5 @@
 * My "Heat Map" on GitHub was nonexistant when I started. 
 * My GitHub "Heat Map" is more or less consistent since Round 1. 
 * Likewise, my Heat Map on several other sites is now also consistent. see: [freeCodeCamp profile example](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9) and [daily.dev profile](https://app.daily.dev/EO4Wellness)
-* I'm not consistent with posting to Twitter.  I'm okay with that.  Not every platform conects with every one's time/interests. 
+* I'm not consistent with posting to [Twitter](https://twitter.com/eo4wellness?lang=en).  I'm okay with that.  Not every platform conects with every one's time/interests. 
+* Likewise, I haven't yet got into [StackOverflow](https://stackoverflow.com/users/15595310/eo4wellness) though I hear I likely will in a few more rounds of this daily coding...
