@@ -12,7 +12,7 @@
 
 ## Lessons Learned
 * When I began, I didn't consistently log, though I consistently coded. 
-* Logging is now getting easier. 
+* Logging is now getting easier for me, as is debugging. 
 * When I began I didn't know what a GitHub Heat Map was. 
 * My "Heat Map" on GitHub was nonexistant when I started. 
 * My GitHub "Heat Map" is more or less consistent since Round 1. 
@@ -20,3 +20,5 @@
 * I'm not consistent with posting to [Twitter](https://twitter.com/eo4wellness?lang=en).  I'm okay with that.  Not every platform conects with every one's time/interests. 
 * Likewise, I haven't yet got into [StackOverflow](https://stackoverflow.com/users/15595310/eo4wellness) though I hear I likely will in a few more rounds of this daily coding...
 * Participation and interaction increases with more experience and exposure to coding. Learning wise, you get back proportionally to what you put in, effort wise. 
+* Taking notes is of VALUE, even if I never consult them again (sometimes I do) because it helps me to focus my thoughts AND I know where to find them again if I need a reference. 
+* more...
