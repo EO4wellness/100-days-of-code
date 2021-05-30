@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌬️ R2D81 2021-04-30 began freeCodeCamp [RegEx](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) and quickly discovered I frequently mistype "text" instead of "test"--have to be careful about that one!  SoloLearn, Dail.Dav reading<br> 
 ⛈️ R2D80 2021-05-29 [finished freeCodeCamp ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-05-29-FCC_completed-JS-ES6-study-section.jpg); Sololearn; daily.dev [JS Article](https://stackabuse.com/javascript-how-to-redirect-to-another-webpage/)<br> 
 🌡️ R2D79 2021-05-28 freeCodeCamp ES6; Sololearn JS-Python-Machine-Learning lessons and a few challenges; daily.dev [Word Press focus](https://github.com/EO4wellness/T-I-L/blob/main/WordPress/readme.md), server maintenance-backend; signed up for [AWS Udacity Scholarship](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Images/2021-05-28-applied-for-AWS-scholarship.jpg); began [Udemy course](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Udemy/Building%20Recommender%20Systems%20with%20ML%20and%20AI/readme.md)</br>
 🌕 R2D78 2021-05-27 freeCodeCamp Es6; Sololearn; daily.dev-[architecture](https://tsh.io/blog/how-to-document-your-architecture/) | [UML](https://www.uml.org/what-is-uml.htm) and [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) | [VS Code for Frontend](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/)<br>
