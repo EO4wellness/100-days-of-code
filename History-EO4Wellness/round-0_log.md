@@ -4,3 +4,4 @@ Since then I've been coding and/or learning about coding every day since then an
 
 https://twitter.com/EO4wellness/status/1212414652388380672
 
+![original-tweet](https://github.com/EO4wellness/T-I-L/blob/main/Images/100DaysOfCode_getting-started.jpg)
