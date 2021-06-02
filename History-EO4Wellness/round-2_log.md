@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌡️ 🌗 R2D84 2021-06-02 freeCodeCamp RegEx; Sololearn DataStructures and challenges; daily dev; posted idea for what to work on next in Round 3 (when I get there, if I've concluded my other studies by then)<br>
 😎 R2D83 2021-06-01 start coding 📖, freeCodeCampe RegEx; Sololearn Data Structures; daily.dev<br>
 🌻 R2D82 2021-05-31 freeCodeCamp RegEx; Sololearn level 11 & HTML challenge badge; daily.dev<br>
 🌬️ R2D81 2021-05-30 began freeCodeCamp [RegEx](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) and quickly discovered I frequently mistype "text" instead of "test"--have to be careful about that one!  SoloLearn, Dail.Dav reading<br> 
