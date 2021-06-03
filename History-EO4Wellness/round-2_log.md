@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+⛈️ so much rain it seems like we need Noah's Ark (yes, that's a joke).  R2D85 2021-06-03 Daily.Dev: [How to find and Remove Dead CSS](https://blog.testdouble.com/talks/2021-06-03-how-to-find-and-remove-dead-css/) | [A Full Screen Mobile Scanner](https://flutterawesome.com/a-full-screen-mobile-scanner-for-scanning-qr-code-and-bar-code/); LeetCdoe checkin&contest read; freeCodeCamp RegEx; Sololearn Data Structures & Challenges<br> 
 🌡️ 🌗 R2D84 2021-06-02 freeCodeCamp RegEx; Sololearn DataStructures and challenges; daily dev; posted idea for what to work on next in Round 3 (when I get there, if I've concluded my other studies by then); [Package Manager](https://github.com/EO4wellness/T-I-L/blob/main/automation/README.md#package-managers) discovery; time reading and looking into how to write [one line of code](https://www.sololearn.com/Discuss/2802441/learning-python-one-line-of-code-vs-many) instead of 20 or something like that!  <br>
 😎 R2D83 2021-06-01 start coding 📖, freeCodeCampe RegEx; Sololearn Data Structures; daily.dev<br>
 🌻 R2D82 2021-05-31 freeCodeCamp RegEx; Sololearn level 11 & HTML challenge badge; daily.dev<br>
