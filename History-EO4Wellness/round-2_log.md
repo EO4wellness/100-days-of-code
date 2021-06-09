@@ -6,7 +6,9 @@
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 [Udacity: SUSE](https://www.suse.com/download/)
-😎🌙 R2D91 2021-06-09 [Udacity: SUSE](#); [freecodecamp](#); [Sololearn](#) and challenges; Daily.Dev<br>
+
+
+😎🌙 R2D91 2021-06-09 [Udacity: SUSE](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/log.md#day-3-june-9-2021) Lesson 2:1-11; [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt); [Sololearn](https://www.sololearn.com/learning/1024); Attended [AnacondaCON2021](https://gateway.on24.com/wcc/eh/2336732/anacondacon-2021) and challenges; Daily.Dev<br>
 🌡️ R2D90 2021-06-08 [Udacity: SUSE](https://github.com/UdacityScholars/SUSA-scholarship/blob/main/links.md); [freecodecamp](#); [Sololearn](#) and challenges; Daily.Dev: [Design Patterns in JavaScript](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345)<br>
 🌡️ R2D89 2021-06-07 [Udacity: SUSE](#); [freecodecamp](#); [Sololearn](#) and challenges; Daily.Dev: [Awesome Javascript one-liners](https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/)<br>
 🌡️ R2D88 2021-06-06 [freecodecamp](#); [Sololearn](#) and challenges;<br>
