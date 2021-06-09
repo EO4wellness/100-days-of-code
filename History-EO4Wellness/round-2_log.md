@@ -6,7 +6,7 @@
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
 [Udacity: SUSE](https://www.suse.com/download/)
-
+😎🌙 R2D91 2021-06-09 [Udacity: SUSE](#); [freecodecamp](#); [Sololearn](#) and challenges; Daily.Dev<br>
 🌡️ R2D90 2021-06-08 [Udacity: SUSE](https://github.com/UdacityScholars/SUSA-scholarship/blob/main/links.md); [freecodecamp](#); [Sololearn](#) and challenges; Daily.Dev: [Design Patterns in JavaScript](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345)<br>
 🌡️ R2D89 2021-06-07 [Udacity: SUSE](#); [freecodecamp](#); [Sololearn](#) and challenges; Daily.Dev: [Awesome Javascript one-liners](https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/)<br>
 🌡️ R2D88 2021-06-06 [freecodecamp](#); [Sololearn](#) and challenges;<br>
