@@ -5,9 +5,9 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-[Udacity: SUSE](https://www.suse.com/download/)
-
- R2D94 2021-06-12 Udacity SUSE
+:sunshine: R2D96 2021-06-14 [Udacity: SUSE](https://www.suse.com/download/), Udacity SUSE, fcc, sololearn, daily.dev<br>
+:sunshine: R2D95 2021-06-13 Udacity SUSE, fcc, sololearn, daily.dev <br>
+:sunshine: R2D94 2021-06-12 Udacity SUSE, fcc, sololearn, daily.dev <br>
 🌑 R2D93 2021-06-11 Udacity SUSE 3.2 Transitions from VMs to Containers; FreeCodeCamp; Sololearn lessons and challenges; daily.dev reading [1: JS Promises](https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/) | [2: Architecture Skills](https://levelup.gitconnected.com/how-to-improve-software-architecture-skills-daily-6f362d4e6493) | [3: Recommends](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)<br>
 🌑 R2D92 2021-06-10 Udacity SUSE [Forked Course Repo](https://github.com/EO4wellness/nd064_course_1)<br>
 😎🌙 R2D91 2021-06-09 [Udacity: SUSE](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/log.md#day-3-june-9-2021) Lesson 2:1-11; [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt); [Sololearn](https://www.sololearn.com/learning/1024); Attended [AnacondaCON2021](https://gateway.on24.com/wcc/eh/2336732/anacondacon-2021) and challenges; Daily.Dev [30 free books for Developers](https://dev.to/pascavld/30-free-ebooks-for-all-developers-30pf) and [Accessibility Checklist](https://dev.to/eevajonnapanula/don-t-develop-just-for-yourself-a-developer-s-checklist-to-accessibility-545k) and [Developer Toolkit](https://dev.to/rohitrana/the-10-most-important-web-developer-resources-you-need-to-know-7n9)<br>
