@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+:sunshine: R2D97 2021-06-14 SUSE, regex fcc, js SoloLearn,  daily.dev<br>
 :sunshine: R2D96 2021-06-14 [Udacity: SUSE](https://www.suse.com/download/), Udacity SUSE, fcc, sololearn, daily.dev<br>
 :sunshine: R2D95 2021-06-13 Udacity SUSE, fcc, sololearn, daily.dev <br>
 :sunshine: R2D94 2021-06-12 Udacity SUSE, fcc, sololearn, daily.dev <br>
