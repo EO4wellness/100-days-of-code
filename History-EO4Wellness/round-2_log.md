@@ -5,6 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
+🌡️ R2D99 2021-06-17 SUSE lesson 3, regex fcc, js sololearn and challenges, daily.dev reading, lesson 1 of linux (Udacity)<br>
 🚒 🛒 R2D98 2021-06-16 SUSE lesson 3, regex fcc, js sololearn, daily.dev<br>
 🌡️ R2D97 2021-06-15 SUSE, regex fcc, js SoloLearn,  daily.dev<br>
 🌞 R2D96 2021-06-14 [Udacity: SUSE](https://www.suse.com/download/), Udacity SUSE, fcc, sololearn, daily.dev<br>
