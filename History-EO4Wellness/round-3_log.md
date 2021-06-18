@@ -1,6 +1,3 @@
-### Possible Future Round Ideas?
-Potential Future projects realted to this freely-available-online ebook "Grokking Algorithms - An illustrated guide for programmers and other curious people" for my next round (perhaps round 4) when I've concluded the other studies & projects which I'm currently working on... 
-
 # Current Round Details:
 * Log of [T-I-L]((https://github.com/EO4wellness/T-I-L)) and [#100-Days-Of-Code Challenge](https://github.com/EO4wellness/100-days-of-code/)
 * Round 3 began:  June 19, 2021
@@ -17,3 +14,13 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     💪 ```:muscle:``` for weight lifting 
     👟 ```:athletic-shoe:``` for any other type of cardio 
 ```
+
+### Possible Future Round Ideas?
+Potential Future projects realted to this freely-available-online ebook "Grokking Algorithms - An illustrated guide for programmers and other curious people" for my next round (perhaps round 4) when I've concluded the other studies & projects which I'm currently working on... 
+
+### Round History: 
+* began what I call ROUND ZERO during the Bertlesmann Udacity Scholarship challenge. 
+* [round zero](https://github.com/EO4wellness/100-days-of-code/blob/master/History-EO4Wellness/round-0_log.md) was daily git/github/markup/html practice for 100 days, plus my Udacity course work & studies. 
+* [round one](https://github.com/EO4wellness/100-days-of-code/blob/master/History-EO4Wellness/round-1_log.md)
+* [round two](https://github.com/EO4wellness/100-days-of-code/blob/master/History-EO4Wellness/round-2_log.md)
+* [round three](https://github.com/EO4wellness/100-days-of-code/edit/master/History-EO4Wellness/round-3_log.md) (this page) 
