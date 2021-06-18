@@ -9,9 +9,9 @@ Potential Future projects realted to this freely-available-online ebook "Grokkin
 
 # Log:
 STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learning Details. 
-🔑 Key: 
-🚶‍  ```:walking-woman:``` for having walked that day
-🤸‍♀️ ```:woman-cartwheeling:``` for rebounding or jumping on a trampoline 
-🏊 ```:swimmer:``` for swimming 
-💪 ```:muscle:``` for weight lifting 
-👟 ```:athletic-shoe:``` for any other type of cardio 
+    🔑 Key: 
+    🚶‍  ```:walking-woman:``` for having walked that day
+    🤸‍♀️ ```:woman-cartwheeling:``` for rebounding or jumping on a trampoline 
+    🏊 ```:swimmer:``` for swimming 
+    💪 ```:muscle:``` for weight lifting 
+    👟 ```:athletic-shoe:``` for any other type of cardio 
