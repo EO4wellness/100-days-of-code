@@ -5,7 +5,7 @@
 # Log:
 STYLE: Weather Report | Round Number Day of Round Number - Calendar Date |  Learning Details. 
 
-🥇 R2D100 2021-06-18 SUSE lesson 3.16-3.20; [began debug](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd) of the FCC JS course; nearly finished with [Sololearns JS](https://www.sololearn.com/profile/15619122), [daily.dev](https://app.daily.dev/EO4Wellness) reading; intensive server maintenance. <br>
+🥇 R2D100 2021-06-18 SUSE lesson 3.16-3.20; [began debug](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd) of the FCC JS course; nearly finished with [Sololearns JS](https://www.sololearn.com/profile/15619122) with [70 Days](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/SoloLearn-JS-Course/Images/Screenshot_20210618-222706_SoloLearn.jpg) study streak, [daily.dev](https://app.daily.dev/EO4Wellness) reading; intensive server maintenance. <br>
 🌡️ R2D99 2021-06-17 SUSE lesson 3, regex fcc, js sololearn and challenges, daily.dev reading, lesson 1 of linux (Udacity)<br>
 🚒 🛒 R2D98 2021-06-16 SUSE lesson 3, regex fcc, js sololearn, daily.dev<br>
 🌡️ R2D97 2021-06-15 SUSE, regex fcc, js SoloLearn,  daily.dev<br>
