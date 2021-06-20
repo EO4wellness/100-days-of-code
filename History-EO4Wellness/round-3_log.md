@@ -20,7 +20,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
 
 🤸‍♀️💪R3D2: SUSE Lesson 4, FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); sololearn,  [daily.dev Reading: dev tools](https://free-for.dev/#/) 👩‍🍳🥗<br> 
 
-🤸‍♀️🚶‍R3D1: SUSE Finished Lesson 3 today; FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); SoloLearn JavaScript ES6 lessons; Daily.dev reading 👩‍🍳 🥗 <br> 
+🤸‍♀️🚶‍R3D1: SUSE Finished Lesson 3 today; FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); SoloLearn JavaScript ES6 lessons; Daily.dev reading [Transform Hand-drawn sites into HTML tool](https://sketch2code.azurewebsites.net) 👩‍🍳 🥗 <br> 
 
 ### Possible Future Round Ideas?
 Potential Future projects realted to this freely-available-online ebook "Grokking Algorithms - An illustrated guide for programmers and other curious people" for my next round (perhaps round 4) when I've concluded the other studies & projects which I'm currently working on... 
