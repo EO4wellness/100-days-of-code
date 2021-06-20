@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-🤸‍♀️💪R3D2: SUSE Lesson 4, fcc, sololearn,  daily.dev 👩‍🍳🥗<br> 
+🤸‍♀️💪R3D2: SUSE Lesson 4, FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); sololearn,  [daily.dev Reading: dev tools](https://free-for.dev/#/) 👩‍🍳🥗<br> 
 
 🤸‍♀️🚶‍R3D1: SUSE Finished Lesson 3 today; FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); SoloLearn JavaScript ES6 lessons; Daily.dev reading 👩‍🍳 🥗 <br> 
 
