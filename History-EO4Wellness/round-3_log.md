@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-🤸‍♀️💪R3D2: SUSE Lesson 4, FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); sololearn,  [daily.dev Reading: dev tools](https://free-for.dev/#/) | [Free AWS Exam prep](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html); Event - Registration [Google Kubernetes](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-northam-NA1132-onlineevent-er-CloudOnBoardGKE&utm_content=blog) 👩‍🍳🥗<br> 
+🤸‍♀️💪R3D2: SUSE Lesson 4, FreeCodeCamp-[FINISHED: JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); sololearn,  [daily.dev Reading: dev tools](https://free-for.dev/#/) | [Free AWS Exam prep](https://pages.awscloud.com/Globa_traincert_Get_AWS_Certified_Developer_Associate.html); Event - Registration [Google Kubernetes](https://cloudonair.withgoogle.com/events/cloud-onboard-gke?utm_source=google&utm_medium=blog&utm_campaign=FY21-Q2-northam-NA1132-onlineevent-er-CloudOnBoardGKE&utm_content=blog) 👩‍🍳🥗<br> 
 
 🤸‍♀️🚶‍R3D1: SUSE Finished Lesson 3 today; FreeCodeCamp-[JS Debug](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md); SoloLearn JavaScript ES6 lessons; Daily.dev reading [Transform Hand-drawn sites into HTML tool](https://sketch2code.azurewebsites.net); Event: Registration [AnitB]() and Attandance [Anaconda]() 👩‍🍳 🥗 <br> 
 
