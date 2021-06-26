@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-🤸‍♀️ R3D8 6-26-21 fcc, sololearn, daily.dev reading, udacity Python 1.1-2.4 <br>
+🤸‍♀️ R3D8 6-26-21 fcc, sololearn, daily.dev reading: [JS Overview](https://medium.com/geekculture/all-you-need-to-know-about-javascript-143fba311477), udacity Python 1.1-2.4 <br>
 🌕 R3D7 6-25-21 SUSE continued studies of lesson 5 as well as I also read [K3s.IO documentation](http://k3s.io/), [Demystifying OCI](https://www.docker.com/blog/demystifying-open-container-initiative-oci-specifications/) article, [CI/CD](https://faun.pub/build-a-complete-ci-cd-pipeline-and-its-infrastructure-with-aws-jenkins-bitbucket-docker-22c49ad4674a) article, and listened to managing [Kubernetes DB](https://hackernoon.com/the-hackernoon-podcast-managing-databases-on-kubernetes-with-anil-kumar-n1c377u)s podcast, [FCC](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice), Sololearn Python Data study and challenges, Daily.dev reading, enrollment in [Udacity AWS ML Scholarship](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/readme.md) established [LinkedIn Scholar group](https://www.linkedin.com/groups/12545753/). <br>
 🤸‍♀️🧍‍♀️🚶‍R3D6 6-24-21 SUSE studied thru 5.12; FCC pop/shift; Sololearn coding project; daily.dev; reading about Windows11, free-online [PDF tool](https://www.sejda.com/)👩‍🍳 🥗 <br>
 🤸‍♀️🧍‍♀️💪👟🚶‍R3D5 6-23-21 SUSE 5.8; FCC push; Sololearn tuples; daily.dev;👩‍🍳 🥗 🏊‍♀️ <br>
