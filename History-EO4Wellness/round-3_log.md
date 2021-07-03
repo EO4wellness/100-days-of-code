@@ -17,7 +17,9 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     🥗 ```:green_salad:``` for eating veggies
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
-
+🤸‍♀️🧍‍♀️🚶‍ R3D12 7-3-21 Udacity AWS Course Study, fcc, sololearn,  daily.dev👩‍🍳 🥗 <br>
+🤸‍♀️🧍‍♀️🚶‍ R3D12 7-2-21 Udacity AWS Course Study, fcc, sololearn,  daily.dev👩‍🍳 🥗 <br>
+🤸‍♀️🧍‍♀️🚶‍ R3D12 7-1-21 Udacity AWS Course Study, fcc, sololearn,  daily.dev👩‍🍳 🥗 <br>
 🤸‍♀️🧍‍♀️🚶‍ R3D12 6-30-21 Udacity [Lesson 3 Kubernetes](https://classroom.udacity.com/courses/ud615/lessons/7824962412/concepts/81991020800923) and Cloud Native Quiz/Slack Participation, AWS: L2.10-12 and [Lesson 1 Notes](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/lesson1.md); fcc [Iterate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops); [sololearn](https://www.sololearn.com/learning/1082) , Daily.Dev best [Js Practices](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399) 👩‍🍳 🥗 🍄<br>
 🤸‍♀️🧍‍♀️🚶‍ R3D11 6-29-21 Udacity [AWS](https://github.com/EO4wellness/leary-leerie/tree/master/AI-ML-topics/AWS%20Scholarship) studies, Cloud Native participation, and Python studies; fcc spread operator, sololearn jQuery studies, Daily.dev reading [Git Commands](https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5) Youtube: [Orientation for AWS](https://youtu.be/G9LtP9HcNHM), [WordFence Live](https://youtu.be/KV9N_8tbQW8) and [TensorFlow Used Recommenders](https://www.youtube.com/watch?v=BthUPVwA59s)👩‍🍳 🥗 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D10 6-28-21 Udacity [AWS](https://github.com/EO4wellness/leary-leerie/tree/master/AI-ML-topics/AWS%20Scholarship) studies, Cloud Native participation, and Python; fcc, sololearn, Daily.dev reading [Python mini-course](https://realpython.com/courses/python-inner-functions/) 👩‍🍳 🥗 🏊‍♀️ 🍄 <br>
