@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-🤸‍♀️🧍‍♀️🚶‍💪 R3D17 7-5-21 Udacity AWS Course Study L3.1->3.8 deep lens and data visualization as well as Cloud Native Fundamentals Welcome and Lesson 1; FCC finished Data Structures, began next unit; sololearn jQuery;  daily.dev 👩‍🍳 🥗 🍄<br>
+🤸‍♀️🧍‍♀️🚶‍💪 R3D17 7-5-21 Udacity AWS Course Study L3.1->3.8 deep lens and data visualization as well as Cloud Native Fundamentals Welcome and Lesson 1; FCC finished Data Structures, began next unit; sololearn jQuery;  daily.dev [WordPress Freehand Drawing](https://wptavern.com/automattic-releases-sketch-block-for-drawing-in-the-wordpress-editor) | [Email Templates](https://wpmudev.com/blog/web-developer-email-templates/) and [breadcrum nav](https://www.wpbeginner.com/wp-tutorials/how-to-display-breadcrumb-navigation-links-in-wordpress/) 👩‍🍳 🥗 🍄<br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D16 7-4-21 Udacity AWS Course Study completed lesson 2, fcc nearly done with data structures, sololearn jQuery and earned 200th win in HTML challenge today,  daily.dev [security](https://www.geeksforgeeks.org/5-best-cybersecurity-certifications-for-2021/) and [Free APIs](https://devdojo.com/myogeshchavan97/a-curated-list-of-free-apis-for-your-next-project) and [Amazing UI](https://devdojo.com/savio/15-amazing-websites-for-ui-inspirations) 👩‍🍳 🥗 🍄<br>
 🤸‍♀️🧍‍♀️🚶‍ R3D15 7-3-21 Udacity AWS Course Study, fcc, sololearn,  daily.dev 👩‍🍳 🥗 🍄<br>
 🤸‍♀️🧍‍♀️🚶‍ R3D14 7-2-21 Udacity AWS Course Study, fcc, sololearn,  daily.dev👩‍🍳 🥗 🍄<br>
