@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-
+🤸‍♀️🧍‍♀️🚶‍💪 R3D20 7-8-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev [JavaScript Var Let Const Distinctions](https://javascript.plainenglish.io/the-art-of-using-var-let-and-const-d3a819a391a0) Security Article: [Password Spraying](https://auth0.com/blog/what-is-password-spraying-how-to-stop-password-spraying-attacks/), Using [IndexDB with JavaScript](https://blog.openreplay.com/how-to-use-indexdb-to-manage-state-in-javascript) and Delete WP [Plugins](https://torquemag.io/2021/07/uninstall-wordpress-plugins/)  👩‍🍳 🥗 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D19 7-7-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev  👩‍🍳 🥗 🍄 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D18 7-6-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev  🏊 👩‍🍳 🥗 🍄 🚙 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D17 7-5-21 Udacity AWS Course Study L3.1->3.8 deep lens and data visualization as well as Cloud Native Fundamentals Welcome and Lesson 1; FCC finished Data Structures, began next unit; sololearn jQuery;  daily.dev [WordPress Freehand Drawing](https://wptavern.com/automattic-releases-sketch-block-for-drawing-in-the-wordpress-editor) | [Email Templates](https://wpmudev.com/blog/web-developer-email-templates/) and [breadcrum nav](https://www.wpbeginner.com/wp-tutorials/how-to-display-breadcrumb-navigation-links-in-wordpress/) 👩‍🍳 🥗 🍄<br>
