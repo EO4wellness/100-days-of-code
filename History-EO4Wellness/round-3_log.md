@@ -18,6 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
+🤸‍♀️🧍‍♀️🚶‍💪 R3D20 7-8-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev [Create noSQL](https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/) and [Git Commits](https://www.simplethread.com/git-commit-message-101/) 🍳 🥗 🍄 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D20 7-8-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev [JavaScript Var Let Const Distinctions](https://javascript.plainenglish.io/the-art-of-using-var-let-and-const-d3a819a391a0) Security Article: [Password Spraying](https://auth0.com/blog/what-is-password-spraying-how-to-stop-password-spraying-attacks/), Using [IndexDB with JavaScript](https://blog.openreplay.com/how-to-use-indexdb-to-manage-state-in-javascript) and Delete WP [Plugins](https://torquemag.io/2021/07/uninstall-wordpress-plugins/)  👩‍🍳 🥗 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D19 7-7-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev  👩‍🍳 🥗 🍄 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D18 7-6-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC, sololearn jQuery;  daily.dev  🏊 👩‍🍳 🥗 🍄 🚙 <br>
