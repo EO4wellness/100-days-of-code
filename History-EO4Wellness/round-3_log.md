@@ -18,6 +18,12 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
+
+🤸‍♀️🧍‍♀️🚶‍R3D28 7-16-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br>
+🤸‍♀️🧍‍♀️🚶‍R3D27 7-15-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
+🤸‍♀️🧍‍♀️🚶‍R3D26 7-14-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
+🤸‍♀️🧍‍♀️🚶‍R3D25 7-13-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
+🤸‍♀️🧍‍♀️🚶‍R3D24 7-12-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
 🤸‍♀️🧍‍♀️🚶‍R3D23 7-11-21 AWS ML and SUSE Cloud Native studies, FCC [Object JS](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md), Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
 🤸‍♀️🧍‍♀️🚶‍R3D22 7-10-21 AWS ML and SUSE Cloud Native studies,  FCC [Began Object JS](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md), Sololearn [completed jQuery](https://www.sololearn.com/Certificate/1082-15619122/pdf/) course, daily.dev reading: [Dates in Python](https://code.tutsplus.com/tutorials/how-to-compare-dates-in-php--cms-37161) | [Pose](https://towardsdatascience.com/the-machine-learning-web-pose-and-actions-estimator-3203a0cf5f60) | [GitHub Profiles](https://medium.com/geekculture/how-to-create-a-kick-ass-github-profile-that-attracts-top-tech-jobs-784e618b9048) | [Data Structures](https://rehansattar.hashnode.dev/data-structures-101-ckqxhrk190atccds13zgr0mr0) 👩‍🍳 🥗 🍄 <br>
 🤸‍♀️🧍‍♀️🚶‍💪 R3D21 7-9-21 Udacity AWS Course Study as well as Cloud Native Fundamentals; FCC [finished Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md), sololearn jQuery;  daily.dev [Create noSQL](https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/) and [Git Commits](https://www.simplethread.com/git-commit-message-101/) 🥗 🧑‍🍳 🎥 <br>
