@@ -18,7 +18,8 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-
+🤸‍♀️🧍‍♀️🚶‍R3D30 7-18-21 fcc, sololearn<br>
+🤸‍♀️🧍‍♀️🚶‍R3D29 7-17-21 finished aws ML studies,  fcc, sololearn<br>
 🤸‍♀️🧍‍♀️🚶‍R3D28 7-16-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br>
 🤸‍♀️🧍‍♀️🚶‍R3D27 7-15-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
 🤸‍♀️🧍‍♀️🚶‍R3D26 7-14-21 AWS ML and SUSE Cloud Native studies, FCC, Sololearn course, daily.dev reading 👩‍🍳 🥗 🍄 <br> 
