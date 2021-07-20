@@ -17,7 +17,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     🥗 ```:green_salad:``` for eating veggies
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
-🤸‍♀️🧍‍♀️🚶‍R3D32 7-20-21 fcc, sololearn<br>
+🤸‍♀️🧍‍♀️🚶‍R3D32 7-20-21 fcc, sololearn; investigating the solution to daily.dev broke; studying wp 5.8 changes. looking for webp image converters for improving web development load times. <br>
 🤸‍♀️🧍‍♀️🚶‍R3D31 7-19-21 fcc, sololearn<br>
 🤸‍♀️🧍‍♀️🚶‍R3D30 7-18-21 fcc, sololearn<br>
 🤸‍♀️🧍‍♀️🚶‍R3D29 7-17-21 finished aws ML studies,  fcc, sololearn<br>
