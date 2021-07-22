@@ -18,6 +18,8 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
+ <br>
+🧍‍♀️🚶‍R3D34 7-22-21 FCCm Sololearn, Udacity jQuery, Daily.Dev Reading<br> 
 🤸‍♀️🧍‍♀️🚶‍R3D33 7-21-21 d.r.s b.d., fcc, sololearn, udacity jQuery course, Daily.Dev Reading: [NLP Python](https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/) and PHP [Composer](https://getcomposer.org/) <br>
 🤸‍♀️🧍‍♀️🚶‍R3D32 7-20-21 fcc, sololearn; investigating the solution to daily.dev broke; studying wp 5.8 changes. looking for webp image converters for improving web development load times. <br>
 🤸‍♀️🧍‍♀️🚶‍R3D31 7-19-21 fcc, sololearn<br>
