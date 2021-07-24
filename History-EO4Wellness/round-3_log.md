@@ -17,7 +17,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     🥗 ```:green_salad:``` for eating veggies
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
-
+:walking-woman: R3D36 FCC, Sololearn, Udacity, Daily.dev reading <br>
 :bed: R3D35 7-23-21 FFC, SoloLearn, Udacity, Daily Dev Reading.  <br>
 🧍‍♀️🚶‍R3D34 7-22-21 FCCm Sololearn, Udacity jQuery, Daily.Dev Reading<br> 
 🤸‍♀️🧍‍♀️🚶‍R3D33 7-21-21 d.r.s b.d., fcc, sololearn, udacity jQuery course, Daily.Dev Reading: [NLP Python](https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/) and PHP [Composer](https://getcomposer.org/) <br>
