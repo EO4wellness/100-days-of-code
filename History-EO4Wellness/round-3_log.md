@@ -17,8 +17,10 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     🥗 ```:green_salad:``` for eating veggies
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
-:walking-woman: R3D36 FCC, Sololearn, Udacity, Daily.dev reading <br>
-:bed: R3D35 7-23-21 FFC, SoloLearn, Udacity, Daily Dev Reading.  <br>
+
+🚶‍♀️ R3D37 7-25-21 FCC, Sololearn (HTML for Marketing, GO course), Udacity, Daily.dev reading [Unit Test](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83) | [Dev Ops](https://www.pcloudy.com/blogs/unravelling-the-best-practices-for-devops-testing-strategy/) | [Python 202](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881) <br>
+🚶‍♀️ R3D36 7-24-21 FCC, Sololearn, Udacity, Daily.dev reading <br>
+🛏️ R3D35 7-23-21 FFC, SoloLearn, Udacity, Daily Dev Reading.  <br>
 🧍‍♀️🚶‍R3D34 7-22-21 FCCm Sololearn, Udacity jQuery, Daily.Dev Reading<br> 
 🤸‍♀️🧍‍♀️🚶‍R3D33 7-21-21 d.r.s b.d., fcc, sololearn, udacity jQuery course, Daily.Dev Reading: [NLP Python](https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/) and PHP [Composer](https://getcomposer.org/) <br>
 🤸‍♀️🧍‍♀️🚶‍R3D32 7-20-21 fcc, sololearn; investigating the solution to daily.dev broke; studying wp 5.8 changes. looking for webp image converters for improving web development load times. <br>
