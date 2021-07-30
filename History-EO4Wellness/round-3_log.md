@@ -18,7 +18,9 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
-
+🚶‍♀️ R3D43 7-31-21 FCC [](); SoloLearn; Udacity; Daily.dev reading <br> 
+🚶‍♀️ R3D42 7-28-21 FCC [](); SoloLearn; Udacity; Daily.dev reading <br> 
+🚶‍♀️ R3D41 7-28-21 FCC [](); SoloLearn; Udacity; Daily.dev reading <br> 
 🚶‍♀️ R3D40 7-28-21 FCC [Use a Mixin to Add Common Behavior Between Unrelated Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects), Sololearn [Online Marketers HTML](https://www.sololearn.com/learning/1165), Udacity - Manual check of SUSE course completion, Daily.dev reading<br>
 🚶‍♀️ R3D39 7-27-21 FCC [Override Inherited Methods](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods), Sololearn [Online Marketers HTML](https://www.sololearn.com/learning/1165), Udacity - AWS scholarship, Daily.dev reading<br>
 🚶‍♀️ R3D38 7-26-21 FCC [Add Methods After Inheritance](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance), Sololearn Daily Challenges, Udacity SUSE Lesson 5 review, Daily.dev reading<br>
