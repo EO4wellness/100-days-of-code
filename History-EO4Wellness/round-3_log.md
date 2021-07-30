@@ -19,16 +19,14 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
 ```
 
 
-🚶‍♀️ R3D42 7-30-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
-🚶‍♀️ R3D41 7-29-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
-🚶‍♀️ R3D40 7-28-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
-🚶‍♀️ R3D39 7-27-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
-🚶‍♀️ R3D38 7-26-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
-🚶‍♀️ R3D37 7-25-21 FCC, Sololearn (HTML for Marketing, GO course), Udacity, Daily.dev reading [Unit Test](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83) | [Dev Ops](https://www.pcloudy.com/blogs/unravelling-the-best-practices-for-devops-testing-strategy/) | [Python 202](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881) <br>
-🚶‍♀️ R3D36 7-24-21 FCC, Sololearn, Udacity, Daily.dev reading <br>
-🛏️ R3D35 7-23-21 FFC, SoloLearn, Udacity, Daily Dev Reading.  <br>
-🧍‍♀️🚶‍R3D34 7-22-21 FCCm Sololearn, Udacity jQuery, Daily.Dev Reading<br> 
-🤸‍♀️🧍‍♀️🚶‍R3D33 7-21-21 d.r.s b.d., fcc, sololearn, udacity jQuery course, Daily.Dev Reading: [NLP Python](https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/) and PHP [Composer](https://getcomposer.org/) <br>
+🚶‍♀️ R3D40 7-28-21 FCC [Use a Mixin to Add Common Behavior Between Unrelated Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects), Sololearn [Online Marketers HTML](https://www.sololearn.com/learning/1165), Udacity - Manual check of SUSE course completion, Daily.dev reading<br>
+🚶‍♀️ R3D39 7-27-21 FCC [Override Inherited Methods](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods), Sololearn [Online Marketers HTML](https://www.sololearn.com/learning/1165), Udacity - AWS scholarship, Daily.dev reading<br>
+🚶‍♀️ R3D38 7-26-21 FCC [Add Methods After Inheritance](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance), Sololearn Daily Challenges, Udacity SUSE Lesson 5 review, Daily.dev reading<br>
+🚶‍♀️ R3D37 7-25-21 FCC [Reset an Inherited Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property), Sololearn (HTML for Marketing, GO course), Udacity, Daily.dev reading [Unit Test](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83) | [Dev Ops](https://www.pcloudy.com/blogs/unravelling-the-best-practices-for-devops-testing-strategy/) | [Python 202](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881) <br>
+🚶‍♀️ R3D36 7-24-21 FCC [Set the Child's Prototype to an Instance of the Parent](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent), Sololearn, Udacity, Daily.dev reading <br>
+🛏️ R3D35 7-23-21 FFC [Inherit Behaviors from a Supertype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype), SoloLearn, Udacity, Daily Dev Reading.  <br>
+🧍‍♀️🚶‍R3D34 7-22-21 FCC [Use Inheritance So You Don't Repeat Yourself](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself), Sololearn, Udacity jQuery, Daily.Dev Reading<br> 
+🤸‍♀️🧍‍♀️🚶‍R3D33 7-21-21 d.r.s b.d., fcc [Understand the Prototype Chain](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain), sololearn, udacity jQuery course, Daily.Dev Reading: [NLP Python](https://www.analyticsvidhya.com/blog/2021/07/must-know-text-operations-in-python-before-you-dive-into-nlp/) and PHP [Composer](https://getcomposer.org/) <br>
 🤸‍♀️🧍‍♀️🚶‍R3D32 7-20-21 fcc, sololearn; investigating the solution to daily.dev broke; studying wp 5.8 changes. looking for webp image converters for improving web development load times. <br>
 🤸‍♀️🧍‍♀️🚶‍R3D31 7-19-21 fcc, sololearn<br>
 🤸‍♀️🧍‍♀️🚶‍R3D30 7-18-21 fcc, sololearn<br>
