@@ -18,6 +18,12 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
 ```
 
+
+🚶‍♀️ R3D42 7-30-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
+🚶‍♀️ R3D41 7-29-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
+🚶‍♀️ R3D40 7-28-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
+🚶‍♀️ R3D39 7-27-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
+🚶‍♀️ R3D38 7-26-21 FCC, Sololearn, Udacity, Daily.dev reading<br>
 🚶‍♀️ R3D37 7-25-21 FCC, Sololearn (HTML for Marketing, GO course), Udacity, Daily.dev reading [Unit Test](https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83) | [Dev Ops](https://www.pcloudy.com/blogs/unravelling-the-best-practices-for-devops-testing-strategy/) | [Python 202](https://dev.to/grayhat/python-102-introduction-to-python-intermediate-concepts-1881) <br>
 🚶‍♀️ R3D36 7-24-21 FCC, Sololearn, Udacity, Daily.dev reading <br>
 🛏️ R3D35 7-23-21 FFC, SoloLearn, Udacity, Daily Dev Reading.  <br>
