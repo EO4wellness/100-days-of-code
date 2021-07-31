@@ -19,8 +19,8 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     
 ```
 
-🚶‍♀️ R3D44 8-1-21 FCC [Start Functional Programming Unit](); SoloLearn; Udacity; Daily.dev reading 👩‍🍳 🥗
-🚶‍♀️ R3D43 7-31-21 FCC [Object Oriented prgramming Completed](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md); SoloLearn; Udacity; Daily.dev reading 👩‍🍳 🥗
+🚶‍♀️ R3D44 8-1-21 FCC [Start Functional Programming Unit](); SoloLearn; Udacity; Daily.dev reading 👩‍🍳 🥗<br>
+🚶‍♀️ R3D43 7-31-21 FCC [Object Oriented prgramming Completed](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md); SoloLearn; Udacity Cryptology Lesson 1.4-6; Daily.dev reading [Full Stack Tutorial](https://dev.to/safak/full-stack-netflix-app-7-hours-free-tutorial-1o6l) and [Tensor](https://pythonawesome.com/zero-to-mastery-deep-learning-with-tensorflow/)  👩‍🍳 🥗
 ![FCC Unity End](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-07-31-finished-FCC-ObjectOrientedProgramming.jpg)
 
 <br> 
