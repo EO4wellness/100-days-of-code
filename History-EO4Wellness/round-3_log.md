@@ -19,7 +19,11 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     
 ```
 
-🚶‍♀️ R3D43 7-31-21 FCC [](); SoloLearn; Udacity; Daily.dev reading 👩‍🍳 🥗 <br> 
+🚶‍♀️ R3D44 8-1-21 FCC [Start Functional Programming Unit](); SoloLearn; Udacity; Daily.dev reading 👩‍🍳 🥗
+🚶‍♀️ R3D43 7-31-21 FCC [Object Oriented prgramming Completed](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md); SoloLearn; Udacity; Daily.dev reading 👩‍🍳 🥗
+![FCC Unity End](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-07-31-finished-FCC-ObjectOrientedProgramming.jpg)
+
+<br> 
 🚶‍♀️ R3D42 7-30-21 FCC [Understand the Immediately Invoked Function Expression (IIFE)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife); SoloLearn [Marketers HTML](https://www.sololearn.com/learning/1165) where I'm doing the course and trying to post helpful comments where I feel I can assist based on my experiences with online marketing; Udacity - cryptography course; Daily.dev reading  👩‍🍳 🥗<br> 
 🚶‍♀️ R3D41 7-29-21 FCC [Use Closure to Protect Properties Within an Object from Being Modified Externally](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally); SoloLearn [Marketing HTML](#); Udacity - Applied for Full-Stack Scholarship; Daily.dev reading  👩‍🍳 🥗<br> 
 🚶‍♀️ R3D40 7-28-21 FCC [Use a Mixin to Add Common Behavior Between Unrelated Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects), Sololearn [Online Marketers HTML](https://www.sololearn.com/learning/1165), Udacity - Manual check of SUSE course completion, Daily.dev reading 👩‍🍳 🥗<br>
