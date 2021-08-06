@@ -18,8 +18,9 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-
-
+R3D49 8-6-21 FCC Functional programming lesson, Sololearn marketing, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading<br>
+R3D48 8-6-21 FCC Functional programming lesson, Sololearn marketing, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading<br>
+R3D47 8-4-21 FCC Functional programming lesson, Sololearn marketing, Udacity: cryptography lesson, Kaggle 30 Days,Daily.dev reading<br>
 🚶‍♀️💪 R3D46 8-3-21 FCC; Sololearn;[Kaggle 30 Days of ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md) Day 2. <br> 
 🚶‍♀️💪 R3D45 8-2-21 FCC; Sololearn; taking a brief break from Udacity as I've completed the AWS and SUSE scholarships phase 1, [Kaggle 30 Days of ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day1.md) Day 1. <br> 
 🚶‍♀️ R3D44 8-1-21 FCC [Start Functional Programming Unit: Lesson 1](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md); SoloLearn Quizzes; Udacity: Cryptography, farewells on SUSE challenge; Daily.dev reading; Reviewed emails in prep for [Kaggle 30 days of ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/readme.md) as well as sent out invites for others to join. 👩‍🍳 🥗<br>
