@@ -18,11 +18,16 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶 R3D51 8-8-21 FCC Functional programming lesson, Sololearn marketing course, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading<br>
-🚶 R3D50 8-7-21 FCC Functional programming lesson, Sololearn marketing course, Udacity: Full Stack Fundamentals: Reviewed Lesson 1.1-15 and started repo/notes for course, Kaggle 30 Days: Workingon teaming up and learning python, Daily.dev reading: [Search Algorithms](https://devdojo.com/algonoob/search-algorithms) by Richa [Using NLP for Spam Detection](https://www.analyticsvidhya.com/blog/2021/08/email-spam-detection-a-comparative-analysis-of-4-machine-learning-models/) [Python Discord Code](https://pythonawesome.com/a-code-written-in-python-that-helps-you-to-keep-your-account-24-7/) and Sagar Trimukhe's [Full Stack Guide w/Docker](https://dev.to/sagartrimukhe/complete-guide-to-deploy-a-simple-full-stack-application-in-docker-4lk6) <br>
-🚶 R3D49 8-6-21 FCC Functional programming lesson, Sololearn marketing, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading<br>
-🚶 R3D48 8-6-21 FCC Functional programming lesson, Sololearn marketing, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading<br>
-🚶 R3D47 8-4-21 FCC Functional programming lesson, Sololearn marketing, Udacity: cryptography lesson, Kaggle 30 Days,Daily.dev reading<br>
+
+
+
+
+🚶 R3D51 8-8-21 FCC Functional programming lesson; Sololearn [Completed Marketing Course](https://www.sololearn.com/Certificate/1165-15619122/jpg); 
+🚶 R3D51 8-8-21 FCC Functional programming lesson, Sololearn marketing course, Udacity: Full Stack Fundamentals, Kaggle 30 Days [Finished Python](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Week1-Final.jpg),Daily.dev reading on computer modeling of DNA and other bio-tech realted topics attempting to learn a bit about the current state of biotech. 🥗<br>
+🚶 R3D50 8-7-21 FCC Functional programming lesson, Sololearn marketing course, Udacity: Full Stack Fundamentals: Reviewed Lesson 1.1-15 and started repo/notes for course, Kaggle 30 Days: Workingon teaming up and learning python, Daily.dev reading: [Search Algorithms](https://devdojo.com/algonoob/search-algorithms) by Richa [Using NLP for Spam Detection](https://www.analyticsvidhya.com/blog/2021/08/email-spam-detection-a-comparative-analysis-of-4-machine-learning-models/) [Python Discord Code](https://pythonawesome.com/a-code-written-in-python-that-helps-you-to-keep-your-account-24-7/) and Sagar Trimukhe's [Full Stack Guide w/Docker](https://dev.to/sagartrimukhe/complete-guide-to-deploy-a-simple-full-stack-application-in-docker-4lk6)🥗 <br>
+🚶 R3D49 8-6-21 FCC Functional programming lesson, Sololearn marketing, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading🥗<br>
+🚶 R3D48 8-6-21 FCC Functional programming lesson, Sololearn marketing, Udacity: Full Stack Fundamentals, Kaggle 30 Days,Daily.dev reading🥗<br>
+🚶 R3D47 8-4-21 FCC Functional programming lesson, Sololearn marketing, Udacity: cryptography lesson, Kaggle 30 Days,Daily.dev reading🥗<br>
 🚶‍♀️💪 R3D46 8-3-21 FCC; Sololearn;[Kaggle 30 Days of ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md) Day 2. <br> 
 🚶‍♀️💪 R3D45 8-2-21 FCC; Sololearn; taking a brief break from Udacity as I've completed the AWS and SUSE scholarships phase 1, [Kaggle 30 Days of ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day1.md) Day 1. <br> 
 🚶‍♀️ R3D44 8-1-21 FCC [Start Functional Programming Unit: Lesson 1](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md); SoloLearn Quizzes; Udacity: Cryptography, farewells on SUSE challenge; Daily.dev reading; Reviewed emails in prep for [Kaggle 30 days of ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/readme.md) as well as sent out invites for others to join. 👩‍🍳 🥗<br>
