@@ -20,7 +20,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
 ```
 
 
-R3D54 8-11-21 FCC, Sololearn SQL, Kaggle day 9, dailydev<br>
+R3D54 8-11-21 FCC, Sololearn SQL, Kaggle day 9, dailydev [Colab in VSCode](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)<br>
 R3D53 8-10-21 FCC, Sololearn SQL, Kaggle day 8, daily dev<br>
 🚶 R3D52 8-9-21 FCC Functional programming lesson; Sololearn [Completed Marketing Course](https://www.sololearn.com/Certificate/1165-15619122/jpg); Daily.Dev reading: [Kaggle win?](https://towardsdatascience.com/you-dont-have-to-win-a-kaggle-competition-to-showcase-your-data-science-ability-2852a77b6d8c) and [CSS Units Tutorial](https://dev.to/akramnarejo/how-to-decide-css-units-for-responsive-website-nk4) and [VS Code-Real time conflict detection](https://andrews-blog.hashnode.dev/how-to-enable-real-time-merge-conflict-detection-in-vs-code) <br>
 🚶 R3D51 8-8-21 FCC Functional programming lesson, Sololearn marketing course, Udacity: Full Stack Fundamentals, Kaggle 30 Days [Finished Python](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Week1-Final.jpg),Daily.dev reading on computer modeling of DNA and other bio-tech realted topics attempting to learn a bit about the current state of biotech. 🥗<br>
