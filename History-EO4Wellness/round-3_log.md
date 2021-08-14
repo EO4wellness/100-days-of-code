@@ -18,8 +18,8 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶 R3D57 8-14-21 FCC, Sololearn SQL, Kaggle Exercises, Daily.dev: [Automating Mobile](https://proandroiddev.com/automating-your-android-development-using-github-actions-aad6c6ec9ea2) and free courses and outline [Learning to Code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code)<br>
-🚶 R3D56 8-13-21 FCC, Sololearn SQL, Kaggle reading and exercises, Daily.dev Mentoring for [Developers and Designers](https://blog.jingjinghu.com/free-mentoring-platforms-for-developers-and-designers) and [Python Cheat Sheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)<br>
+🚶 R3D57 8-14-21 FCC, Sololearn SQL, Kaggle Exercises, Daily.dev: [Automating Mobile](https://proandroiddev.com/automating-your-android-development-using-github-actions-aad6c6ec9ea2) and free courses and outline [Learning to Code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code), Udacity Cryptography course; Udemy Photo Shop Coursework <br>
+🚶 R3D56 8-13-21 FCC, Sololearn SQL, Kaggle reading and exercises, Daily.dev Mentoring for [Developers and Designers](https://blog.jingjinghu.com/free-mentoring-platforms-for-developers-and-designers) and [Python Cheat Sheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html); also enrolled in a Udemy [Photoshop Course](https://www.udemy.com/share/103oyy2@PkdgVEtjcFYOekNCAXN1VD1t/) to brush up my graphics design skill set. Udacity Cryptography Course-1 lesson<br>
 🚶 R3D55 8-12-2021 FCC, Sololearn SQL, Kaggle reading, Daily.Dev, found out I earned a seat in Phase2 of Udacity SUSE. <br>
 🚶 R3D54 8-11-21 FCC, Sololearn SQL, Kaggle, dailydev [Colab in VSCode](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)<br>
 🚶 R3D53 8-10-21 FCC, Sololearn SQL, Kaggle, daily dev<br>
