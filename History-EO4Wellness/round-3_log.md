@@ -19,6 +19,9 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     
 ```
 
+
+🚶‍♀️ R3D60 8-17-21 FCC, Sololearn GO, Kaggle Joined Team; Udacity: SUSE project 1 study; Udemy photoshop lesson for graphic design; daily dev:
+🚶‍♀️ R3D59 8-16-21 FCC, Sololearn GO, Kaggle-Day 15 assignement; Udacity: SUSE Phase 2 Welcome & introduction and glimpse at course overview-projects, additional materials available to study; daily dev</br>
 🚶‍♀️ R3D58 8-15-21 FCC, Sololearn GO, [Kaggle](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-12.md) 3rd Submission & began writing a [How To Submit guide to kaggle competitions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Kaggle-Submissions_How-To.md); Udacity cryptography lesson; Udemy photoshop lesson for graphic design; daily dev: [Pytorch Artificial Network](https://www.analyticsvidhya.com/blog/2021/08/build-your-first-artificial-neural-networks-using-pytorch/)<br> 
 🚶 R3D57 8-14-21 FCC, Sololearn SQL, Kaggle Exercises, Daily.dev: [Automating Mobile](https://proandroiddev.com/automating-your-android-development-using-github-actions-aad6c6ec9ea2) and free courses and outline [Learning to Code](https://blog.jingjinghu.com/my-favourite-free-resources-for-learning-how-to-code), Udacity Cryptography course; Udemy Photo Shop Coursework <br>
 🚶 R3D56 8-13-21 FCC, Sololearn SQL, Kaggle reading and exercises, Daily.dev Mentoring for [Developers and Designers](https://blog.jingjinghu.com/free-mentoring-platforms-for-developers-and-designers) and [Python Cheat Sheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html); also enrolled in a Udemy [Photoshop Course](https://www.udemy.com/share/103oyy2@PkdgVEtjcFYOekNCAXN1VD1t/) to brush up my graphics design skill set. Udacity Cryptography Course-1 lesson<br>
