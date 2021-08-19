@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-R3D62 8-19-21 Udacity: Message Passing intro & review of Fundamentals course.<br>
+🚶‍♀️ R3D62 8-19-21 Udacity: Message Passing intro & review of Fundamentals course.<br>
 🚶‍♀️ R3D61 8-18-21 FCC, Sololearn GO, Kaggle finished day 13 assignements, Investingating more about [Helm](https://github.com/EO4wellness/T-I-L/blob/main/HELM/readme.md); Udacity: one new lesson in SUSE phase 2, as well as 1 new lesson in Front End course; Daily.dev reading (mostly on Helm topics today); [SUSE Community Rancher Desktop](https://community.suse.com/posts/summer-is-open) Summer is Open. <br>
 🚶‍♀️ R3D60 8-17-21 FCC, Sololearn GO, Kaggle Joined Team; Udacity: SUSE project 1 study; Udemy photoshop lesson for graphic design; daily.dev reading: [What is Docker](https://www.ibm.com/cloud/learn/docker) and [Code Snippets and Cheat Sheets](https://www.30secondsofcode.org/collections) and [Write CML GO](https://www.educative.io/courses/prof-command-line-programs-go?utm_source=activecampaign&utm_medium=email&utm_campaign=prof-command-line-programs-go&vgo_ee=rJ5R%2FYnXUvXOqv02v9u0Lr9xNL0uPdWKPfefZlVJEEE%3D); Attended:[WHO course](https://openwho.org/courses/anaphylaxis) <br>
 🚶‍♀️ R3D59 8-16-21 FCC, Sololearn GO, Kaggle-Day 15 assignement; Udacity: SUSE Phase 2 Welcome & introduction and glimpse at course overview-projects, additional materials available to study; daily dev</br>
