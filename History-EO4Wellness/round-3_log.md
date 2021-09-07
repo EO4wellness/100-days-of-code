@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶‍♀️ R3D80 9-6-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. <br>
+🚶‍♀️ R3D80 9-7-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. <br>
 🚶‍♀️ R3D80 9-6-21 FCC; Sololearn concluded #GetInDreamCodingShape; DailyDev Reading; Udacity SUSE and other coursework. <br>
 🚶‍♀️ R3D79 9-5-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Attended events: [Troubleshooting k8s](https://github.com/EO4wellness/T-I-L/blob/main/Events/Troubleshooting-K8s.md) and [Grow With Google's UX Design](https://growonair.withgoogle.com/events/explore_ux_design_skills_and_careers/watch?talk=video) webminar.<br>
 🚶‍♀️ R3D78 9-4-21 FCC; Sololearn; [DailyDev Reading](https://app.daily.dev/EO4Wellness); Udacity SUSE and other coursework. <br>
