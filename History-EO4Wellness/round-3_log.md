@@ -18,8 +18,8 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶‍♀️ R3D82 9-9-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Visited SUSE community and interacted.  Woke up too late to join the over-night new SUSE scholarship welcome cast.  Awaiting the recording to view it.  Signed up for a LinkedIn referal and its slack community for upcoming free AWS Cloud certification for women in tech. 
-🚶‍♀️ R3D81 9-8-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Visited SUSE community 
+🚶‍♀️ R3D82 9-9-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Visited SUSE community and interacted.  Woke up too late to join the over-night new SUSE scholarship welcome cast.  Awaiting the recording to view it.  Signed up for a LinkedIn referal and its slack community for upcoming free AWS Cloud certification for women in tech. Participated on the SLACK for the study space. <br>
+🚶‍♀️ R3D81 9-8-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Visited SUSE community involvement. <br>
 🚶‍♀️ R3D80 9-7-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Attended SUSE community [Kubernetes Master Class](https://github.com/EO4wellness/T-I-L/blob/main/Kubernetes/SUSE-master-class.md) lead by Luke Mwila <br>
 🚶‍♀️ R3D80 9-6-21 FCC; Sololearn concluded #GetInDreamCodingShape; DailyDev Reading; Udacity SUSE and other coursework. <br>
 🚶‍♀️ R3D79 9-5-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Attended events: [Troubleshooting k8s](https://github.com/EO4wellness/T-I-L/blob/main/Events/Troubleshooting-K8s.md) and [Grow With Google's UX Design](https://growonair.withgoogle.com/events/explore_ux_design_skills_and_careers/watch?talk=video) webminar.<br>
