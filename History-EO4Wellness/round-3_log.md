@@ -18,7 +18,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶‍♀️ R3D85 9-12-21 FCC Front End; JAVA codegym; sololearn; daily.dev<br> 
+🚶‍♀️ R3D85 9-12-21 FCC Front End; JAVA codegym; sololearn; daily.dev; Attended:  [IntelliJ IDEA by JetBrains Intro](https://www.youtube.com/watch?v=S-7bK2rkvAs) and private SUSE community scholarship intro/welcome. <br> 
 🚶‍♀️ R3D84 9-10-21 FCC started [front end libraries](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd); JAVA codegym; sololearn; daily.dev<br> 
 🚶‍♀️ R3D83 9-9-21 FCC completed [FCC JavaScript cert](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-09-09-earned-FCC-JavaScript-cert.jpg); Began [CodeGym Java](https://github.com/EO4wellness/T-I-L/tree/main/JAVA) studies; Sololearn; DailyDev Reading: [API](https://checkmarx.com/resources/checkmarx-blog/how-api-use-cases-have-evolved-and-what-it-means-for-api-security); Udacity SUSE and other coursework. Visited SUSE community and interacted.  Woke up too late to join the over-night new SUSE scholarship welcome cast.  Awaiting the recording to view it.  Signed up for a LinkedIn referal and its slack community for upcoming free AWS Cloud certification for women in tech. Participated on the SLACK for the study space. <br>
 
