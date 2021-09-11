@@ -18,9 +18,15 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶‍♀️ R3D82 9-9-21 FCC completed [FCC JavaScript cert](); Began [CodeGym Java](https://github.com/EO4wellness/T-I-L/tree/main/JAVA) studies; Sololearn; DailyDev Reading: [API](https://checkmarx.com/resources/checkmarx-blog/how-api-use-cases-have-evolved-and-what-it-means-for-api-security); Udacity SUSE and other coursework. Visited SUSE community and interacted.  Woke up too late to join the over-night new SUSE scholarship welcome cast.  Awaiting the recording to view it.  Signed up for a LinkedIn referal and its slack community for upcoming free AWS Cloud certification for women in tech. Participated on the SLACK for the study space. <br>
-🚶‍♀️ R3D81 9-8-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Visited SUSE community involvement. <br>
-🚶‍♀️ R3D80 9-7-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Attended SUSE community [Kubernetes Master Class](https://github.com/EO4wellness/T-I-L/blob/main/Kubernetes/SUSE-master-class.md) lead by Luke Mwila <br>
+🚶‍♀️ R3D85 9-12-21 FCC Front End; JAVA codegym; sololearn; daily.dev<br> 
+🚶‍♀️ R3D84 9-10-21 FCC started [front end libraries](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd); JAVA codegym; sololearn; daily.dev<br> 
+🚶‍♀️ R3D83 9-9-21 FCC completed [FCC JavaScript cert](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-09-09-earned-FCC-JavaScript-cert.jpg); Began [CodeGym Java](https://github.com/EO4wellness/T-I-L/tree/main/JAVA) studies; Sololearn; DailyDev Reading: [API](https://checkmarx.com/resources/checkmarx-blog/how-api-use-cases-have-evolved-and-what-it-means-for-api-security); Udacity SUSE and other coursework. Visited SUSE community and interacted.  Woke up too late to join the over-night new SUSE scholarship welcome cast.  Awaiting the recording to view it.  Signed up for a LinkedIn referal and its slack community for upcoming free AWS Cloud certification for women in tech. Participated on the SLACK for the study space. <br>
+
+![cert](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-09-09-earned-FCC-JavaScript-cert.jpg)
+
+
+🚶‍♀️ R3D82 9-8-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Visited SUSE community involvement. <br>
+🚶‍♀️ R3D81 9-7-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Attended SUSE community [Kubernetes Master Class](https://github.com/EO4wellness/T-I-L/blob/main/Kubernetes/SUSE-master-class.md) lead by Luke Mwila <br>
 🚶‍♀️ R3D80 9-6-21 FCC; Sololearn concluded #GetInDreamCodingShape; DailyDev Reading; Udacity SUSE and other coursework. <br>
 🚶‍♀️ R3D79 9-5-21 FCC; Sololearn; DailyDev Reading; Udacity SUSE and other coursework. Attended events: [Troubleshooting k8s](https://github.com/EO4wellness/T-I-L/blob/main/Events/Troubleshooting-K8s.md) and [Grow With Google's UX Design](https://growonair.withgoogle.com/events/explore_ux_design_skills_and_careers/watch?talk=video) webminar.<br>
 🚶‍♀️ R3D78 9-4-21 FCC; Sololearn; [DailyDev Reading](https://app.daily.dev/EO4Wellness); Udacity SUSE and other coursework. <br>
