@@ -18,6 +18,9 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
+
+🚶‍♀️ R3D89 R 9-15-21 FCC jQuery;  Sololearn Kotlin; Daily.dev reading; Attended [Day 1](https://www.airmeet.com/event/4aebc710-145e-11ec-97cf-b57e23242888) of #hashnodebootcamp taking [notes]() and wrote outline of today's assignment to write a series, shared materials with group; Joined Luke (who is an amazing and inspired teacher!) with the Introduction to Kubernetes SuSE/Rancher community session!  WoW!  learned a lot!  Luke is such an excellent teacher I think I could re-listen to this presentation dozens of times and still come away with something new. <br> 
+🚶‍♀️ R3D88 R 9-14-21 FCC jQuery;   Sololearn Kotlin; Daily.dev reading <br> 
 🚶‍♀️ R3D87 R 9-13-21 FCC Front End Library studies, Sololearn Kotlin work, Daily.dev including [Dummy Python Data](https://hackernoon.com/how-to-create-dummy-data-in-python-lpn37x1) and ML [unlearning](https://arstechnica.com/information-technology/2021/08/now-that-machines-can-learn-can-they-unlearn/); Attended [Day 1](https://www.airmeet.com/event/4aebc710-145e-11ec-97cf-b57e23242888) of #hashnodebootcamp taking [notes](), joining the bootcamp channel and posting to Discord, writing/sharing/receiving feedback and editing my first blogpost. [Joined Googles Tech Writing](https://developers.google.com/tech-writing) course which was recommended from the #hashnodebootcamp day 1 event; Began a [TIL technical writing](https://github.com/EO4wellness/T-I-L/tree/main/TechWriting) repo <br> 
 🚶‍♀️ R3D86 9-12-21 FCC Front End; JAVA codegym; sololearn; daily.dev;Lots of work on SUSE project for Udacity Nanodegree. <br> 
 🚶‍♀️ R3D85 9-11-21 FCC Front End; JAVA codegym; sololearn; daily.dev; Attended:  [IntelliJ IDEA by JetBrains Intro](https://www.youtube.com/watch?v=S-7bK2rkvAs) and private SUSE community scholarship intro/welcome. <br> 
