@@ -19,7 +19,7 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     
 ```
 
-🚶‍♀️ R3D90 9-17-21 FCC [SASS](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/SASS); Sololearn Completed Kotlin coursework and certification; Daily Dev Reading: [Best Practices Endpoint Design](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/) and [What is Binary Search article](https://www.freecodecamp.org/news/what-is-binary-search/) SUSE scholarship work. Lots of HTML/CSS/Javascript work today.<br>
+🚶‍♀️ R3D90 9-17-21 FCC [Completed SASS](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/Images/2021-09-17-completedFCC-SASS-Unit-Studies.jpg) unity study; Sololearn Completed Kotlin coursework and certification; Daily Dev Reading: [Best Practices Endpoint Design](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/) and [What is Binary Search article](https://www.freecodecamp.org/news/what-is-binary-search/) SUSE scholarship work. Lots of HTML/CSS/Javascript work today.<br>
 
 ![Kotlin-SoloLearn-credential](https://www.sololearn.com/certificates/course/en/15619122/1160/landscape/png)
 
