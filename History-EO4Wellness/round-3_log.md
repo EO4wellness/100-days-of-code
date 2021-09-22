@@ -18,11 +18,11 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
-🚶‍♀️ R3D95 9-22-21 FCC; Sololearn; Daily Dev Reading.
-🚶‍♀️ R3D94 9-21-21 FCC; Sololearn; Daily Dev Reading.
-🚶‍♀️ R3D93 9-20-21 FCC; Sololearn; Daily Dev Reading.
-🚶‍♀️ R3D92 9-19-21 FCC; Sololearn; Daily Dev Reading.
-🚶‍♀️ R3D91 9-18-21 FCC; Sololearn; Daily Dev Reading.
+🚶‍♀️ R3D95 9-22-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D94 9-21-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D93 9-20-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D92 9-19-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D91 9-18-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D90 9-17-21 FCC [Completed SASS](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/Images/2021-09-17-completedFCC-SASS-Unit-Studies.jpg) unity study; Sololearn Completed Kotlin coursework and certification; Daily Dev Reading: [Best Practices Endpoint Design](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/) and [What is Binary Search article](https://www.freecodecamp.org/news/what-is-binary-search/) SUSE scholarship work. Lots of HTML/CSS/Javascript work today.<br>
 
 ![Kotlin-SoloLearn-credential](https://www.sololearn.com/certificates/course/en/15619122/1160/landscape/png)
