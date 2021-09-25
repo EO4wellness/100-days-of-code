@@ -18,6 +18,10 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     👩‍🍳 ```:woman_cook:``` for home-cooked or made meals 
     
 ```
+
+🚶‍♀️ R3D98 9-25-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D97 9-24-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D96 9-23-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D95 9-22-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D94 9-21-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D93 9-20-21 FCC; Sololearn; Daily Dev Reading.<br>
