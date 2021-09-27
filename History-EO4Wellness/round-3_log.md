@@ -19,6 +19,8 @@ STYLE: Exercise Icon | Round Number Day of Round Number - Calendar Date |  Learn
     
 ```
 
+🚶‍♀️ R3D100 9-27-21 FCC; Sololearn; Daily Dev Reading.<br>
+🚶‍♀️ R3D99 9-26-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D98 9-25-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D97 9-24-21 FCC; Sololearn; Daily Dev Reading.<br>
 🚶‍♀️ R3D96 9-23-21 FCC; Sololearn; Daily Dev Reading.<br>
