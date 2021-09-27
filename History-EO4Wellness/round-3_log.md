@@ -1,7 +1,7 @@
 # Current Round Details:
 * Log of [T-I-L]((https://github.com/EO4wellness/T-I-L)) and [#100-Days-Of-Code Challenge](https://github.com/EO4wellness/100-days-of-code/)
 * Round 3 began:  June 19, 2021
-* Round 3 concluded: (ongoing) 
+* Round 3 concluded: September 26, 2021
 * This round I'm included 100 days of exercise in my log....
 
 # Log:
