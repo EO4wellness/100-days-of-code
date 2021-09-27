@@ -5,4 +5,4 @@
 
 
 🎵 R4D2 2021-09-29: <br>
-🎵 R4D1 2021-09-28:  As of the beginning of this round I am currently studying: FrontEnd with FCC; GO with Sololearn; Udacity SUSE NanoDegree while completing the AWS AI Phase 1; Daily.dev reading; <br>
+🎵 R4D1 2021-09-28:  As of the beginning of this round I am currently studying: FrontEnd with FCC; GO with Sololearn; Udacity SUSE NanoDegree while completing the AWS AI Phase 1; Daily.dev reading: [decentralization](https://hackernoon.com/is-decentralisation-even-real); <br>
