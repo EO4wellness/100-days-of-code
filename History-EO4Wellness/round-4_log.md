@@ -4,5 +4,5 @@
 * Round 4 concluded: (ongoing) 
 
 🎵 R4D3 2021-09-30: <br>
-🎵 R4D2 2021-09-29:  FCC React Comments: day 199; Sololearn Go day 170; Daily.Dev Reading. <br>
+🎵 R4D2 2021-09-29:  FCC React Comments: day 199; Sololearn Go (pointers and struc) day 170; Daily.Dev Reading. <br>
 🎵 R4D1 2021-09-28:  As of the beginning of this round I am currently studying: FrontEnd with FCC where I just started learning the "[React](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/React.md)" portion of their studies.; GO with Sololearn; Udacity SUSE NanoDegree while completing the AWS AI Phase 1; Daily.dev reading: [decentralization](https://hackernoon.com/is-decentralisation-even-real); <br>
