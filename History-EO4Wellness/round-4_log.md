@@ -3,6 +3,8 @@
 * Round 4 began:  Sept 28, 2021
 * Round 4 concluded: (ongoing) 
 
+
+🎵 [R4D7]() 2021-10-04 FCC: ; Sololearn; Daily.dev;<br>
 🎵 [R4D6](https://open.spotify.com/track/652slWGolpsuaHh4Ve0yvj?si=0eba72ec80114636) 2021-10-03 FCC: Stateless Functional Component; Sololearn: Range; Daily.dev reading incluiding [Hacktoberfest](https://hulyakarakaya.hashnode.dev/one-more-pr-for-hactoberfest), signed up for and began watching [AI/IOT](https://bosch-connected-world.com/bcw-on/#session-5-udacity) and read about [Udacity STEM scholarships](https://www.udacity.com/women-in-stem/scholarship)<br>
 🎵 [R4D5](https://open.spotify.com/track/77Z1pij1PpjhlzZnzBM86G?si=1188e41146394d3f) 2021-10-02 FCC: closing jsx tags; Sololearn: Slice; Daily.Dev reading [Kotlin build speed-KSP](https://android-developers.googleblog.com/2021/09/accelerated-kotlin-build-times-with.html) and [Common HTML Mistakes](https://binatenoor.hashnode.dev/5-common-html-mistakes-you-should-avoid). Looking for a hacktoberfest issue to work on. <br> 
 🎵 [R4D4](https://open.spotify.com/track/5Lnd0Zghm0rE8H1Z2dF8sC?si=fd8ce36b23354428) 2021-10-01: FCC: ; Sololearn: Arrays; Daily.dev reading [HTML emails](https://levelup.gitconnected.com/how-to-code-html-emails-part-1-81f030a104c7), [Hacktoberfest Daily.Dev](https://dev.to/devteam/who-s-participating-in-hacktoberfest-2021-4pgf),  and [Contribute to Word Press](https://torquemag.io/2021/10/how-to-contribute-to-wordpress/) as well as twitch [Hacktober fest kickoff](https://www.twitch.tv/thepracticaldev) <br> 
