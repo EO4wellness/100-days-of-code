@@ -4,7 +4,7 @@
 * Round 4 concluded: (ongoing) 
 
 
-🎵 [R4D8]() 2021-10-05 FCC: ; Sololearn; Daily.dev;<br>
+🎵 [R4D8]() 2021-10-05 FCC: ; Sololearn; Daily.dev: [amazon smart developments](https://techcrunch.com/2021/10/05/amazon-is-reportedly-working-on-a-smart-fridge-that-tracks-whats-inside/); attended [#growwithgoogle event](https://docs.google.com/presentation/d/1yAjenc2Ypg1AX38RDTa3mZyXy4JaJa1VudKvqrGdGbE/edit#slide=id.g542f3fa4f3_0_2516); <br>
 🎵 [R4D7](https://open.spotify.com/track/0m3C4IR5NsZnRPafCjvTFZ?si=02JGyvlnTauXYiwd0TL4Ug) 2021-10-04 FCC: ; Sololearn; Daily.dev;<br>
 🎵 [R4D6](https://open.spotify.com/track/652slWGolpsuaHh4Ve0yvj?si=0eba72ec80114636) 2021-10-03 FCC: Stateless Functional Component; Sololearn: Range; Daily.dev reading incluiding [Hacktoberfest](https://hulyakarakaya.hashnode.dev/one-more-pr-for-hactoberfest), signed up for and began watching [AI/IOT](https://bosch-connected-world.com/bcw-on/#session-5-udacity) and read about [Udacity STEM scholarships](https://www.udacity.com/women-in-stem/scholarship)<br>
 🎵 [R4D5](https://open.spotify.com/track/77Z1pij1PpjhlzZnzBM86G?si=1188e41146394d3f) 2021-10-02 FCC: closing jsx tags; Sololearn: Slice; Daily.Dev reading [Kotlin build speed-KSP](https://android-developers.googleblog.com/2021/09/accelerated-kotlin-build-times-with.html) and [Common HTML Mistakes](https://binatenoor.hashnode.dev/5-common-html-mistakes-you-should-avoid). Looking for a hacktoberfest issue to work on. <br> 
