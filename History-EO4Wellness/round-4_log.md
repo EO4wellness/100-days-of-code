@@ -4,6 +4,7 @@
 * Round 4 concluded: (ongoing) 
 
 
+(https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe?si=1c494191ac514f76)
 
 🎵 [R4D11](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd?si=db7a0a65e9df4e04) 2021-10-08 FCC: Default Props ; Sololearn SQL; Daily.dev reading<br>  
 🎵 [R4D10](https://open.spotify.com/track/7DzktdAh3zTT5Li8vam9tt?si=034cec6e086848ee) 🏠 🌳 💍 2021-10-07 FCC: ; Sololearn completed [Go](https://www.sololearn.com/learning/1164); Daily.dev: https://blog.logrocket.com/whats-new-bootstrap-5-1-0/ , [Debug CI/CD Pipelines](https://circleci.com/blog/debugging-ci-cd-pipelines-with-ssh-access/), [DataBreach News](https://techcrunch.com/2021/10/07/doj-will-sue-federal-contractors-that-hide-cyberattacks-and-breaches/) <br>
