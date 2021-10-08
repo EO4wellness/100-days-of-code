@@ -5,12 +5,13 @@
 
 
 
+🎵 [R4D11](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd?si=db7a0a65e9df4e04) 2021-10-08 FCC: Default Props ; Sololearn SQL; Daily.dev reading<br>  
 🎵 [R4D10](https://open.spotify.com/track/7DzktdAh3zTT5Li8vam9tt?si=034cec6e086848ee) 🏠 🌳 💍 2021-10-07 FCC: ; Sololearn completed [Go](https://www.sololearn.com/learning/1164); Daily.dev: https://blog.logrocket.com/whats-new-bootstrap-5-1-0/ , [Debug CI/CD Pipelines](https://circleci.com/blog/debugging-ci-cd-pipelines-with-ssh-access/), [DataBreach News](https://techcrunch.com/2021/10/07/doj-will-sue-federal-contractors-that-hide-cyberattacks-and-breaches/) <br>
 
 ![Go-cert](https://www.sololearn.com/certificates/course/en/15619122/1164/landscape/png)
 
 
-🎵 [R4D9](https://open.spotify.com/track/3z5ccOZAGSYJh22Y0v8gti?si=7996fbec81964c0b) 2021-10-06 FCC: ; Sololearn; Daily.dev: [Golang Tutorial](https://www.freecodecamp.org/news/what-is-go-programming-language/) <br> 
+🎵 [R4D9](https://open.spotify.com/track/3z5ccOZAGSYJh22Y0v8gti?si=7996fbec81964c0b) 2021-10-06 FCC:; Sololearn; Daily.dev: [Golang Tutorial](https://www.freecodecamp.org/news/what-is-go-programming-language/) <br> 
 🎵 [R4D8](https://open.spotify.com/track/0yLeZobMkcVrqoIC8IkcHZ?si=1ba5f131790c4d25) 2021-10-05 FCC: ; Sololearn; Daily.dev: [amazon smart developments](https://techcrunch.com/2021/10/05/amazon-is-reportedly-working-on-a-smart-fridge-that-tracks-whats-inside/); attended [#growwithgoogle event](https://docs.google.com/presentation/d/1yAjenc2Ypg1AX38RDTa3mZyXy4JaJa1VudKvqrGdGbE/edit#slide=id.g542f3fa4f3_0_2516); <br>
 🎵 [R4D7](https://open.spotify.com/track/0m3C4IR5NsZnRPafCjvTFZ?si=02JGyvlnTauXYiwd0TL4Ug) 2021-10-04 FCC: ; Sololearn; Daily.dev;<br>
 🎵 [R4D6](https://open.spotify.com/track/652slWGolpsuaHh4Ve0yvj?si=0eba72ec80114636) 2021-10-03 FCC: Stateless Functional Component; Sololearn: Range; Daily.dev reading incluiding [Hacktoberfest](https://hulyakarakaya.hashnode.dev/one-more-pr-for-hactoberfest), signed up for and began watching [AI/IOT](https://bosch-connected-world.com/bcw-on/#session-5-udacity) and read about [Udacity STEM scholarships](https://www.udacity.com/women-in-stem/scholarship)<br>
