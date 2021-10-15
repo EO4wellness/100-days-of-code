@@ -5,7 +5,7 @@
 
 
 🎵 [R4D19]()  2021-10-16 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
-🎵 [R4D18]()  2021-10-15 FCC: Front End-Lesson; SQL Lessons & Daily challenge;  #hacktoberfest; daily.dev reading<br>
+🎵 [R4D18]()  2021-10-15 FCC: [Front End-Lesson](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/23_render-state-in-the-user-interface-another-way.jsx); SQL Lessons & Daily challenge;  #hacktoberfest; daily.dev reading<br>
 🎵 [R4D17]()  2021-10-14 FCC: Front End-Lesson; SQL Lessons & Daily challenge; entry #hacktoberfest; daily.dev reading<br>
 🎵 [R4D16]()  2021-10-13 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D15]()  2021-10-12 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
