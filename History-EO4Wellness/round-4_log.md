@@ -3,7 +3,7 @@
 * Round 4 began:  Sept 28, 2021
 * Round 4 concluded: (ongoing) 
 
-🎵 [R4D16]()  2021-10-13 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
+Next:  🎵 [R4D1]()  2021-10- FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 
 
 🎵 [R4D21](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=7d1e4c775a8f45c3)  2021-10-18 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Common Mistakes](https://levelup.gitconnected.com/6-mistakes-in-software-development-you-need-to-avoid-578aa4472786)<br>
