@@ -5,6 +5,8 @@
 
 
 
+
+🎵 [R4D21](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=7d1e4c775a8f45c3)  2021-10-18 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Common Mistakes](https://levelup.gitconnected.com/6-mistakes-in-software-development-you-need-to-avoid-578aa4472786)<br>
 🎵 [R4D20]()  2021-10-17 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D19]()  2021-10-16 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D18]()  2021-10-15 FCC: [Front End-Lesson](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/23_render-state-in-the-user-interface-another-way.jsx); SQL Lessons & Daily challenge;  #hacktoberfest; daily.dev reading<br>
