@@ -13,7 +13,7 @@
 🎵 [R4D17]()  2021-10-14 FCC: Front End-Lesson; SQL Lessons + "Apartment" code challenge & Daily challenge; entry #hacktoberfest; daily.dev reading<br>
 🎵 [R4D16]()  2021-10-13 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D15]()  2021-10-12 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
-🎵 [R4D14]()  2021-10-11 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
+🎵 [R4D14](https://open.spotify.com/track/1FWgjAohjsK1xUaEkPhCos?si=805db939d1d3455a)  2021-10-11 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D13](https://open.spotify.com/track/6A385IQThpp2uC7JqNZbzL?si=323721556763440e)  2021-10-10 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D12](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe?si=1c494191ac514f76) 2021-10-09 FCC: Overide Default Props; Sololearn: SQL lesson, HTML challenge, [Full Stack learning plan](https://www.sololearn.com/blog/213); Daily.dev Reading: [Google Security](https://techcrunch.com/2021/10/08/google-to-give-security-keys-to-high-risk-users-targeted-by-government-hackers/), [Docker Guide](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-docker-for-beginners/), Google's [Advanced Protection Plan](https://security.googleblog.com/2018/08/a-reminder-about-government-backed.html) [2FA](https://techcrunch.com/2019/05/20/google-data-two-factor-security/) and [GAPP](https://techcrunch.com/2020/03/18/googles-advanced-protection-program-for-high-risk-users-now-includes-malware-protection/)</br> 
 🎵 [R4D11](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd?si=db7a0a65e9df4e04) 2021-10-08 FCC: Default Props; Sololearn SQL; Daily.dev reading <br>
