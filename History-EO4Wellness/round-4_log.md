@@ -5,8 +5,7 @@
 
 Next:  🎵 [R4D1]()  2021-10- FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 
-
-
+🎵 [R4D24](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20?si=e7dabc55d8a743ae)  2021-10-21 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D23](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5?si=2fd32efceada4cf8)  2021-10-20 FCC: Front End-Lesson; [SQL Lessons](https://www.sololearn.com/learning/1060) & Daily challenge; daily.dev reading [Python len()](https://realpython.com/len-python-function/)<br>
 🎵 [R4D22](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B?si=66d7d54fffe2434e)  2021-10-19 FCC: Front End-Lesson; [SQL Lessons](https://www.sololearn.com/learning/1060) & Daily challenge; daily.dev reading<br>
 🎵 [R4D21](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=7d1e4c775a8f45c3)  2021-10-18 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Common Mistakes](https://levelup.gitconnected.com/6-mistakes-in-software-development-you-need-to-avoid-578aa4472786)<br>
