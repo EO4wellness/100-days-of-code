@@ -3,8 +3,10 @@
 * Round 4 began:  Sept 28, 2021
 * Round 4 concluded: (ongoing) 
 
-Next:  🎵 [R4D1]()  2021-10- FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
+Next:  🎵 [R4D2]()  2021-10- FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 
+🎵 [R4D26]()  2021-10-23 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Text-to-your-Handwriting](https://itnext.io/convert-text-into-your-handwriting-91a1ed9aefd0)<br>
+🎵 [R4D25]()  2021-10-22 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D24](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20?si=e7dabc55d8a743ae)  2021-10-21 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [ML DataSets](https://dzone.com/articles/7-top-open-source-datasets-to-train-natural-langua) and [Secure Kubernetes](https://semaphoreci.com/blog/kubernetes-deployments)<br>
 🎵 [R4D23](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5?si=2fd32efceada4cf8)  2021-10-20 FCC: Front End-Lesson; [SQL Lessons](https://www.sololearn.com/learning/1060) & Daily challenge; daily.dev reading [Python len()](https://realpython.com/len-python-function/)<br>
 🎵 [R4D22](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B?si=66d7d54fffe2434e)  2021-10-19 FCC: Front End-Lesson; [SQL Lessons](https://www.sololearn.com/learning/1060) & Daily challenge; daily.dev reading<br>
