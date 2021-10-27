@@ -7,15 +7,15 @@ Next:  🎵 [R4D2]()  2021-10- FCC: Front End-Lesson; [Python for Finance](https
 
 
 
-🎵 [R4D30]()  2021-10-27 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
-🎵 [R4D29]()  2021-10-26 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
-🎵 [R4D28]()  2021-10-25 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
-🎵 [R4D27]()  2021-10-24 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D30](https://open.spotify.com/track/3roUAZ08j9OdEt5r4jbhzh?si=d09ca12ebea744b8)  2021-10-27 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D29](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP?si=4e294f9ddd704006)  2021-10-26 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D28](https://open.spotify.com/track/3oZauEjDsMzbUmszeGHh1h?si=6c1589e06c42431e)  2021-10-25 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D27](https://open.spotify.com/track/1PXG5cwmM74RnNMhL2F8Zv?si=b6bbdfded7cc4044)  2021-10-24 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
 
 ![Earned SQL cert](https://www.sololearn.com/certificates/course/en/15619122/1060/landscape/png)
 
-🎵 [R4D26]()  2021-10-23 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Text-to-your-Handwriting](https://itnext.io/convert-text-into-your-handwriting-91a1ed9aefd0)<br>
-🎵 [R4D25]()  2021-10-22 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
+🎵 [R4D26](https://open.spotify.com/track/6VJ9A1NLJxgx34A4DsAXX6?si=97dfbbbc0dd941e5)  2021-10-23 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Text-to-your-Handwriting](https://itnext.io/convert-text-into-your-handwriting-91a1ed9aefd0)<br>
+🎵 [R4D25](https://open.spotify.com/track/6r2SNHLhMK7paHJsouZpux?si=aee4870996964cf9)  2021-10-22 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
 🎵 [R4D24](https://open.spotify.com/track/6HveTIMynTMzTc5L0TcS20?si=e7dabc55d8a743ae)  2021-10-21 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [ML DataSets](https://dzone.com/articles/7-top-open-source-datasets-to-train-natural-langua) and [Secure Kubernetes](https://semaphoreci.com/blog/kubernetes-deployments)<br>
 🎵 [R4D23](https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5?si=2fd32efceada4cf8)  2021-10-20 FCC: Front End-Lesson; [SQL Lessons](https://www.sololearn.com/learning/1060) & Daily challenge; daily.dev reading [Python len()](https://realpython.com/len-python-function/)<br>
 🎵 [R4D22](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B?si=66d7d54fffe2434e)  2021-10-19 FCC: Front End-Lesson; [SQL Lessons](https://www.sololearn.com/learning/1060) & Daily challenge; daily.dev reading<br>
