@@ -7,10 +7,10 @@ Next:  🎵 [R4D2]()  2021-10- FCC: Front End-Lesson; [Python for Finance](https
 
 
 
-🎵 [R4D30]()  2021-10-27 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
-🎵 [R4D29]()  2021-10-26 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
-🎵 [R4D28]()  2021-10-25 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
-🎵 [R4D27]()  2021-10-24 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D30]()  2021-10-27 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D29]()  2021-10-26 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D28]()  2021-10-25 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D27]()  2021-10-24 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
 
 ![Earned SQL cert](https://www.sololearn.com/certificates/course/en/15619122/1060/landscape/png)
 
