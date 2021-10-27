@@ -5,7 +5,9 @@
 
 Next:  🎵 [R4D2]()  2021-10- FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
 
-
+https://open.spotify.com/track/2qLxtO0iaFGI9x19vU3bDI?si=0de147cf70fa4ce0
+https://open.spotify.com/track/3cq6mwsjgygbwRIi9wVPGv?si=b56911635afc47ca
+https://open.spotify.com/track/6nMWFSBfyOaOe1UxKhL7Gb?si=d3646072b66d4217
 
 🎵 [R4D30](https://open.spotify.com/track/3roUAZ08j9OdEt5r4jbhzh?si=d09ca12ebea744b8)  2021-10-27 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
 🎵 [R4D29](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP?si=4e294f9ddd704006)  2021-10-26 [FCC](https://github.com/EO4wellness/T-I-L/tree/main/FrontEnd/freeCodeCamp/exercises/React): Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
