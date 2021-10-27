@@ -3,7 +3,16 @@
 * Round 4 began:  Sept 28, 2021
 * Round 4 concluded: (ongoing) 
 
-Next:  🎵 [R4D2]()  2021-10- FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
+Next:  🎵 [R4D2]()  2021-10- FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+
+
+
+🎵 [R4D30]()  2021-10-27 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D29]()  2021-10-26 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D28]()  2021-10-25 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+🎵 [R4D27]()  2021-10-24 FCC: Front End-Lesson; [Python for Finance](https://www.sololearn.com/learning/1139) & Daily challenge; daily.dev reading<br>
+
+![Earned SQL cert](https://www.sololearn.com/certificates/course/en/15619122/1060/landscape/png)
 
 🎵 [R4D26]()  2021-10-23 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading [Text-to-your-Handwriting](https://itnext.io/convert-text-into-your-handwriting-91a1ed9aefd0)<br>
 🎵 [R4D25]()  2021-10-22 FCC: Front End-Lesson; SQL Lessons & Daily challenge; daily.dev reading<br>
