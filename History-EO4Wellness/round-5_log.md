@@ -1,21 +1,22 @@
 # Current Round Details:
 * Log of [T-I-L]((https://github.com/EO4wellness/T-I-L)) and [#100-Days-Of-Code Challenge](https://github.com/EO4wellness/100-days-of-code/)
-* Round 5 began:  June 10, 2026
-* Round 5 concluded: (ongoing) 
+* Round 5 began: R5D1 June 10, 2026  
+* Round 5 concluded: R5D100 
+* The acronym is ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
-1. GitHub: From Zero to Pull Request    | 20% 
+1. GitHub: From Zero to Pull Request            | 37% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                   | 26&
+Master Tough Subjects                           | 33%
 3. Google Project Management            
 Course 1 of 7
-Foundations of Project Management       | 57% 
-4. Python Scripting Fundamentals        | 11%
-5. Django for WordPress Developers      | 14%
+Foundations of Project Management               | 57% 
+4. Python Scripting Fundamentals                | 12%
+5. Django for WordPress Developers              | 14%
 
-### TEMPLATE:  :new_moon: :walking: :sleeping: :salad: 
-##🌱R5D2 2026-06-12
+### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
+## :seedling: R5D4 2026-06-13
 * Project 1: GIT
 * Project 2: Learning
 * Project 3: PM
@@ -23,6 +24,210 @@ Foundations of Project Management       | 57%
 * Project 5: Django for WP Dev 
 * Extras N/A
 <br>
+
+
+
+## :seedling: R5D3 2026-06-12  :walking: :sleeping: :fork_and_knife:
+* Project 1: GIT  UNDO in GIT is super important!    
+ 1. Right click-source control in VS Code and select "Discard Changes". 
+ 2. In terminal type git restore
+ 3. Staged file-click the minus icon in VS Code
+ 4. git restore --stage (file name) 
+ 5. undoing committed changes- git revert (safe option, creates a new commit that undoes the changes and the original commit stays in the history so you are not erasing anything) 
+ 6. git revert head undoes the most recent commit 
+
+A note about Git Reset.  It is powerful but more dangerous soft, mix, and hard 
+
+* [Predicting Merge Conflicts in Collaborative Software Development](https://arxiv.org/abs/1907.06274)
+* [Detecting Semantic Conflicts using Static Analysis](https://arxiv.org/abs/2310.04269)
+* [Reverting a commit in GitHub Desktop](https://docs.github.com/en/desktop/managing-commits/reverting-a-commit-in-github-desktop)
+* [Resetting to a commit in GitHub Desktop](https://docs.github.com/en/desktop/managing-commits/resetting-to-a-commit-in-github-desktop)
+
+Key Terms: GitHub Integration
+Origin
+
+The conventional name for the primary remote repository when you connect a local Git repository to GitHub using git remote add origin <url>. Once set, the -u flag on the first push links local and remote branches so future pushes require only git push.
+Git Push
+
+A command that sends all local commits to the remote repository on GitHub, making your snapshots visible to collaborators. After the initial git push -u origin main, every subsequent push synchronizes your local history with the cloud copy.
+Git Pull
+
+A command that fetches the latest commits from GitHub and updates the local repository to match, essential when changes have been made on the remote (such as edits through the GitHub web interface) that do not yet exist on your machine.
+Git Clone
+
+A command that downloads a complete repository from GitHub, including all files and the full commit history, onto your local machine. Used when joining a project for the first time or setting up on a new computer, after which git pull keeps the copy current.
+Secure Shell (SSH)
+
+One of several authentication protocols available when cloning or pushing to GitHub, alongside Hypertext Transfer Protocol Secure (HTTPS) and the GitHub Command-Line Interface (CLI). Each method secures the connection between your local machine and the remote repository.
+Citations
+
+arXiv: An Insight into the Pull Requests of GitHub (Rahman & Roy, 2018) — https://arxiv.org/abs/1807.01853
+
+arXiv: On the impact of pull request decisions on future contributions (2018) — https://arxiv.org/abs/1812.06269
+
+GitHub Docs: Managing remote repositories — https://docs.github.com/en/get-started/git-basics/managing-remote-repositories
+
+GitHub is a professional profile 
+
+git Remote followed by URL tells us where our local repo it is
+origin
+* PUSH: sends from the local copy to github
+* PULL: updates local copy.  in terminal git pull 
+* CLONE: copies a complete copy of a repo, when joining a new project for the first time, or setting up a new machine for the first time 
+
+Journal Prompts
+
+1. Creating a GitHub account transforms a local Git workflow into a publicly visible portfolio. How does the decision to make a repository public versus private affect your approach to commit hygiene, repository organization, and the quality of documentation you include? What specific steps would you take when setting up a new GitHub repository to ensure that a potential employer or collaborator can understand your project within the first 30 seconds of visiting it?
+
+2. The commands git push, git pull, and git clone form the bridge between local development and remote collaboration on GitHub. If you cloned a teammate's repository, made local changes, and discovered that the remote had been updated by someone else in the meantime, what sequence of Git operations would you follow to synchronize your work without losing either set of changes? How does the concept of an origin remote simplify this workflow, and what pitfalls might arise if you skip the initial git pull before pushing?
+
+arXiv: How Do Developers Usehttps://docs.github.com/en/get-started Code Suggestions in Pull Request Reviews? (Bouraffa, Pham, & Maalej, 2025) — https://arxiv.org/abs/2502.04835
+
+arXiv: Fork Entropy: Assessing the Diversity of Open Source Software Projects' Forks (2022) — https://arxiv.org/abs/2205.09931
+
+GitHub Docs: About repositories — https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+
+GitHub Docs: Get started with GitHub documentation — https://docs.github.com/en/get-started
+
+
+
+* Project 2: Learning - Finished the Module 1 assignment and peer review, then studied Module 2: The Essentials Chunking materials. Highlighting and underlying is often an illusion of learning.  While learning, close the study material, and attempt to recall (mental retrieval of key ideas) the material, regular do self testing, pay attention to correcting wrong thinking. Be sure to recall the materials OUTSIDE of the locations/places you normally study. 
+* Project 3: PM - Today I reviewed PM concepts as I spent more time than usual on the assignment for project 2. 
+* Project 4: Python 
+   ### Data Types - Python assigns data type automatically to variables based on the data you assign to them. 
+   1. String - Generally string data is comprised of characters that will not later be used for mathematics. Note, digits can also be strings.  Why?  Some times we have numbers we don't want to use in mathematic equations, so we use a string for those. An example of this would be a zip code.  While it is entirely comprised of numeric digits, it is not something we enter in to math equations or calculate. It works well as a string value. 
+   2. Integer - this data type contains whole numbers. 
+   3. Floats - this contains numbers which are not integers. 
+   4. Boolean - This data type contains only two possible values:  True or False (NOTE: capital T and capital F) 
+
+   ### Coding Examples: 
+```
+#Python example of creating a string variable. 
+varString = 'This is a string data type in a variable named varString.'
+
+#If we use the print(varString) command and run it, the output of the above code will be:  This is a string data type in a variable named varString.
+
+#There is a TYPE function in Python which we can use to check a variable's type. Remember it needs to be printed to see the result. 
+
+print(type(varString)) # Output would be <class 'str'> telling us it is a string. 
+
+#If you need your string to contain a character which already has meaning in Python code, then you need to tell Python not to assign the character its normal meaning. For example, a single quote in Python means this is a string.  But if we need a single quote as an apostrophe then we need to use an escape (or black slash in front of the character) to tell Python its not a string. 
+
+varEscape = 'I\'m in love with Python.'
+print(varEscape)
+
+#output would be:  I'm in love with python. 
+# The other method is to use double quotes. 
+
+varInteger = 3 
+print(varInteger) 
+# Output when run is 3
+# Check the data type: 
+print(type(varInteger))
+# This statement returns <class 'int'>
+
+# Create a float variable, print it and view its type. 
+varFloat = 3.25 
+print(varFloat)
+print(type(varFloat))
+#the results are it will first return 3.25 on one line, then the next line it will return <class 'float'>
+
+#Create a Boolean variable, print it, and view its data type. 
+varBoolean = True 
+print(varBoolean)
+print(type(carBoolean))
+
+# running this returns True on the first line then <class 'bool'> on the second line. 
+#Note this is Case sensitive thus if we create varBoolA = true when run this python code will return an error message. 
+
+Traceback (most recent call last):
+  File...
+    varBoola = true 
+NameError: name "true" is not defined. Did you mean: 'True'? 
+
+```
+
+Data types are important.  You should also be aware of what type of data is stored in a variable. If you don't, your program is likely to crash or not function as expected.  
+
+RULE: The data stored in a variable as the output of the input() function is always a string.
+
+```
+#Python 
+varInputA= input('Name? ')
+Name? Shad 
+print(varInputA)
+# output is Shad 
+print(type(varInputA))
+# output is <clas 'str'>
+
+varInputB= input('Age? ')
+Age? 50
+print(varInputB)
+# output is 50
+print(type(varInputB))
+# output is <clas 'str'>
+
+#If we do not understand this and try to do math with it, we get an error message.  Example: 
+print(varInputB / 10) 
+
+Output is: Traceback (most recent call last): 
+  File...
+     print(varInputB /10) 
+TypeError: Unsupported operand types(s) for /: "str" and "int" 
+
+```
+
+When ever the INPUT() function is used, we have to change the datatype of the variable before we do math with it. 
+To do this we use the INT() function.  
+
+```
+print(int(varInputB) / 10) 
+#output is 5.0
+
+# The int() function changes the data type of the argument to the integer data type.  We can check this by testing the type of the variable that comes out of the int() function by using a nested function like this: 
+
+print(type(varInputB))
+
+# Output is ,class 'str'>
+
+print(type(int(varInputB) / 10))
+#output is: <class 'float'>  NOTE it is a FLOAT even if the value stored is a whole number!  
+
+```
+### Convert any data type using these functions: 
+1.   float()
+2.   int() 
+3.   str()
+4.   bool() 
+
+The boolean is interesting because if there is something assigned to the variable, if it has a stored value, the boolean function will return TRUE but if it is empty it will return FALSE. 
+
+```
+# Write a simple Python script which passes in someone's age and calculates what age they will be in five years
+
+varAge = input('Age? ')
+# Inputting at the prompt: Age? 50 
+print(age5 = int(varAge) + 5)
+
+print (age5)
+# Running this returns 55
+
+ Also we can do this before hand (order) 
+
+varLastYear = int(input('Age last year? '))
+Age last year? 49 
+print(type(varLastYear))
+<blas 'int'>
+
+
+```
+
+Recall: if you separate arguments in the print() function with commas, print will convert the variable to a string. 
+
+* Project 5: Django for WP Dev 
+* Extras: Want to prioritize finishing GIT and the LEARNING coursework, while progressing with the Project Management daily, even if it is reviewing concepts due to occasional time constraints. I discovered FreeCodeCamp has Spanish certification now.  I'm going for it.  I completed the intro & vowels today. 
+<br>
+
 
 ## :seedling: R5D2 2026-06-11 WO: Legs+Cardio :walking: :sleeping: :salad:
 * Project 1: GIT -
@@ -62,6 +267,7 @@ Now we are in VSCode we want to initialize the repository.  Go into SOURCE CONTR
 
 * Project 2: Learning - Learned about the research regarding Spaced Repetition Algorithm/AI helps. Struggling to recall strengthens our memory over time. Recommendation: Smarter Humans.AI, Memorise, Anki. Interview with Benny Lewis a.k.a. Benny the Irish Polyglot who authored Fluent in 3 Months-Speak Any Language from Day One. Dr. Terrence Sejnowski neuroscience. Learning by doing. Active engagement-ask questions if you start to get bored to reinvigorate discussion and discovery. Context switching can be difficult unless we practice it frequently, however, some people do better when they've reached the end of what they can absorb on one topic, to context switch to a new topic. A stimulating, rich, intellection environment helps our neurons.  Likewise, exercise helps too. Use your muscles, rather than our brain, to absorb what we've learned in our study, focused, phase.  Be in an intellection, creative, environment to absorb better/more. Not all smart people are successful, instead staying the course, is very important. Learn with fresh, new, eyes to keep learning life-long. Finished module 1, week 1, studies and quiz. 
 * Project 3: PM
+```
 - Review and Recap of Model 1 & 2. 
 - Two approaches:  Waterfall and Agile 
   Life Cycle of a Project 
@@ -88,7 +294,7 @@ Now we are in VSCode we want to initialize the repository.  Go into SOURCE CONTR
 	   as project manager, your role is to make sure they do and you keep them motivated and watch deadlines
            be flexible  and adapt 
   Phase 4: :trophy: Close the Project - Celebrate what worked, and take note of what didn't to learn for next time. For example, you may build something as your project, and you pass it off to the team to maintain it. 
-
+```
 
 * Project 4: Python - today's lesson materials reviewed the topic of Data Types. 
 Data Types - Python automatically assigns data types based on the kind of information you put into your variables. 
@@ -123,11 +329,16 @@ def get_list()
   return "hello world"
 
 ```
-CLASS-is a blueprint of something and an object is an instance of a class. 
-OBJECT: The thing which a class is based upon
-METHOD- a function within a class 
-FUNCTION-does something, is not what the class is but what it can do 
-ATTRIBUTE- something (often a string, or a whole number or a float) the class is
+CLASS-is a blueprint of something and an object is an instance of a class. |
+
+OBJECT: The thing which a class is based upon |
+
+METHOD- a function within a class |
+
+FUNCTION-does something, is not what the class is but what it can do |
+
+ATTRIBUTE- something (often a string, or a whole number or a float) the class is |
+
 
 ```
 # naming files:  in Python call it name.py and in PHP name.php
@@ -210,8 +421,10 @@ Who this course is for:
     NOT for someone who does not want to learn how to code in python
 
 
-* Extras N/A
-   Server maintenance and website maintenance. Read a few articles about AI and advancements with AI. 
+* Extras 
+   1. Server maintenance and wordpress updates. 
+   2. Read a few articles about AI and advancements with AI.
+   3. Completed a Health and Wellness course on Coursera about Metabolism and recent science regarding it.  
 
 <br>
 
@@ -334,11 +547,11 @@ print(x + y + z)
 <br>
 
 
-ICONS
-Worked Out = :walking:
-Quality Sleep = :sleeping:  
-Eating Nutritionally = :fork_and_knife: :salad: 
-Learning and Growing = :seedling: 
+##ICONS:
+1. Worked Out = :walking:
+2. Quality Sleep = :sleeping:  
+3. Eating Nutritionally = :fork_and_knife: 
+4. Learning and Growing = :seedling: 
 <br>
 :calendar:
 :first_quarter_moon: 
