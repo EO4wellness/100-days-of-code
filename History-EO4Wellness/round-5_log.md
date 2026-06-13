@@ -8,15 +8,15 @@
 1. GitHub: From Zero to Pull Request            | 37% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                           | 33%
+Master Tough Subjects                           | 35%
 3. Google Project Management            
 Course 1 of 7
-Foundations of Project Management               | 57% 
-4. Python Scripting Fundamentals                | 12%
+Foundations of Project Management               | 67% 
+4. Python Scripting Fundamentals                | 19%
 5. Django for WordPress Developers              | 14%
 
 ### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D4 2026-06-13
+## :seedling: R5D5 2026-06-14 :new_moon: 
 * Project 1: GIT
 * Project 2: Learning
 * Project 3: PM
@@ -26,8 +26,85 @@ Foundations of Project Management               | 57%
 <br>
 
 
+:seedling: R5D4 2026-06-13 :walking: :sleeping: :fork_and_knife:
+* Project 1: GIT - Reviewed. 
+* Project 2: Learning - It is hard to learn when you are not interested.  Neuromodulator encode the importance, not the content.  Why, neurotransmitters:  
+1. acetylcholine - particularly important to focused learning.  Synaptic plasticity, creating new long term memory.  form neuromodulatory connections. 
+2. dopamine - chemical substance which controls motivation, at the brain stem, reward learning, basal ganglia (unexpected reward), predicting future rewards too, addictive drugs fool this proceeds and highjacks free will. anhedonia-loss of dopamine neurons, Parkinson disease, catatonia. Unconscious brain 
+3. serotonin -impacts social life. Linked to risk taking behavior.  Low serotonin equal anti social behaviors, even crime.
+Amygdala-almond shaped, at the base of the brain, major center of cognition and emotions are integrated and is a part of the limbic system and with the hippocampus.  Prozac is prescribed to increase serotonin and thereby treat clinic depression.  Diffuse neuromodulatory system. 
+Visit brainfacts.org to learn more. 
 
-## :seedling: R5D3 2026-06-12  :walking: :sleeping: :fork_and_knife:
+* Project 3: PM - Working in Module 3:  Understanding the Project Life Cycle, Analyzing the different Project Phases, Comparing Waterfall and Agile approaches to PM as distinct methodologies. 
+
+* Project 4: Python - Today's course materials looked at "Arithmetic Operators".  Python and SQL are the same when it comes to arithmetic operators.  NOTE: it doesn't care about the spaces (x+y) is the same results as (x + y).  I finished the Basic Syntax section of the course and passed the exam scoring 100%. 
+```
+Addition: 
+print(5+4)
+Subtraction: 
+print(5-4)
+Multiplication: 
+print(5*4)
+Division:
+print(20/4) #note this outputs a decimal 5.0 because division is always a float data type
+Modulo (returns just the remainder)
+print(21%4) (output is just the remainder so it is 1) 
+
+Unlike SQL, Python also has integer division.  It divides the first number evenly by the second, and gets rid of any remainders. 
+print(21//4) (this comes back as the integer 5) 
+
+Exponents are a **
+print(3**2) (gives us the outcome if 9) 
+
+Order of Operations: 
+Python always reads the equation from LEFT to Right for each line.  
+it does this order: 
+**
+* / // % 
++ _ 
+
+Example: 
+print(3+4*5) is going to multiple 4x5=20 then add 20+3=23 
+
+Just like in math, we can use parenthesis to override Python's normal order of operations when needed. 
+
+Example:
+print((3+4)*5) produces 3+4=7 and 7*5=35
+
+```
+Module 1: Completed. To my delight the exam for this module didn't just ask multiple choice questions but actually included typing script!  I scored 10)% on the testing. 
+
+* Project 5: Django for WP Dev - Review 
+* Extras N/A  FreeCodeCamp's Spanish constants section. abecedario Server maintenance.  Website updates for WordPress. 
+<br>
+
+Next:  A lab to install a virtual box and installing ubuntu so we can create a python script. 
+
+```
+# Open Terminal Prompt in a virtual machine 
+# type gedit myscript.py and hit enter
+# type gedit myscript.py and hit enter to add the shebang
+# type  #!/usr/bin/env python3 and hit Enter twice.
+
+#add a statement to welcome the user. 
+#!/usr/bin/env python3
+
+print('Welcome to the age calculator.')
+answer = input('Would you like to know how old you will be in a particular year?')
+
+year = input('What year were you born?')
+future = input('What year did you want to know about?')
+
+age = int(future) - int(year)
+
+print('In the year ', future, 'you will be ', age, ' years old.')
+print('Goodbye!') 
+
+# In the command line type python3 myscript.py and hit Enter. 
+# Answer the promptes, hitting Enter after each answer.  
+```
+
+## :seedling: R5D3 2026-06-12  :walking: Core WO + Cardio :sleeping: Great! :fork_and_knife: nutritious salad today 
 * Project 1: GIT  UNDO in GIT is super important!    
  1. Right click-source control in VS Code and select "Discard Changes". 
  2. In terminal type git restore
