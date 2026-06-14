@@ -8,7 +8,7 @@
 1. GitHub: From Zero to Pull Request            | 37% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                           | 35%
+Master Tough Subjects                           | 42%
 3. Google Project Management            
 Course 1 of 7
 Foundations of Project Management               | 67% 
@@ -16,13 +16,105 @@ Foundations of Project Management               | 67%
 5. Django for WordPress Developers              | 14%
 
 ### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D5 2026-06-14 :new_moon: 
+## :seedling: R5D5 2026-06-15 :new_moon: 
 * Project 1: GIT
 * Project 2: Learning
 * Project 3: PM
 * Project 4: Python 
 * Project 5: Django for WP Dev 
 * Extras N/A
+<br>
+
+
+## :seedling: R5D5 2026-06-14 :walking: leg working, cardio, long walk, and stretching :sleeping: A+ :fork_and_knife: refueling for next week's meal plans
+* Project 1: GIT
+* Project 2: Learning - Key concepts studied included Transfer, chunks, like ribbons, use of metaphors and LLM to generate useful metaphors for learning outcomes. Neurons=fundamental building blocks of learning. Tent, tent poles as a metaphor which also shows us good fit (where the poles are) and poor fit (where the tent is still flat)  Tip: prompt an LLM for a metaphor for any concept which is difficult to retain. Avoid overlearning. This part of the course is a lot like AI training & concepts. Einstellung = mindset. Interleaving different techniques.  I finished Module 2.  
+
+* Project 3: PM - two parent methodologies: Six Sigma and Lean.  These methods are common in projects where the goal is to improve quality, move through processes quickly, save money.  They focus on team collaboration. Value the team and motivation  and productivity increase. 
+
+1. Positive Work Environment
+2. Team Collaboration 
+3.  Move quickly through processes
+4. Improve quality 
+5. Save money. 
+
+Five Phases in the Lean Six Sigma Approach 
+1. Define - the project goal and what it will take to meet it. 
+2. Measure - how the current process is working.  this focuses on data. map it out. what's going on and find the facts. how will you get the data and how often will you get it  
+3. Analyze - being to identify gaps and issues.  data analysis is important to and for PMs 
+4. Improve - make improvements after studying the previous steps 
+5. Control - implement it.  learn from the work you did to update new processes and keep them in place 
+
+Ideal methodology when you need to improve the current process to fix complex or high risk problems, improving sales, conversions, or eliminating bottleneck(s), 
+
+Lean originated in the manufacturing world.  It focused on removing waste within an operation. Today, the Lean Manufacturing methodology recognizes eight types of waste within an operation: defects, excess processing, overproduction, waiting, inventory, transportation, motion, and non-utilized talent. In the manufacturing industry, these types of waste are often attributed to issues such as: 
+
+*    Lack of proper documentation
+
+*    Lack of process standards
+
+*    Not understanding the customers’ needs
+
+*    Lack of effective communication
+
+*    Lack of process control
+
+*    Inefficient process design
+
+*    Failures of management 
+
+The LEAN methodology has the 5-Ss as a its main tool.  They stand for five pillars or steps: 
+
+1. Sort
+2. Set in Order 
+3. Shine 
+4. Standardize 
+5. Sustain. 
+
+KANBAN - scheduling system, visualization tool, optimize work flow, TO DO, in progr4ess, testing, done. 
+
+SIX SIGMA
+
+The seven key principles of Six Sigma are:
+
+*    Always focus on the customer.
+
+*    Identify and understand how the work gets done. Understand how work really happens.
+
+*    Make your processes flow smoothly.
+
+*    Reduce waste and concentrate on value.
+
+*    Stop defects by removing variation.
+
+*    Involve and collaborate with your team.
+
+*    Approach improvement activity in a systematic way.
+
+Use this methodology to find aspects of the product or process that are measurable like time, cost, or quantity. Then inspect that measurable item and reject any products that do not meet the Six Sigma standard. Any process that created unacceptable products has to be improved upon. 
+
+Lean Six Sigma 
+
+After both Lean and Six Sigma were put into practice, it was discovered that the two methodologies could be combined to increase benefits
+
+Waterfall is a traditional methodology in which tasks and phases are completed in a linear, sequential manner, and each stage of the project must be completed before the next begins. The project manager is responsible for prioritizing and assigning tasks to team members. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project.
+
+Agile involves short phases of collaborative, iterative work with frequent testing and regularly-implemented improvements. Some phases and tasks happen at the same time as others. In Agile projects, teams share responsibility for managing their own work. Scrum and Kanban are examples of Agile frameworks, which are specific development approaches based on the Agile philosophy.
+
+Scrum is an Agile framework that focuses on developing, delivering, and sustaining complex projects and products through collaboration, accountability, and an iterative process. Work is completed by small, cross-functional teams led by a Scrum Master and is divided into short Sprints with a set list of deliverables.
+
+Kanban is a tool used in both Agile and Lean approaches that provides visual feedback about the status of the work in progress through the use of Kanban boards or charts. With Kanban, project managers use sticky notes or note cards on a physical or digital Kanban board to represent the team’s tasks with categories like “To do,” “In progress,” and “Done.”
+
+Lean uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. Lean implements a Kanban scheduling system to manage production.
+
+Six Sigma involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
+
+Lean Six Sigma is a combination of Lean and Six Sigma approaches. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems. The 5S organization framework, the DMAIC process, and the use of Kanban boards are all components of this approach. 
+
+
+* Project 4: Python 
+* Project 5: Django for WP Dev 
+* Extras N/A freeCodeCamp Spanish Alphabet Practice 
 <br>
 
 
