@@ -16,7 +16,7 @@ Foundations of Project Management               | 67%
 5. Django for WordPress Developers              | 14%
 
 ### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D5 2026-06-15 :new_moon: 
+## :seedling: R5D7 2026-06-16 :new_moon: 
 * Project 1: GIT
 * Project 2: Learning
 * Project 3: PM
@@ -25,6 +25,43 @@ Foundations of Project Management               | 67%
 * Extras N/A
 <br>
 
+## 🌱 R5D6 2026-06-15 
+* Project 3:  Pushing to finish the first course this week. 
+Absolutely! Here's a concise outline of the main topics and key definitions from the "Foundations of Project Management" course module that will help you review effectively:
+
+1. **Project Management Basics**
+   - Definition of Project Management: The process of initiating, planning, executing, and closing projects to achieve specific goals.
+   - What Constitutes a Project: Temporary endeavor with a defined beginning and end, aimed at creating a unique product, service, or result.
+
+2. **Project Manager Roles and Responsibilities**
+   - Leading and coordinating teams.
+   - Planning and managing resources, timelines, and budgets.
+   - Communicating with stakeholders.
+   - Managing risks and changes.
+
+3. **Project Life Cycle Phases**
+   - Initiating: Defining project goals, scope, and obtaining approval.
+   - Planning: Creating timelines, budgets, and task assignments.
+   - Executing: Carrying out the project plan and managing the team.
+   - Closing: Finalizing deliverables, evaluating outcomes, and celebrating success.
+
+4. **Project Management Methodologies**
+   - Waterfall: Sequential, linear phases where each phase must be completed before the next begins.
+   - Agile: Iterative and flexible, allowing overlapping tasks and adapting to changes.
+   - Lean Six Sigma: Focuses on quality improvement through defined phases (Define, Measure, Analyze, Improve, Control).
+
+5. **Organizational Structure and Culture**
+   - How company structure and culture impact project management approaches and communication.
+
+6. **Change Management**
+   - Managing changes in project scope, timelines, and resources effectively.
+
+7. **Use of Generative AI in Project Management**
+   - Emerging tools and techniques to enhance project planning and execution.
+
+I recommend revisiting the course sections titled "The project management life cycle and methodologies" and "Organizational structure and culture" for detailed explanations.
+
+Does this overview help you focus your review? Would you like to start practicing with some questions now?
 
 ## :seedling: R5D5 2026-06-14 :walking: leg working, cardio, long walk, and stretching :sleeping: A+ :fork_and_knife: refueling for next week's meal plans
 * Project 1: GIT
