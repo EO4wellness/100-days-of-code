@@ -5,21 +5,65 @@
 * The acronym is ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
-1. GitHub: From Zero to Pull Request            | 37% 
+1. GitHub: From Zero to Pull Request            | 88% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                           | 42%
+Master Tough Subjects                           | 50%
 3. Google Project Management            
 Course 1 of 7
-Foundations of Project Management               | 67% 
+Foundations of Project Management               | 100% 
+June 15, 2026-Began Course 2 of 7               | 12%
 4. Python Scripting Fundamentals                | 19%
 5. Django for WordPress Developers              | 14%
 
 ### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D7 2026-06-16 :new_moon: 
+## :seedling: R5D8 2026-06-17 :new_moon: 
 * Project 1: GIT
 * Project 2: Learning
 * Project 3: PM
+* Project 4: Python 
+* Project 5: Django for WP Dev 
+* Extras N/A
+<br>
+
+:seedling: R5D7 2026-06-16 :new_moon: 
+* Project 1: GIT- Completed the next module looking at MCP and copilot automation scope and availability inside Github. 
+* Project 2: Learning
+* Project 3: PM - Completed an assessment project where we were given a real-life scenario, and then asked to prove we understood the standard initiation phase of launching a project.  I scoared 100% on the task.
+```
+  Cost Benefit Analysis Formula:  (g-c) / c = roi 
+In this formula, G represents the financial gains you expect from the project, and C represents the upfront and ongoing costs of your investment in the project.
+  To determine the benefits of a project, you might ask:
+
+    What value will this project create? 
+
+    How much money could this project save our organization? 
+
+    How much money will it bring in from existing customers?
+
+    How much time will it save? 
+
+    How will it improve the customer experience?
+
+And to determine the costs of a project, consider questions such as:
+
+    How much time will people have to spend on this project?
+
+    What are the one-time costs?
+
+    Are there any ongoing costs?
+
+    What about long-term costs? 
+	You might also consider questions about intangible benefits. These are gains that are not quantifiable, such as:
+
+    Customer satisfaction. Will the project increase customer retention, causing them to spend more on the company’s products or services? 
+
+    Employee satisfaction. Is the project likely to improve employee morale, reducing turnover? 
+
+    Employee productivity. Will the project reduce employee’s overtime hours, saving the company money?
+
+    Brand perception. Is the project likely to improve the company’s brand perception and recognition, attracting more customers or providing a competitive advantage?
+	```
 * Project 4: Python 
 * Project 5: Django for WP Dev 
 * Extras N/A
