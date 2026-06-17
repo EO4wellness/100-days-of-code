@@ -5,27 +5,89 @@
 * The acronym is ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
-1. GitHub: From Zero to Pull Request            | 37% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                           | 42%
-3. Google Project Management            
-Course 1 of 7
-Foundations of Project Management               | 67% 
-4. Python Scripting Fundamentals                | 19%
 5. Django for WordPress Developers              | 14%
 
-### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D5 2026-06-15 :new_moon: 
-* Project 1: GIT
-* Project 2: Learning
-* Project 3: PM
+### TEMPLATE:  :walking: :sleeping: :fork_and_knife:
+## :seedling: R5D9 2026-06-18 :new_moon: 
+* Project 1: GIT - COMPLETED_dropping from future notes
+* Project 2: Learning - Memory 
+* Project 3: PM - Project Initatiation: Starting a Successful Project 
+* Project 4: Python - 
+* Project 5: Django for WP Dev 
+* Extras N/A
+<br>
+
 * Project 4: Python 
 * Project 5: Django for WP Dev 
 * Extras N/A
 <br>
 
 
+   Most common: use IF conditional and the syntax is if condition: statement 
+```Python
+    # if condition: statement 
+if 5>6: print ('yeah!')
+   #output of running the above statement is nothing because five is not greater than six. 
+if 5<6: print ('yay')
+   # the output of running this statement will produce "yay" 
+# else statement (branch, clause) 
+
+if 5>6: print('yah!') 
+else: print('boo') 
+#running this we get the out put of boo because 5 is not greater than six. note the else only runs when the first statement is false. 
+```
+continuing if we need more outcomes or checks we can use an elif 
+
+```
+In addition to IF and Else: you can also use an elif to add criteria.  
+
+The syntax of an if...elif....else statement is: 
+
+if condition:
+	statements
+elif contition2: 
+	statements 
+elif conition 3:
+	statements (as many as you need) 
+else: statements 
+
+```python
+# ask the user to enter a number
+
+number = int(input("Please enter a number between 1 and 10: "))
+
+# Series of if ... elif ... else to respond based on the number the user entered 
+
+if number == 10:
+		print("High roller!") 
+elif number >= 8: 
+		print("You like your numbers high!")
+elif number >-4:
+		print("A middle of the road person, huh?")
+elif number == 0: 
+		print("I see you cannot follow directions.  Goodbye!") 
+else:
+		print("Keeping it small, I like it!")
+#save this program as conditionalcode1.py
+#now switch to command line and type python 3 conditionalcode1.py
+
+# you will see the "Please enter a numb4eer between 1 and 10: " prompt.  You can enter numbers and test output. 
+# as a trouble shooting tip be sure they are in the CORRECT order as if you reversed the order--4, then 8, then 10 it wouldn't work 
+# BEST PRACTICES always test all possible outcomes to make sure you have things in the right order when using elif statements 
+```
+Nested If Statements also work for those who don't follow instructions.  Here is an example: 
+
+```Python
+# ask the user to enter a number
+
+number = int(input("Please enter a number between 1 and 10: "))
+
+if number == 0:
+		print("I see you cannot follow directions.  Goodbye!") 
+
+	elif number == 10:
 ## :seedling: R5D5 2026-06-14 :walking: leg working, cardio, long walk, and stretching :sleeping: A+ :fork_and_knife: refueling for next week's meal plans
 * Project 1: GIT
 * Project 2: Learning - Key concepts studied included Transfer, chunks, like ribbons, use of metaphors and LLM to generate useful metaphors for learning outcomes. Neurons=fundamental building blocks of learning. Tent, tent poles as a metaphor which also shows us good fit (where the poles are) and poor fit (where the tent is still flat)  Tip: prompt an LLM for a metaphor for any concept which is difficult to retain. Avoid overlearning. This part of the course is a lot like AI training & concepts. Einstellung = mindset. Interleaving different techniques.  I finished Module 2.  
