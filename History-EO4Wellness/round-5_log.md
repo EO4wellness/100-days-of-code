@@ -11,41 +11,406 @@ Mental Tools to Help you
 5. Django for WordPress Developers              | 14%
 
 ### TEMPLATE:  :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D9 2026-06-18 :new_moon: 
-* Project 1: GIT - COMPLETED_dropping from future notes
+## :seedling: R5D10 2026-06-19  
 * Project 2: Learning - Memory 
-* Project 3: PM - Project Initatiation: Starting a Successful Project 
+* Project 3: PM - Project Initiation: Starting a Successful Project 
 * Project 4: Python - 
 * Project 5: Django for WP Dev 
 * Extras N/A
 <br>
 
 =======
-1. GitHub: From Zero to Pull Request            | 88% 
+1. GitHub: From Zero to Pull Request            | 100% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                           | 50%
+Master Tough Subjects                           | 65%
 3. Google Project Management            
 Course 1 of 7
 Foundations of Project Management               | 100% 
-June 15, 2026-Began Course 2 of 7               | 12%
-4. Python Scripting Fundamentals                | 19%
+June 15, 2026-Began Course 2 of 7               | 13%
+4. Python Scripting Fundamentals                | 21%
 5. Django for WordPress Developers              | 14%
 
-### TEMPLATE:  :new_moon: :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D8 2026-06-17 :new_moon: 
-* Project 1: GIT
-* Project 2: Learning
-* Project 3: PM
->>>>>>> 9732a247d7d3c50a2bb995255ac580f153ba933d
-* Project 4: Python 
+:seedling: R5D9 2026-06-18  
+* Project 1: GIT - COMPLETED dropping from future notes
+* Project 2: Learning - Memory 
+Logical Operators:  in Python, this also works like SQL.
+
+1. and (both conditionals must be met for the statements to execute 
+2. or
+3. not
+
+- we always use them in lower case
+
+
+```python
+
+# this us a python "and" application 
+
+# ask the user if they want to play a game
+# a calid answer is "y" or "n"
+
+answer = input('Would you like to play a game? (y/n) ' )
+
+# if statement to verify if the user entered a valid reply or not
+# if they don't, then exit.
+#  ! Means not equal to 
+# The statement only evaluates to true  if the user didn't answer y or n.
+
+if answer != 'y' and answer is 'n':
+     print('I see you cannot follow directions.  Goodbye. ')
+
+# elif statement to test if the user enters 'n'
+# if they did, exit
+
+elif answer == 'n':
+      print('I am sorry you do not want to play. Goodbye.' )
+
+ # else they must gave entered 'y': play the game 
+
+else:
+     number = int(input('Please enter a number between 1 and 10: '))
+
+     if number ==0:
+
+
+
+```
+- If there are multiple conditionals they have to be in parenthesis.  
+
+
+Next: Identity Operators 
+
+- Methods 
+- Every Python object has a type
+* data type 
+* button type
+- When we call a function, we provide info in the arguments of that function.  
+- If the function, impacts the object,  then we put the object in as one of the arguments. 
+
+
+
+Memory
+- we hold on to, and acquire very easily Visual-Spatial memory.  
+
+Anki
+
+Spaced Repetition 
+Consolidated
+Reconsolidation
+
+Anastrocytes is the most abundant glial cell
+- nutritional providers to neurons
+-repair 
+* Project 3: PM - Identifying project goals: 
+For the rest of the course we are following an example: Office Green (a commercial landscaping company)
+-service Plant Pals 
+-offer high-volume customers small, low-maintenance plants 
+
+-What needs to be done.  Define goals and deliverables before starting. 
+CLEAR PICTURE--> how to accomplish it --> 
+
+Project Goal-desired outcome
+-  ​Well-defined goals are both specific and measurable. 
+-The goal of your Office Green project might be to ​increase revenue by five percent through ​a new service called Plant Pals that offers ​desk plants to top customers by the end of the year.
+
+Project Deliverables-the products or services that area created for the customer, client, or project sponsor. 
+
+Since your deliverables depend on your goals, ​it's in your best interest to get ​those goals as well- defined as possible. 
+
+SMART goals
+- specific
+- measurable
+- attainable
+- relevant
+- time-bound 
+
+If you set the goals, or not, you need to evaluate them for each project. 
+
+- What do I want to accomplish? ​
+- Why is this a goal? ​
+- Does it have a specific reason, purpose, or benefit? ​
+- Who is involved? 
+- Who is the recipient? Employees, customers, the community at large? ​
+- Where should the goal be delivered? 
+- ​Finally, to what degree? ​In other words, what are ​the requirements and constraints? ​
+
+Metrics-measure your goals.  Some goals are yes or no but most need some type of metric. 
+
+Challenging to encourage growth--but not too extreme that you cannot reach your goal.  Find a balance. 
+
+OKRs
+-objectives
+-key results
+
+
+* Project 4: Python - 
+
+Logical Operators:  in Python, this also works like SQL.
+
+1. and (both conditionals must be met for the statements to execute 
+2. or
+3. not
+
+- we always use them in lower case
+
+
+```python
+
+# this us a python "and" application 
+
+# ask the user if they want to play a game
+# a calid answer is "y" or "n"
+
+answer = input('Would you like to play a game? (y/n) ' )
+
+# if statement to verify if the user entered a valid reply or not
+# if they don't, then exit.
+#  ! Means not equal to 
+# The statement only evaluates to true  if the user didn't answer y or n.
+
+if answer != 'y' and answer is 'n':
+     print('I see you cannot follow directions.  Goodbye. ')
+
+# elif statement to test if the user enters 'n'
+# if they did, exit
+
+elif answer == 'n':
+      print('I am sorry you do not want to play. Goodbye.' )
+
+ # else they must gave entered 'y': play the game 
+
+else:
+     number = int(input('Please enter a number between 1 and 10: '))
+
+     if number ==0:
+
+
+
+```
+- If there are multiple conditionals they have to be in parenthesis.  
+
+
+Next: Identity Operators 
+
+- Methods 
+- Every Python object has a type
+* data type 
+* button type
+- When we call a function, we provide info in the arguments of that function.  
+- If the function, impacts the object,  then we put the object in as one of the arguments. 
+
+
+* Project 5: Django for WP Dev 
+* Extras N/A
+<br>
+
+
+
+:seedling: R5D8 2026-06-17 :new_moon: 
+* Project 1: GIT - Completed 
+* Project 2: Learning completed Module 2's information about procrastination and best practices. 
+Key concepts:  
+- Product vs process -research finds focusing on the process helps beat procrastination where focusing on the product does not.  Example: I will study math for 20 minutes (process) vs I will complete my math homework (product). 
+- Good habits beat procrastination.  here are 4:  1.  CUE.  It is the thing which triggers us into procrastination mode.  Learn to recognize your own cues and switch your space or context to avoid triggering the cue.  2.  The Routine. The routine is triggered in response to the cue.  Switch the cue, the routine doesn't get triggered.  3.  Reward:  procrastination is an easy habit to develop because of the reward.  4) The belief:  habits are powerful because we believe in them.  
+* Project 3: PM completed Fundamental of Project Initiation and Understanding the key components of the project initiation phase. 
+There are several KEY COMPLONEST of Initiation Phase. 
+-GOALS: This is what you have been asked to do and what you are trying to achieved. 
+-SCOPE: This is the process of defining what works needs to happen to complete the project. 
+-DELIVERABLES: The products and services that the project creates for the customer, client, or project sponsors. Deliverables can be tangible or intangible.
+-SUCESS CRITERIA: The standards by which you measure how successful a project was at reaching its goals. 
+-STEAKHOLDERS: The people who are both interested in and affected by the completion and success of the project. 
+-RESOURCES: the Budget People and Materials at our disposal to complete the project. 
+
+Use the key components to develop a Project Charter to clearly define the project and its goals and outline what is needed to accomplish them. The charter is used to get organized, set up a framework, and to communicate these details to others. 
+
+Recap: you gather information about your goals, scope, ​deliverables, success criteria, stakeholders, and ​resources, and you document that information in the project charter.
+
+Previously, you learned that a cost-benefit analysis is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs. In this reading, we will discuss the benefits of conducting a cost-benefit analysis, guiding questions to help you and your stakeholders conduct one, and how to calculate return on investment (ROI).
+The benefits of a cost-benefit analysis
+
+A cost-benefit analysis can minimize risks and maximize gains for projects and organizations. It can help you communicate clearly with stakeholders and executives and keep your project on track. Because this type of analysis uses objective data, it can help reduce biases and keep stakeholder self-interest from influencing decisions. 
+
+Comparing a project’s benefits to its costs can help you make a strong business case to stakeholders and leadership and ensure your organization pursues the most profitable or useful projects. Organizations use cost-benefit analysis to reduce waste and invest their resources responsibly.
+Guiding questions for a cost-benefit analysis
+
+When you’re pursuing a project, the benefits should outweigh the costs. It’s important for you and your stakeholders to consider questions like the ones that follow early on, while you prepare the proposal.
+
+To determine the benefits of a project, you might ask:
+
+    What value will this project create? 
+
+    How much money could this project save our organization? 
+
+    How much money will it bring in from existing customers?
+
+    How much time will it save? 
+
+    How will it improve the customer experience?
+
+And to determine the costs of a project, consider questions such as:
+
+    How much time will people have to spend on this project?
+
+    What are the one-time costs?
+
+    Are there any ongoing costs?
+
+    What about long-term costs? 
+
+You might also consider questions about intangible benefits. These are gains that are not quantifiable, such as:
+
+    Customer satisfaction. Will the project increase customer retention, causing them to spend more on the company’s products or services? 
+
+    Employee satisfaction. Is the project likely to improve employee morale, reducing turnover? 
+
+    Employee productivity. Will the project reduce employee’s overtime hours, saving the company money?
+
+    Brand perception. Is the project likely to improve the company’s brand perception and recognition, attracting more customers or providing a competitive advantage?
+
+You can also flip these questions to consider intangible costs. These are costs that are not quantifiable. For example, might the project put customer retention, employee satisfaction, or brand perception at risk?
+
+When assigning values to tangible or intangible costs and benefits, you can reference similar past projects, conduct industry research, or consult with experts.
+Calculating costs and benefits
+
+The process of calculating costs and benefits is also called calculating return on investment, or ROI. There are many ways to determine a project’s ROI, but the easiest way is to compare the upfront and ongoing costs to its benefits over time.
+
+One common ROI formula is:
+
+In this formula, G represents the financial gains you expect from the project, and C represents the upfront and ongoing costs of your investment in the project.
+
+For example, imagine your project costs $6,000 up front plus $25 per month for 12 months. Twenty-five dollars for 12 months equals $300 per year, meaning your total cost is $6,300. You estimate that the project will bring in $10,000 in revenue over the course of that year. That leaves you with: 
+
+    G = $10,000
+
+    C = $6,300
+
+Now, using the formula above, you plug in the amounts as follows: 
+
+    ($10,000 - $6,300) ÷ $6,300 = ROI
+
+Then you proceed with the calculation: 
+
+    First, inside the parentheses:  10,000 - 6,300 = $3,700
+
+    Next, $3,700 ÷ $6,300 = 0.5873
+
+    Finally, 0.5873  x 100 = 58.7% 
+
+The ROI comes to 0.587, or 58.7%. Given a strong ROI tends to be anything above 10%, you find 58.7% to be a strong ROI, so you decide to pursue the project.
+Key takeaway
+
+Performing a cost-benefit analysis can help you and your stakeholders determine if it makes sense to take on a new project by evaluating if its benefits outweigh its costs. When conducting cost-benefit analyses for your prospective projects, you can use the guiding questions and ROI formula provided in this reading as a reference. 
+
+To learn more about performing a cost-benefit analysis, check out these articles:
+
+
+* Project 4: Python completed conditional statements
+- Conditional Statements in Python are just like conditional statements in SQL.
+- if the conditional statement evaluates in python to True, then the code inside the conditional statement will execute. 
+- if the condition evaluates to False, the code inside the python statement does not execute. 
+- we use the if statement, the else statement and elsif frequently in python. 
+
+```python
+# Example of an if statement 
+# the syntax for if statements is  if condition: statement
+# note it is too easy to forget the : in the IF statement.  when debugging check for : 
+
+if 5>6: print('yah') 
+
+# if we run this statement nothing happens because five is not gre4ater than six so the print statement doesn't execute because it is False
+
+if 5<6: print('yah')
+
+# this statement will print yah 
+```
+
+Conclusion is a conditional statement is a simple statement.  It functions in a sense like a light switch.  If something is true, we switch on to execute the associated statement.  If, however, the statement is False, we do nothing--the switch is off.
+
+If we want more than one on/off function we need a else: clause. 
+
+```python
+if 5>6: print('yay')
+else: print('boo') 
+
+# this returns boo sinc4e five is not greater than six, the statement is false and it runs the else 
+
+```
+
+ In other words, the statements in the else: clause execute when ever the if statement does not evaluate to true. 
+
+We can also use another python conditional technique when we need to check for multiple conditions. 
+
+```
+# python syntax looks like 
+if condition: 
+	statement
+elif condition2:
+	statement
+elif condition 3:
+	statement 
+else: 
+	statement 
+```
+
+To see this in action let's make a simple program which uses this structure to look at User input. 
+
+```python
+
+# Ask the user to enter a number 
+
+number = (int(input("Please enter a number between 1 and 10: "))
+
+# Series of if ... elif ... else statements to respond based on the number the user entered. 
+
+if number == 10:
+		print("High roller!") 
+elif number >- 8: 
+		print("You like your numbers high") 
+elif number >=4:
+		print("You're a middle of the road kind of person, hm?!") 
+else: 
+		print("Keeping it small.  I like it!") 
+
+# if you save this script with the name conditionalcode1.py
+# then visit command line and type python 3 conditionalcode1.py
+# you will be able to test the output.  test all of the outputs including if the user doesn't follow the instructions 
+```
+
+When testing the script, if we input the number 0, our program doesn't anticipate the person not following instructions.  We can fix this with either a nested statement or another statement before the else.  
+
+```python
+
+# Ask the user to enter a number 
+
+number = (int(input("Please enter a number between 1 and 10: "))
+
+# if statement to test if the user entered 0; if so, exit.
+
+if number == 0 
+		print("I can see you do not follow directions. Goodbye!")
+
+# Series of if ... elif ... else statements to respond based on the number the user entered. 
+
+if number == 10:
+		print("High roller!") 
+elif number >- 8: 
+		print("You like your numbers high") 
+elif number >=4:
+		print("You're a middle of the road kind of person, hm?!") 
+elif number >10:
+		print("I see you didn't follow the instructions.") 
+else: 
+		print("Keeping it small.  I like it!") 
+```
+
 * Project 5: Django for WP Dev 
 * Extras N/A
 <br>
 
 :seedling: R5D7 2026-06-16 :new_moon: 
 * Project 1: GIT- Completed the next module looking at MCP and copilot automation scope and availability inside Github. 
-* Project 2: Learning
+* Project 2: Learning 
 * Project 3: PM - Completed an assessment project where we were given a real-life scenario, and then asked to prove we understood the standard initiation phase of launching a project.  I scoared 100% on the task.
 ```
   Cost Benefit Analysis Formula:  (g-c) / c = roi 

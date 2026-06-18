@@ -1,0 +1,106 @@
+Commit
+
+A saved snapshot of your project at a specific point in time, containing a message describing what changed, who changed it, and a unique identifier called a hash. Commits form a chain where each one points back to the one before it.
+
+Repository
+
+A folder that Git is tracking, containing your project files along with the complete history of every commit. On GitHub, a repository also serves as a collaborative hub where code is reviewed, issues are filed, and project history remains visible.
+
+Hash
+
+A unique identifier automatically generated for every commit, serving as a permanent address that lets you reference, inspect, or revert to any specific snapshot in the project history. Displayed in shortened form in commands like git log --oneline.
+
+Remote
+
+A copy of a Git repository hosted on a platform like GitHub, enabling access from anywhere and collaboration with others. The conventional name for your primary remote is origin, and connecting your local repository to a remote lets you push, pull, and clone across machines.
+
+Key Terms: Local Git Workflows
+Staging
+
+The process of selecting specific file changes to include in the next commit using git add or the VS Code source control plus icon. Staged files move into a holding area so you can build deliberate, well-described commits rather than saving everything at once.
+Git Restore
+
+A command that discards uncommitted changes in a working file, reverting it to the last committed version. Safe to use before staging because nothing has been recorded yet, and the equivalent action in VS Code is the discard-changes button in the source control panel.
+Git Revert
+
+A safe undo command that creates a new commit which reverses the changes from a previous commit while preserving the original in history. Recommended for undoing work that has already been pushed to GitHub because it keeps the commit history honest and intact.
+Git Reset
+
+A command that moves the branch pointer backward, removing commits from history in three modes: soft keeps changes staged, mixed (the default) unstages but preserves file changes, and hard permanently discards both the commits and the file modifications.
+Git Log
+
+A command that displays the chain of commits in a repository, showing each commit's hash, author, timestamp, and message. The --oneline flag condenses output to one line per commit for fast scanning, and every commit's full details remain available for deeper inspection.
+
+Git Definitions 
+Clone: Downloads a brand new copy of a remote repository onto your computer for the first time.Pull: Fetches new changes from a remote repository and immediately merges them into your current local files.Push: Uploads your saved local commits from your computer up to a remote repository
+
+Key Terms: Branching and Pull Requests
+Branch
+
+A separate, isolated line of development created as a lightweight pointer to a commit. Branching takes less than a second even on large projects because Git does not copy the codebase, and it keeps the main branch clean while new features or fixes are developed independently.
+Main Branch
+
+The primary branch in a repository that represents the stable, production-ready state of the code. Teams protect main by requiring all changes to arrive through pull requests with code review rather than merging locally, ensuring history stays clean and vetted.
+Pull Request
+
+A proposal on GitHub to merge changes from one branch into another, giving teammates a chance to review the code before it reaches main. GitHub pre-fills the title from the last commit, displays every file that changed, and checks for merge conflicts automatically.
+Code Review
+
+The process of examining proposed changes in a pull request before merging, where reviewers inspect the diff showing added and removed lines, leave comments, request modifications, and ultimately approve the merge to maintain code quality across the team.
+Merge Conflict
+
+A situation that arises when two branches modify the same part of a file and Git cannot automatically combine the changes. GitHub detects conflicts and flags the pull request, requiring the contributor to resolve the conflicting lines before the merge can proceed.
+
+Key Terms: Community and Automation
+Fork
+
+A personal copy of someone else's repository that lives under your own GitHub account, giving you full control to make changes independently. The entire open-source ecosystem runs on forking, where contributors clone their fork locally, create a branch, and open a pull request back to the original upstream repository.
+Upstream
+
+The original repository from which a fork was created. GitHub tracks the connection between a fork and its upstream automatically, enabling cross-repository pull requests where maintainers review and merge contributions from external collaborators.
+Issue
+
+A shared task tracker built into every GitHub repository where teams and open-source communities report bugs, request features, and ask questions. Issues can be assigned to specific people, tagged with labels like "bug" or "feature," linked to pull requests that fix them, and closed as completed, not planned, or duplicate.
+GitHub Actions
+
+An automation platform built into GitHub that runs workflows triggered by repository events such as pushes or pull requests. Workflows contain jobs that run in parallel on fresh virtual machines, and each job contains ordered steps that execute commands or reference pre-built actions from the GitHub Marketplace.
+Workflow
+
+A set of instructions defined in a Yet Another Markup Language (YAML) file that GitHub follows when a trigger fires, structured in four nested layers: trigger, workflow, jobs, and steps. Teams use workflows to run tests, check formatting, scan for security vulnerabilities, and deploy applications automatically.
+
+​GitHub Actions is an automation platform built directly into GitHub. ​It lets you run code automatically whenever something happens in your repository. ​A push, a pull request being opened, a new release, or a schedule you define. ​The most common use is automatically running your tests every time someone pushes code ​or opens a pull request. ​If they pass, great. ​If they fail, the pull request gets flagged before anyone merges broken code into main. ​You've automated a check that would otherwise depend on someone remembering to run tests ​manually. 
+
+Key Terms: Repository Best Practices
+Gitignore
+
+A file named .gitignore placed at the root of a repository that lists patterns for files and folders Git should exclude from tracking. Matched files never appear in git status, cannot be staged, and are treated as if they do not exist, protecting secrets, generated outputs, and machine-specific files from being committed.
+Glob Pattern
+
+A simple pattern syntax used inside .gitignore where an asterisk matches any sequence of characters (e.g., *.log ignores all log files), a trailing slash denotes a directory (e.g., node_modules/), and a plain filename matches that file anywhere in the repository tree.
+README
+
+A markdown file named README.md that GitHub renders as formatted Hypertext Markup Language (HTML) on the repository landing page. A good README answers what the project does, how to get it running, how to use it, and how to contribute, serving as the first impression for every visitor.
+Markdown
+
+A lightweight text formatting syntax that GitHub renders into structured HTML, using hashes for headings, asterisks for bold and italic text, backticks for inline code and fenced code blocks with syntax highlighting, hyphens for unordered lists, and square-bracket-parenthesis pairs for hyperlinks.
+Contributing Section
+
+A section in the README that signals whether a project accepts outside contributions and what process to follow. Even a single sentence such as "Pull requests are welcome; please open an issue first to discuss changes" tells contributors the project is open and gives them a clear path to participate.
+
+Key Terms: GitHub AI and Agents
+Coding Agent
+
+An autonomous Artificial Intelligence (AI) system on GitHub that receives a task (typically via a GitHub issue), spins up an isolated development environment, creates a branch, writes code, runs tests and linters, opens a pull request with a clear description, and iterates on review feedback until a human merges the result.
+Model Context Protocol (MCP)
+
+A standard that extends what a coding agent can access beyond the repository by connecting it to external data sources and tools. GitHub's agent ships with two built-in MCP servers (one for the GitHub platform, one for web browsing), and teams can add custom MCP servers for services like design tools or error monitoring dashboards.
+Agent Security Model
+
+The set of permission boundaries that constrain what a coding agent can do: it can only push to branches it creates (prefixed with copilot/), it cannot approve or merge its own pull requests, GitHub Actions workflows require human approval before running, and the agent scans its generated code for vulnerabilities before completing the pull request.
+Custom Agent
+
+A specialized agent configuration created by a team with its own instructions, tools, and area of expertise — such as a frontend agent with knowledge of the design system, a documentation agent that follows the team's writing style, or a testing agent that understands project-specific coverage patterns — allowing tasks to be routed to the right agent for the job.
+Asynchronous Delegation
+
+The operational model that distinguishes agents from assistants: instead of the Artificial Intelligence (AI) working synchronously alongside a developer in the editor, the developer assigns a well-defined task, the agent works independently in the background, and delivers a pull request for review — shifting low-to-medium complexity work off the developer's active workload.
+
