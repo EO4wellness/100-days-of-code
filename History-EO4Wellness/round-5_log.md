@@ -27,7 +27,6 @@ Master Tough Subjects                           | 65%
 3. Google Project Management            
 Course 1 of 7
 Foundations of Project Management               | 100% 
-June 15, 2026-Began Course 2 of 7               | 13%
 4. Python Scripting Fundamentals                | 21%
 5. Django for WordPress Developers              | 14%
 
