@@ -11,8 +11,7 @@ Mental Tools to Help you
 5. Django for WordPress Developers              | 14%
 
 ### TEMPLATE:  :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D10 2026-06-19  
-* Project 2: Learning - Memory 
+## :seedling: R5D11 2026-06-20  
 * Project 3: PM - Project Initiation: Starting a Successful Project 
 * Project 4: Python - 
 * Project 5: Django for WP Dev 
@@ -20,16 +19,59 @@ Mental Tools to Help you
 <br>
 
 =======
+3. Google Project Management            
+Course 1 of 7
+3.1 Foundations of Project Management           | 100% 
+3.2 June 15, 2026-Began Course 2 of 7           | 21%
+4. Python Scripting Fundamentals                | 21%
+
+COMPLETED: 
 1. GitHub: From Zero to Pull Request            | 100% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-Master Tough Subjects                           | 65%
-3. Google Project Management            
-Course 1 of 7
-Foundations of Project Management               | 100% 
-June 15, 2026-Began Course 2 of 7               | 21%
-4. Python Scripting Fundamentals                | 21%
-5. Django for WordPress Developers              | 14%
+Master Tough Subjects                           | 100%
+6. Intro to ClickUp in Project Management       | 100%
+
+
+
+
+## :seedling: R5D10 2026-06-19  
+* Project 2: Learning - Memory - Finished the assignments in Module 3 and progressed to Module 4-the end is in sight. Completed presentation on self teaching course project. 
+
+* Project 3: PM - Project Initiation: Starting a Successful Project 
+While I'm committed to taking, and finishing, the Google PM coursework, I took a moment today to think about and research other options.  I found PMP and the 35 hours of instruction requirement for progressing with certification. I also revisited the exams for Google's Foundations of PM and retook them as a method of recalling the materials.  
+OKRs - stretch goals -
+Objective
+Key Results 
+
+OKR-levels 
+- company or organization level (annual updates) 
+- department or team level 
+- project level 
+
+Office Green Example:   Objective-increase customer retention by adapting to the changing workplace environment
+
+Based on Office Green's over-arching objective, they develop key results such as: 
+- 95% of phone, chat, and email customer support tickets are resolved during the first contact. 
+- Our top 3 most requested new offering for distributed office environments are in pilot by the end of the second quarter. 
+- Our sales and support channels are available 24/7 by the end of the year. 
+
+Any of these could become its own project.   
+Any one of these could become further subprojects such as the sales support 24/7 could lead new team OKRs such as Objective: Increase the sales team presence nation wide. to Key Result: New sales offices are open in 10 cities by the end of the year. 
+
+- OKR stands for Objectives and Key Results.  They combine a goal and a metric to determine a measurable outcome. 
+- Objectives define what needs to be achieved and describe a desired outcome. 
+- Key Results define how you will measure the outcome of your objective. 
+- Company-level OKRs are shared across an organization so that everyone can align and focus their efforts to help the company reach its goals. 
+- Project-level OKRs help define measurable project goals. They need to align with and support both company and department level OKRs. 
+
+Working on OKR project. 
+
+* Project 4: Python - 
+* Project 5: Django for WP Dev 
+* Extras N/A
+<br>
+
 
 :seedling: R5D9 2026-06-18  
 * Project 1: GIT - COMPLETED dropping from future notes
