@@ -12,6 +12,7 @@ Mental Tools to Help you
 
 ### TEMPLATE:  :walking: :sleeping: :fork_and_knife:
 ## :seedling: R5D11 2026-06-20  
+## :seedling: R5D14 2026-06-23  
 * Project 3: PM - Project Initiation: Starting a Successful Project 
 * Project 4: Python - 
 * Project 5: Django for WP Dev 
@@ -24,15 +25,171 @@ Course 1 of 7
 3.1 Foundations of Project Management           | 100% 
 3.2 June 15, 2026-Began Course 2 of 7           | 21%
 4. Python Scripting Fundamentals                | 21%
+=======   
+3.2 June 15, 2026-Began Course 2 of 7           | 30%
+4. Python Scripting Fundamentals                | 26%
+7. PMP Exam Practice                            | 35%
 
 COMPLETED: 
 1. GitHub: From Zero to Pull Request            | 100% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
 Master Tough Subjects                           | 100%
+3. Google Project Management            
+Course 1 of 7
+3.1 Foundations of Project Management           | 100% 
 6. Intro to ClickUp in Project Management       | 100%
 
 
+:seedling: R5D13 2026-06-22  
+* Project 3: PM - Project Initiation: Starting a Successful Project - Looked at [Lean Six Sigma certification](https://www.sixsigmaonline.org/) stats and various [PMI courses](https://www.pmi.org/learning/free-online-courses). 
+
+OKRs are: 
+- Aspirational: Is the objective challenging and inspiring?
+- Aligned with company goals: Does the objective support company and/or departmental OKRs?-
+- Action-oriented: Does the objective motivate the team to take initiative?
+- Concrete: Can the project team easily grasp the objective?
+- Significant: Will achieving the objective make a meaningful impact or change from where you are currently?
+
+
+* Project 4: Python - Finished Labs and practice assessment. Scored 100%
+* Project 5: Django for WP Dev 
+* Project 7: PMP Exam Practice - Continued looking at what is needed to take the exam.  Realized I'll be eligible to take the [Certified Associate in Project Management-CAPM ](https://www.pmi.org/certifications/certified-associate-capm) now and work towards building my recent 8 year experience proof for taking the PMP soon thereafter.  
+* Extras N/A -set up computer for Help Desk. 
+<br>
+
+:seedling: R5D12 2026-06-21  
+* Project 3: PM - Project Initiation: Starting a Successful Project  - worked today on finishing up the OKRs project and setting up ClickUp as a portfolio of my work, as well as initiating a repo for PM templates, best practices, thought guides.  Planned structure and laid out roadmap. 
+
+* Project 4: Python - Took a look at loops. 
+## Loops- in Python are any statement which are going to execute more than once. A loop also serves the function of keeping a block of code active until it is no longer needed.
+
+### Types:
+1. **While** Loops which execute until some condition is met. 
+2. **For** Loops which iterate a specific number of times.  
+
+```
+# Use a while loop to test for a valid condition. 
+
+while not (answer == 'y' or answer == 'n'):
+     print("I am sorry, thats not a valid answer. Please try again.")
+     answer = input("Would you like to play a game? (y/n)")
+```
+While Loops can also be used as a counter. 
+
+```
+# example simple python counter.
+
+answer = input("Please enter a number between 1 and 10")
+
+counter = int(answer)
+
+while counter >0:
+     print("tThe value of the counter is ', counter)
+
+counter = counter = 1
+
+```
+A for loop is always used with a sequence or collection of items. 
+
+```
+a = test 
+print(len(a))
+
+``` 
+
+* Project 5: Django for WP Dev 
+* Extras N/A
+<br>
+
+
+:seedling: R5D11 2026-06-20  
+* Project 3: PM - Project Initiation: Starting a Successful Project working on the OKRs project. 
+* Project 4: Python - Today's topic was Identity Operators. 
+- Identity Operators-today's topic. 
+- Methods
+- recall, every object in python has a type. 
+- if it is data, it has a data type 
+- if it not data, it will have a type related to whatever it is 
+- Example if we had a button inside a windows application, the object would be the button type
+- When we call a function we have to provide the information in the arguments of the function. 
+- If the function affects the object, then we specify the object as one of the arguments. 
+
+```python
+# Lets take a look at variables: 
+
+a = "5" 
+
+# now let's check the value: 
+
+print(a)
+
+# the output when we run this Python code is 5 
+
+# now let's check the type: 
+
+print(type(a))
+
+# the output, because we put the quotes around it, is going to return <class 'str'>
+
+```
+- Some functions are limited to objects of a certain type or may be functions that are often used with objects of that type. 
+- When the programmer creates objects in that language, they specify these functions in advance in the form of methods. 
+- A method is a built-in function that can be called by an object.
+- when you use (invoke) a method, use this syntax: 'variable.method()' or object.method()
+- when you invoke a method, it automatically impacts the object.
+- the only arguments you need to supply are any 'missing'  information 
+- string objects have an isdigit() method.
+- the isdigit method of a string tests to see if the string is actually a number
+- if the string contains a number, isdigit() returns a value of True. 
+- Python objects = data + abilities 
+- this is why bool True and False are capital 
+- in Python all objects are standardized to capital letters 
+
+```python
+# continuing our previous code above we can test this and illustrate what we have learned
+
+a = '5' 
+print(a.isdigit())
+
+# this returns True 
+```
+
+- we have two identity operators: 'is' and 'is not' 
+- these are not the same as '==' and '!=' 
+- because  '==' and '!=' are used to evaluate the values of objects
+- whereas identity operators test to see if the two items are or are not the same object 
+```
+a = 'string'
+if type(a) is str:
+  # then do something if true
+a = 'string' 
+if type(a) is not int: 
+  # then do something else if not true 
+
+now we can update our little game with a check to make sure it is a number not another character that is not an number 
+
+Order of Operations in Python
+1. Exponents 
+** 
+2. Multiplicative Operators 
+* / %
+3. Additive Operators 
++ - 
+4. Relational/Comparison Operators 
+<= <  >  >=
+5. Equality Operators 
+== != 
+6. Identity Operators 
+'is'  'is not' 
+7. Logical Operators 
+'and'  'or'  'not' 
+
+
+
+* Project 5: Django for WP Dev 
+* Extras N/A
+<br>
 
 
 ## :seedling: R5D10 2026-06-19  
