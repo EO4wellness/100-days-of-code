@@ -5,41 +5,138 @@
 * The acronym is ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
-<<<<<<< HEAD
+```
+
+3.3 Project Planning: Putting It All Together   |   8% 
+4. Python Scripting Fundamentals                |  21%
+5. Django for WordPress Developers              |  14%
+8.2 Google Calendar                             |  23%
+
+=======
+COMPLETED: (Start Date) 
+1. GitHub: From Zero to Pull Request (June/2026)| 100% 
 2. Learning How to Learn: Powerful
 Mental Tools to Help you
-5. Django for WordPress Developers              | 14%
+Master Tough Subjects  (June/2026)              | 100%
+3. Google Project Management  (7 Courses)          
+3.1 Foundations of Project Management (6/7/26)  | 100% 
+3.2 Project Initiation: (6/15/26)
+    Starting a Successful Project               | 100%
+3.3 (6/26/26)
+6. Intro to ClickUp in Project Management       | 100%
+8: Google Workplace (9 Courses) 
+8.1 Gmail                                       | 100%
 
-### TEMPLATE:  :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D11 2026-06-20  
-## :seedling: R5D14 2026-06-23  
+```
+
+### NEXT TEMPLATE:  :walking: :sleeping: :fork_and_knife:
+## :seedling: R5D18 2026-06-27  
 * Project 3: PM - Project Initiation: Starting a Successful Project 
 * Project 4: Python - 
 * Project 5: Django for WP Dev 
 * Extras N/A
 <br>
 
-=======
-3. Google Project Management            
-Course 1 of 7
-3.1 Foundations of Project Management           | 100% 
-3.2 June 15, 2026-Began Course 2 of 7           | 21%
-4. Python Scripting Fundamentals                | 21%
-=======   
-3.2 June 15, 2026-Began Course 2 of 7           | 30%
-4. Python Scripting Fundamentals                | 26%
-7. PMP Exam Practice                            | 35%
 
-COMPLETED: 
-1. GitHub: From Zero to Pull Request            | 100% 
-2. Learning How to Learn: Powerful
-Mental Tools to Help you
-Master Tough Subjects                           | 100%
-3. Google Project Management            
-Course 1 of 7
-3.1 Foundations of Project Management           | 100% 
-6. Intro to ClickUp in Project Management       | 100%
 
+## :seedling: R5D17 2026-06-26  
+* Project 3: PM - Project Initiation: Starting a Successful Project 
+```
+a project kick-off meeting is and what it involves. As a reminder, a kick-off meeting is the first meeting among the project team, stakeholders, and the project sponsor at the start of a new project or new project phase. The purpose of a kick-off meeting is to ground everyone in a shared vision, ensure they understand the project’s goals and scope, and make sure that they are all on the same page about their roles and responsibilities on the project. The kick-off meeting is critical to a project’s overall success. It gets the team together to align on goals and visions for the project and sets the project up for success.
+
+Kickoff Meeting - 1st meeting, share vision, ground everyone in the goals align on scope set expectations 
+Invite the teammates from the RACI chart
+
+Time Frame: 1 hour
+
+10 min - brief introduction. name, project role, 1 fun fact.
+
+5 min overview of the project background (how the project came to be and why it matters)
+
+Shared Vision
+
+5 min: share goal and scope (boundaries) 
+  - in scope
+  - out of scope
+- targeted launch date
+- highlight important milestones 
+
+
+5 min - whose accountable, what roles each are responsible for
+
+10 min: collaboration. Communication - tool(s), expectations,  how we collaborate 
+
+10 min discuss 'what's next'
+
+15 min Q & A
+
+End : shared document with feedback and suggestions 
+
+Poll 1 (not confident at all) 5 totally confident 
+If they aren't confident ask what the pm can do to change that
+
+Establish you are there to remove roadblocks 
+
+ATTENDEES
+
+PRE READ 
+Review Project Charter ahead of kick off meeting
+
+AGENDA:
+Introduction 
+Project Background 
+Goals and Scope
+Roles
+Collaboration 
+What's Next 
+Questions
+
+GOAL: 
+
+NOTES:
+
+ACTION ITEMS:
+
+Best Practices 
+Record meeting
+Send a follow up email after the meeting summarizing key points
+List action steps
+Ask for questions 
+
+Kick-off meeting best practices
+Set the right time. Choose a meeting time that works for everyone. Be mindful of time zone differences. 
+
+Set the right length. Choose an appropriate meeting length—no more than one hour. You don’t want to waste people’s time, but you also don’t want to run out of time. Kick-off meetings work best when you first share key information and then spend any additional time on questions and team building.
+
+Invite the right people. Be strategic about including the appropriate people. The goal is to invite attendees who play a role in the development and execution of the project, such as all team members, stakeholders, and the project sponsor. You don’t want to leave anyone out, but you also don’t want to invite people who shouldn’t be there.
+
+Designate a notetaker. The discussion that takes place during the meeting is important. It is critical that you document any feedback, changes, or questions asked by attendees. If you are leading the meeting, designate someone else to take notes before the meeting starts. You can also use tools like Chorus Notetaker, Google Keep, Google Docs, or Microsoft OneNote.  
+
+Set the agenda. To recap what we discussed in the video, a kick-off meeting agenda should generally include: introductions, the project background and purpose, project goals and scope, roles and responsibilities, the collaboration process and project tools, what comes next (expectations and action items), and time for questions and discussion.
+
+Share the agenda. Prior to the meeting, share the agenda with attendees via email and identify speakers for each topic. By sending the agenda in advance, everyone will have an idea of what to expect, time to prepare for anything they may need to present or discuss, and time to generate questions or ideas.
+
+Stick to the agenda. During meetings, discussions can sometimes go off topic or take longer than expected. As a project manager, it is your job to keep the meeting on track by redirecting discussions to the items on the agenda. 
+
+Follow up after the meeting. After the meeting, make sure to send out a meeting summary featuring the meeting notes and any action items. 
+```
+* Project 4: Python - Lists 
+```
+- Lists are mutable 
+- allow you to store multiple values 
+- can contain different data types 
+- enclose the list in square brackets
+- each list value is separated by a comma 
+- in Python its a list, in other languages its often called an array 
+```
+* Project 8: 
+```
+this focuses on using the Google Calendar and Schedule features using a fictional business named On The Rise Bakery whose owners are Thomas Omar and Saroja Malone 
+```
+* Extras N/A - study of freeCodeCamp Spanish certification course, apply to PM roles. 
+<br>
+
+😱 git-hub mix up for dates inbetween--reason why we should always use branches, but I didn't. 
 
 :seedling: R5D13 2026-06-22  
 * Project 3: PM - Project Initiation: Starting a Successful Project - Looked at [Lean Six Sigma certification](https://www.sixsigmaonline.org/) stats and various [PMI courses](https://www.pmi.org/learning/free-online-courses). 
