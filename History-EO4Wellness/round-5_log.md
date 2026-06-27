@@ -8,9 +8,9 @@
 ```
 
 3.3 Project Planning: Putting It All Together   |   8% 
-4. Python Scripting Fundamentals                |  21%
+4. Python Scripting Fundamentals                |  35%
 5. Django for WordPress Developers              |  14%
-8.2 Google Calendar                             |  23%
+8.2 Google Calendar                             |  37%
 
 =======
 COMPLETED: (Start Date) 
@@ -31,12 +31,154 @@ Master Tough Subjects  (June/2026)              | 100%
 
 ### NEXT TEMPLATE:  :walking: :sleeping: :fork_and_knife:
 ## :seedling: R5D18 2026-06-27  
-* Project 3: PM - Project Initiation: Starting a Successful Project 
+* Project 3: Project Planning: Putting It All Together
 * Project 4: Python - 
 * Project 5: Django for WP Dev 
+* Project 8.2 Google Calendar
 * Extras N/A
 <br>
 
+
+## :seedling: R5D18 2026-06-27  
+* Project 3: Project Planning: Putting It All Together 
+## Understanding Milestone vs Tasks: 
+- **Milestone** An important point within the project schedule that indicates progress and usually signifies the completion of a deliverable or phase of the project. In other words--these are important checkpoints in the project and therefore we need to keep track of them so we can meet our overall goals. 
+- **Project Task88 An activity that needs to be accomplished within a set period of time. There are lots of tasks within any one milestone. 
+- Example: Office Green.  Deliverable=launch a website for this new service.  Milestone=1. Securing Approval on the website design. 2. Implementing feedback from user testing.  Task(s)= 1. Hire or appoint a website designer 2. Website designer needs to create initial mockups of the proposed website. 3. Seek approval of website design.  4.  Designer implements any needed changes based on feedback. 5. Design the consumer feedback survey (online, in office).  6. Conduct survey. 7. Collect feedback. 8. Implement feedback.  9.  Seek approval. 
+- Milestone pitfall-it is often tempting to make a quick "To-Do" list and get started quickly, don't do this.  It can lead longer term to project confusion or failure. We need to analyze the project steps and break it down piece by piece what needs to accomplished, and in what order, and we do this by focusing on setting the project milestones.
+- Setting clear milestones gives you a clear understanding of the amount of work your project will require. 
+- Milestones can help keep your project on track due to the clear deadlines we've assigned for the completion of each milestone. 
+- The process of setting milestones also helps us to uncover any hidden areas where we may need to adjust the scope, the timeline, or seek additional resources to meet our project goals. 
+- Reaching our project milestones also serves as an excellent motivator for the team, it also serves in illustrating the real progress to our other stakeholders. 
+- Motivating a BIG project requires keeping motivation high across months and months of time.  
+- Celebrate milestone achievements to help motivate the team. 
+- Milestones also serve as a great check-in point to highlight our team progress to our stakeholders. This is important on a number of levels, including having our work checked to ensure it is up to the stakeholder's standards. 
+- Milestones must be completed on time and in sequential order. 
+- Example: Project Plant Pals at Office Green. 
+- If any part of the team fails to complete any project deliverable tied to a specific milestone on time, it can set back the entire project schedule simply because most milestones are depended on the other milestones which come before it--you cannot receive feedback from a group of consumers regarding your new website design if it isn't even started, or completed. 
+- Often payments/resources are tied to not missing deadlines. 
+- Non-negotiable deadlines for milestones.
+
+## Set Milestones within the Project:
+1.  Evaluate the project as a whole. Refer back to the **Project Charter** to remind yourself.  Focus on the **Project Goal**. 
+2.  Make a list of what the team needs to do to achieve the goal. Separate out the milestones from the tasks. We are first going to plan the Milestones, and their appropriate deadlines; then the tasks but we need to be clear in our minds the distinction to start planning the milestone. 
+
+	2.1 Require Stakeholder Approval:  Milestones
+	2.2 Don't require stakeholder approval: Tasks
+
+```
+Example: Office Green
+1.  Milestone: Secure approval of website design.
+     Task: Mock up wire frame of website.
+2.  Milestone: Completing the website build
+     Task: Building a landing page.
+3.  Milestone: Implementing consumer feedback changes. 
+```
+
+- Different project differ on the number of milestones (and tasks) needed to complete them.  
+
+3.  Assign each Milestone a firm Deadline. Depending on the number of tasks and milestones you've determined your project needs to meet, you'll need to space out the milestones across the project.  Larger projects with a long list of tasks and milestones need more time to accomplish so don't plan multiple related milestones deadlines in the same work week. Since timing is so important (to motivation and completing the work so the project does not fail) you can meet with teammates to discuss the tasks required to reach each milestone and get their rough estimates for how long those tasks will take them to complete. Then, make an informed decision about the deadlines for each milestone. You'll also want to consider the needs of your stakeholders when setting deadlines. Stakeholders will want to see regular indications that our team is making progress. 
+
+## Best Practice of Setting Milestones and Deadlines 
+
+- A **project task** is an activity that needs to be accomplished within a set period of time and is assigned to one or more individuals for completion. The work of a project is broken down into many different project tasks. 
+
+- A **project milestone** is an important point within the project schedule that usually signifies the completion of a major deliverable. Milestones are significant checkpoints in your project, and keeping track of them helps ensure that your project is on schedule to meet its goals.
+
+### Set tasks to identify milestones
+
+Setting tasks can help you clearly define milestones. You can do this in two ways:
+
+1.    **Top-down scheduling:** In this approach, the project manager lays out the higher-level milestones, then works to break down the effort into project tasks. The project manager works with their team to ensure that all tasks are captured.
+
+2.    **Bottom-up scheduling:** In this approach, the project manager looks at all of the individual tasks that need to be completed and then rolls those tasks into manageable chunks that lead to a milestone. 
+
+Most projects have many tasks that lead to milestones. For instance, if your milestone is to receive approval on the first draft of an article that you are writing, you might complete tasks such as “develop outline,” “write first draft,” and “send to the editor.” Then, you may have another set of tasks to achieve before reaching the milestone of revising the article. Milestones serve as check-in points along your project to make sure that you are headed in the right direction toward the end goal. Milestones also make projects more manageable.
+
+### Integrate milestones into your project schedule
+
+There is not a consistent number of milestones in every project. Some projects will have a few milestones, while others may have dozens. Rather than aiming to hit a certain number of milestones, try to set milestones for the most important events in your project. Review your project schedule and identify important moments or checkpoints. In other words, pinpoint where in your project you will achieve major goals and make those points your milestones. 
+
+### Milestone-setting pitfalls
+
+Here are some things to avoid when setting milestones: 
+
+-    Don’t set too many milestones. When there are too many milestones, their importance is downplayed. And, if milestones are too small or too specific, you may end up with too many, making the project look much bigger than it really is to your team and stakeholders.  
+
+-    Don’t mistake tasks for milestones. Remember that milestones should represent moments in time, and in order to map out how you will get to those moments, you need to assign smaller tasks to each milestone.
+
+-    Don’t list your milestones and tasks separately. Make sure that tasks and milestones can be visualized together in one place, such as a project plan. This will help ensure that you are hitting your deadlines and milestones. 
+
+### Key takeaways
+
+Your approach to setting milestones may differ from project to project, but most projects will have at least one milestone and several smaller tasks associated with each milestone. Setting clearly-defined, distinct tasks, and milestones, integrating them into your project schedule, and using a tool that visualizes them together will help organize your project and drive it forward. 
+
+
+* Project 4: Python - 
+
+## Tuples (tup-el or too-pi'ls are both the correct pronunciation; it is you or your organization's preference).
+-tuples are nearly like lists however the distinction is they immutable=you cannot change them. 
+- processes faster than a list 
+- index works the same
+- slices work the same 
+- min and max
+- you can convert a list to a tuple and a tuple to a list
+
+## Sets
+- sets are like lists but they do not allow duplicate values
+- Unordered
+- immutable data types (Integers, Floats, strings)
+- cannot contain other lists or Dictionaries
+- doesnot have indexes (because they aren't  ordered)
+- Sets process faster than list- Use braces 
+- you can use a set function to convert something to a set
+- is March in set2? print('mar' in set.2) returns True if mar is in set2-add a value.  set2.add('jan')- set2.remove('jan')
+- we can also use the difference method, which compares one value to another
+- find out whats in the 1st set but not in the second 
+- note the order could change the answer. print(mySet.difference(set2))
+- to find where they overlap use intersection. print(mySet.intersection(set2))
+- union combines 2 Sets, but it removes any duplicates such as print(mySet.union(set2))
+- print(set2,clear()) 
+
+## Ranges
+- immutable 
+- sequence of Integers 
+- typical use: loop or iterate 
+- syntax: range( start, stop, step)
+-  example:   
+```
+myRange = range (0, 50, 5)
+print (myRange [3] )
+
+#Returns 15 [0, 5, 10, 15...]
+```
+Lab Example of Using: 
+
+```python
+# Problem to solve: Is a number even?
+# create a range 
+myRange = range(2, 52, 2)
+
+# ask the user for a number 
+answer=input('Please type a number from 1 to 50')
+
+# test if the answer is in the range
+
+if int(answer) in myRange:     
+     print('Your number is even')
+else:
+     print('Your number is odd')
+```
+This example reminds me I think this is one of the [Leet Code](https://leetcode.com/) daily coding challenges.
+
+
+* Project 8.2 Google Calendar
+- Cool feature, there is an auto **room** release (when guests cancel) 
+- room feature can be set up by the organization for our workspace (if we don't have it, talk to the IT department or Google Workspace management team) 
+- project shared resources can have their own calendar so team members can reserve them as needed and know when they are available 
+
+* Extras N/A
+<br>
 
 
 ## :seedling: R5D17 2026-06-26  
