@@ -7,10 +7,10 @@
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
 
-3.3 Project Planning: Putting It All Together   |   8% 
-4. Python Scripting Fundamentals                |  35%
+3.3 Project Planning: Putting It All Together   |  15% 
+4. Python Scripting Fundamentals                |  41%
 5. Django for WordPress Developers              |  14%
-8.2 Google Calendar                             |  37%
+8.3 Google Drive                                |  27%
 
 =======
 COMPLETED: (Start Date) 
@@ -26,16 +26,121 @@ Master Tough Subjects  (June/2026)              | 100%
 6. Intro to ClickUp in Project Management       | 100%
 8: Google Workplace (9 Courses) 
 8.1 Gmail                                       | 100%
+8.2 Google Calendar                             | 100%
 
 ```
 
-### NEXT TEMPLATE:  :walking: :sleeping: :fork_and_knife:
-## :seedling: R5D18 2026-06-27  
+### NEXT TEMPLATE:
+🌱 R5D21 2026-06-30
+
+    Project 3: PM - Project Initiation: Starting a Successful Project
+    Project 4: Python - Debugging 
+    Project 5: Django for WP Dev
+    Project 8.3 Google Drive
+    Extras N/A
+
+  
+## :seedling: R5D20 2026-06-29  
 * Project 3: Project Planning: Putting It All Together
-* Project 4: Python - 
+
+WBS - Work Breakdown Structure. A tool that sorts the milestones and tasks in a hierarchy in the specific order they need to be accomplished
+- Visualization 
+- WBS is the major component of the planning phase
+- Make big tasks more managing chunks 
+- tree diagram is common
+- once identified,  these get organized typically in a spreadsheet for ease of assigning tasks
+- consider workloads and keep balance 
+- tools like Asana
+- start each task with a verb
+- personal responsibility for team members 
+- pm support encouraging teammates
+```
+Steps to build a WBS
+As a reminder, here are three main steps to follow when creating a WBS: 
+
+Start with the high-level, overarching project picture. Brainstorm with your team to list the major deliverables and milestones. Example: Imagine you are planning a company event. Your major milestones might include categories like “secure venue,” “finalize guest logistics,” and “establish agenda.”
+
+Identify the tasks that need to be performed in order to meet those milestones. Example: You could break a milestone like “secure venue” down into tasks like “research venues,” “tour and decorate space,” “make down payment,” and so on. 
+
+Examine those tasks and break them down further into sub-tasks. Example: You could break down a task like “tour and decorate space” further into sub-tasks like “organize decorating committee,” “purchase decorations,” “assign decorating responsibilities,” and so on. 
+
+```
+WPS is a major component of the planning phase: the creation of a work breakdown structure (WBS). A WBS is a deliverable-oriented breakdown of a project into smaller components. It’s a tool that sorts the milestones and tasks of a project into a hierarchy, in the order they need to be completed. 
+
+A thorough WBS gives you a visual representation of a project and the tasks required to deliver each milestone. It makes it easier to understand all of the essential project tasks, such as estimating costs, developing a schedule, assigning roles and responsibilities, and tracking progress. Think of each piece of information as part of the overall project puzzle—you can’t successfully navigate through the tasks without understanding how they all fit together. For instance, many smaller tasks may ladder up to a larger task or milestone.
+
+Recommended Reading:  [How to Create a Work Breakdown Structure by Lucid](https://lucid.co/diagram/wbs/work-breakdown-structure-tutorial)
+
+```
+How to import a spreadsheet to Asana  Source:  https://help.asana.com 
+
+There are three different opportunities to import data from a CSV file into Asana:
+
+    When creating a new project from a team
+    When using the Quick Add button
+    When using the drop-down menu in an existing project.
+
+NOTE: Importing data via CSV will not update any existing tasks in the project. The CSV importer can only add tasks to a project. 
+
+Create a project for a team
+- Navigate to the sidebar
+- Click the arrow next to the team’s name
+- Click Create project
+- Select Import spreadsheet
+- Select a CSV file to import
+- Click Make changes
+- Click Continue to project
+
+Using the quick add button
+
+- Click the Quick add button
+- Select Project
+- Add your project details
+- Click Select file to import
+- Select a CSV file
+- Click Make changes
+- Click Continue to project
+
+[Organizing your Data in a Spreadsheet](https://help.asana.com/s/article/preparing-data-for-csv-import?language=en_US#gl-tips)
+[Preparing data for CSV import](https://help.asana.com/s/article/preparing-data-for-csv-import?language=en_US)
+[Task Actions](https://help.asana.com/s/article/task-actions?language=en_US#gl-create)
+
+[Free Asana Account](https://help.asana.com/s/article/your-asana-account?language=en_US) 
+
+```
+
+* Project 4: Python - Working on the example/lab & scripting. 
+* Project 8.2 Google Drive - looking at My Drive tips and features 
+* Extras Spanish study.  Added WBS template to GitHub repo.  Set up for a live stream and did some HTML/CSS updates. 
+<br>
+
+
+## :seedling: R5D19 2026-06-28  
+* Project 3: Project Planning: Putting It All Together
+
+
+* Project 4: Python - Troubleshooting Tips
+- SyntaxError prevents the code from running and tells us which line we need to fix such as "SyntaxError: unterminated string literal detected at line 15.  Solution: go to line 15 and add : at the end of your code. 
+- use print statements to see what's going on when you cannot easily see the issue 
+
 * Project 5: Django for WP Dev 
-* Project 8.2 Google Calendar
-* Extras N/A
+* Project 8.2 Google Drive - Real World Scenario we are looking at as we study these features:  On the Rise business owner Saroja has many ideas about growing their business with new flavors and ingredients.  But she wants to safeguard these against competitors finding out about them. Not all of them are ready for sharing with the rest of the team.  But she needs a way to organize this and protect it as well as easily share it when she is ready. 
+- this course is a quick but great review of major Google Drive features we heavily use in Project Management roles where the team uses Google Workspace.
+- My drive: creator owns content 
+- Shared drive - main difference-content ownership; Roles include: Viewer, Commenter, Manager, Content Manager, 
+Contributors 
+- Access at: mobile app, tablet, apps launcher or drive.google.com
+- Collaborator Roles and Permissions are important for PM to master 
+- Editors: can add, move, delete folder content.  Can change permissions and share the folder. 
+- Commenters: can view the files and leave comments and replies to comments.  They cannot change, move, or delete any files. 
+- Viewers can only view the content in the shared folder. 
+- With the calendar Picker, you can set temporary access to either viewers or commenters. 
+- Permissions are designed to be changed at any time including transferring ownership to another editor or revoking collaborators. 
+- Share with People settings icon 
+- Share a Folder --> Right click on it --> select share (top right) --> type name or email to share with a specific person or select a specific role to have access 
+- Quick tip for PMs.  If you intend to share a link, TEST it in a browser where you are not logged in to see if it works. 
+
+* Extras - website work, html5, created promotional images for upcoming events, accessibility labels for images, created tutorial for team mates to be able to answer stakeholder questions about upcoming website changes on the membership website. 
 <br>
 
 
