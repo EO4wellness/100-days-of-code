@@ -7,7 +7,7 @@
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
 
-3.3 Project Planning: Putting It All Together   |  15% 
+3.3 Project Planning: Putting It All Together   |  25% 
 4. Python Scripting Fundamentals                |  41%
 5. Django for WordPress Developers              |  14%
 8.3 Google Drive                                |  27%
@@ -31,14 +31,66 @@ Master Tough Subjects  (June/2026)              | 100%
 ```
 
 ### NEXT TEMPLATE:
-🌱 R5D21 2026-06-30
+
+## 🌱 R5D22 2026-07-01
 
     Project 3: PM - Project Initiation: Starting a Successful Project
+```
+```
     Project 4: Python - Debugging 
     Project 5: Django for WP Dev
     Project 8.3 Google Drive
-    Extras N/A
+    Extras Started new contract work-I'm also in training for it. 
 
+
+## 🌱 R5D21 2026-06-30
+
+    Project 3: PM - Project Initiation: Starting a Successful Project
+```
+- ** Project Plan** just as useful for big projects as for small.  Helps to document  scope, tasks,milestones,  activities. 
+- ** Project Schedule** helps to estimate time it will take to complete the project.  Can provide a method to track progress against goals. 
+
+Project Plans 
+1. Tasks. (Activities which need to be accomplished within a set period of time. )
+2. Milestones. (Important progress monitors. Often this is the completionof a deliverable.)
+3. People. (Role, assigned task, clarity.)
+4. Documentation. (RaCI chart, Project Charter, budget,  risk management plan) 
+5. Time. Estimated time. Start and completion dates. Anchor of project.  Basis of schedule.  
+
+Projects are living artifacts.  
+
+Project plans are our teams roadmap.
+
+Project Plan = WBS + Management plans + budget + scope and goals. 
+
+Time estimation = prediction of the total amount of time required to complete a task. 
+
+Effort estimation  is the prediction of active work required to complete the task. 
+
+Your team helps with the estimation.  
+
+Active and inactive time.  
+
+Active time = time to do the task, say 30 minutes of painting. This is rhe effort estimation.  
+
+Inactive time = the 24 hours it takes the paint to dry. Ect.
+
+Idle time wpcan be devoted to another task.
+
+Teammates have the best idea of time required.  
+
+Buffer = used to provide leeway.
+
+Task buffers.
+Project buffers.
+Be realistic.
+
+https://a.co/d/0bhGfBmz
+```
+    Project 4: Python - Debugging 
+    Project 5: Django for WP Dev
+    Project 8.3 Google Drive
+    Extras - FreeCodeCamp Spanish; pushed updates to GitHub repo for the WBS examples, template, and thinking guide. 
   
 ## :seedling: R5D20 2026-06-29  
 * Project 3: Project Planning: Putting It All Together
