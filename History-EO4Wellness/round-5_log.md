@@ -8,7 +8,7 @@
 ```
 
 3.3 Project Planning: Putting It All Together   |  42% 
-4. Python Scripting Fundamentals                |  43%
+4. Python Scripting Fundamentals                |  49%
 5. Django for WordPress Developers              |  14%
 8.4 Google Docs                                 |  40%
 
@@ -30,9 +30,10 @@ Master Tough Subjects  (June/2026)              | 100%
 8.3 Google Drive                                | 100%
 
 ```
+Day 30= July 9th.  So far 9 Certificates of Completion in 30 days
 
 ### NEXT TEMPLATE:
-## 🌱 R5D27 2026-07-06
+## 🌱 R5D28 2026-07-07
 
     Project 3: PM - Project Initiation: Starting a Successful Project
 ```
@@ -41,11 +42,30 @@ Master Tough Subjects  (June/2026)              | 100%
     Project 4: Python  
     Project 5: Django for WP Dev
     Project 8.4 Google Docs 
-    Extras:  
+    Extras:  Interviewed for a PM role today.  It went well!  
 
 
 
+## 🌱 R5D27 2026-07-06
 
+    Project 3: PM - Project Initiation: Starting a Successful Project
+```
+worked on quizzes and assignments, as well updated my [github](https://github.com/EO4wellness/project-management-templates-and-frameworks/blob/main/02_planning/README.md)
+
+- Milestone = When creating a project plan, you include important points within the schedule that indicate progress. 
+- Time estimation predicts the total amount of time required to complete a task, while the actual time it takes to complete a task may vary depending on overlooked potential risks. 
+- As a project manager, you notice a high number of uncompleted tasks. These open tasks could cause a delay in the project timeline. One potential solution is to execute proper tasks in parallel so you can still meet the deadlines.
+- Negotiate Effectively: As a project manager, the project is your number one priority. However, you have team members with competing priorities from other projects. You want to influence them to make your project their priority. To do this, you bridge the high-level goals of the project and the day-to-day perspective of the team. You collaborate to find an outcome that works for everyone. 
+- Project Plan is the  type of document will you create to highlight tasks, assignments, and the timeline of a project. 
+- An example of a proactive PM recognizing and planning for the inevitable includes a PM who schedules a meeting with teammates to highlight concerns with project deadlines and the upcoming holidays.
+- Timelines estimates for multiple tasks, well assigned to team members helps to identify which tasks the team can execute in parallel.
+- Planning Fallacy - the tendency to underestimate the amount of time it will take to complete a task
+- Forward Pass method: As a project manager, you create a critical path for a project. You add up the duration of the tasks on the critical path from the beginning to the end. 
+
+```
+    Project 4: Python - Finished module 3 "Useful Coding Techniques" section and then started the section on Functions. 
+    Project 8.4 Google Docs 
+    Extras: Interviewed for a new PM role today.  It went well! 
 
 ## 🌱 R5D26 2026-07-05
 
