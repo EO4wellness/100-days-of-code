@@ -7,10 +7,10 @@
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
 
-3.3 Project Planning: Putting It All Together   |  42% 
-4. Python Scripting Fundamentals                |  49%
+3.3 Project Planning: Putting It All Together   |  46% 
+4. Python Scripting Fundamentals                |  53%
 5. Django for WordPress Developers              |  14%
-8.4 Google Docs                                 |  40%
+8.6 Google Slides                               |  13%
 
 =======
 COMPLETED: (Start Date) 
@@ -28,23 +28,153 @@ Master Tough Subjects  (June/2026)              | 100%
 8.1 Gmail                                       | 100%
 8.2 Google Calendar                             | 100%
 8.3 Google Drive                                | 100%
+8.4 Google Docs                                 | 100%
+8.5 Google Sheets                               | 100%
 
 ```
-Day 30= July 9th.  So far 9 Certificates of Completion in 30 days
+Day 30= July 9th.  So far 10 Certificates of Completion in 30 days
 
 ### NEXT TEMPLATE:
-## 🌱 R5D28 2026-07-07
+## 🌱 R5D29 2026-07-08
 
     Project 3: PM - Project Initiation: Starting a Successful Project
 ```
 
 ```
-    Project 4: Python  
+    Project 4: Python - 
     Project 5: Django for WP Dev
-    Project 8.4 Google Docs 
-    Extras:  Interviewed for a PM role today.  It went well!  
+    Project 8.5 Google Sheets - 
+    Extras: freeCodeCamp Spanish 
 
 
+## 🌱 R5D28 2026-07-07
+
+    Project 3: PM - Project Initiation: Starting a Successful Project
+```
+Project managers must account for understanding stakeholder needs, budgeting for surplus expenses, maintaining adaptability, and reviewing and reforecasting throughout the entire project.
+
+** Factors to Consider **
+When creating a budget consider:
+- resource cost rates - the cost of the resource: labor, tools, equipment, software
+- reserve analysis - buffer funds-review all potential risks to your project
+- contingency budget - money that is included to cover potentially unforeseen events that aren't accounted for in a cost estimate 
+- cost of quality - the costs that are incurred to prevent issues with products, processes or tasks includes: -prevention costs - appraisal costs - internal failure costs - external failure costs 
+
+A project budget is the estimated monetary resources needed to achieve a project's goals and objectives. In previous lessons, we covered a wide range of information related to project budgets. Let’s recap to make sure you have the information and tools you need to create and manage your project’s budget.
+
+Budgets are typically created in the initiation and planning phases of your project. As with any other project management document, you need to continue to review and control the budget throughout the life cycle of your project. Your budget is more than just how much it will cost to complete the project—it is a helpful tool to reference when communicating with stakeholders and can double as a tracker for your project’s progress. Budgets also help control your costs and act as the baseline for the financial portion of the project. 
+Project budgeting best practices
+
+Here are a few tips to consider when creating your project budget:
+
+    Reference historical data: Your project may be similar to a previous project your organization has worked on. It is important to review how that project’s budget was handled, find out what went well, and learn from any previous mistakes.
+
+    Utilize your team, mentors, or manager: Get into the habit of asking for your team to double check your work to give you additional sets of eyes on your documents.
+
+    Time-phase your budget: Time-phased budgeting allows you to allocate costs for project tasks over the projected timeline in which those expenses are planned to take place. By looking at your tasks against a timeline, you can track and compare planned versus actual costs over time and manage changes to your budget as necessary.
+
+    Check, check, and double check: Make sure that your budget is accurate and error-free. Your budget will likely require approval from another department, such as finance or senior management, so do your best to ensure that it is as straightforward to understand as possible and that all of your calculations are correct.
+
+Categorize different types of costs
+
+There are different types of costs that your project will incur. For example, you may need to account for both direct costs and indirect costs in your project budget. Categorize these different types of costs in your budget so that you can ensure you are meeting the requirements of your organization and customer. 
+Direct costs
+
+These are costs for items that are necessary in order to complete your project. These costs can include:
+
+    Wages and salaries of employees and contractors 
+
+    Materials costs
+
+    Equipment rental costs
+
+    Software licenses 
+
+    Project-related travel and transportation costs
+
+    Staff training
+
+Indirect costs
+
+These are costs for items which do not directly lead to the completion of your project but are still essential for the project team to do their work. They are also referred to as overhead costs. These costs can include:
+
+    Administrative costs
+
+    Utilities
+
+    Insurance 
+
+    General office equipment 
+
+    Security
+
+Develop a baseline budget
+
+A baseline budget is an estimate of project costs that you start with at the beginning of your project. Once you have created a budget for your project and gotten it approved, you should publish this baseline and use it to compare against actual performance progress. This will give you insight into how your project budget is doing and allow you to make informed adjustments.
+
+It is important to continually monitor your project budget and make changes if necessary. Be aware that budget updates can require the same approvals as your initial budget. Also, you should “re-baseline” your budget if you make significant changes. Re-baselining refers to when you update or modify a project's baseline as a result of any approved change to the schedule, cost, or deliverable content. For example, if you have a significant change in your project scope, your budget will likely be impacted. In this instance, you would need to re-baseline in order to adhere to a realistic budget.
+Perform a reserve analysis
+
+A reserve analysis will help you account for any buffer funds you may need. First, review all potential risks to your project and determine if you need to add buffer funds, also referred to as a contingency budget. These funds are necessary because new costs that you did not expect are likely to happen throughout the project.
+
+You may also want to account for cost of quality in your overall project budget. The cost of quality refers to all of the costs that are incurred to deliver a quality product or service, which can extend beyond material resources. This includes addressing issues with products, processes, or tasks, along with internal and external failure costs. One example would be having to redesign a product or service due to defects. A defect could mean refunds to customers, time and money required to create a new product or service, and multiple other potential costs affecting the client.
+Key takeaways
+
+Budgeting in the project management world is a complex process involving many different parties and documentation, but following the best practices described in this reading can help break it down. Remember to use historical data and time-phasing, and reach out to your team for support. Make sure you are capturing all of the components of your budget, including direct and indirect costs. Finally, be sure to baseline your budget so you know where your money is being used and when. These tips can help set you up for budget management success.
+
+```
+    Project 4: Python - 
+Return values from a function 
+Scope- where a variable is valid. 
+Global Variable or local variable  
+
+    Project 5: Django for WP Dev
+    Project - Google slides
+- create and present professionally created content
+
+1. Basic Intro - visit slides.google.com
+2. Manage
+3. Enhance
+4. Organize. 
+5. Share.
+6. Collaborate 
+7. Present
+
+8.4 Google Docs - translation tools and other high-level tools; finished Google Docs and received credential--parked it on LinkedIn.
+    Project 8.5 Google Sheets - A cloud-based spreadsheet software which is also useful to project managers for many PM tasks.  
+1. Intro - make new sheets, or import existing spreadsheets, MS Excell, etc. there are other formats we can export files too. 
+a) access:  type sheets.new into your browser address bar
+b) [sheets.google.com](sheets.google.com)
+c) stored in Google Drive (--> new---> Google Sheets) 
+d) automatically saved 
+e) **templates** (preformatted for things like invoices, timesheets, expense reports) in Google Drive hover over arrow next to Google Sheets in the menu and choose TEMPLATE. two types:  google gallery or your co-workers 
+f) the current location of the spreadsheet is visible while naming it (or tap into the title to re-name it). Select to move your spreadsheet to another location. Add to "Star" list for quick access.  Offline access is available. "See Document Status"  
+2. Manage Data - data is located in a CELL.  Cells are identified by their location (grid style A, 1; etc.). You need to know the column and row information to create formulas. 
+- data can be added in many ways after the spreadsheet is created 
+- add data - type or cut-and-paste 
+- organize data 
+- import data -  supports all major formats of MS Excell.  Use IMPORT from FILE menu. 
+- paste data - if the data you need is copied to the clipboard of your device, it can be pasted into a sheet. when pasting select ONE cell or a range of cells to paste into.  there are many paste special options.  A few are: 
+  * Paste Values Only Contrl+Shift+V
+  * Paste Format Only Control+Alt+V 
+  * Paste all except borders
+  * Paste column widths only
+  * Paste formula only
+  * Paste data validation only
+  * Paste conditional formatting only
+  * Paste transposed 
+- sort data - from data menu. used mostly when working with large datasets to gain quick access to the needed cells. sort by range, column, etc. 
+- filter data - useful for large datasets.  filter by conditions, search box, etc. can be saved as filter views. find it from the data menu and click create filter 
+
+3. Format Data - Format a Google Sheet, Cell type formats, Freeze rows and columns, manage multiple tabs and sheets, add/move/duplicate/hide sheets, and protect a sheet. 
+
+4. Sheets: Formulas, Functions, Charts
+5. Sharing Sheets
+6. Collaboration Tools 
+7. Business Application 
+
+
+    Extras: freeCodeCamp Spanish 
 
 ## 🌱 R5D27 2026-07-06
 
