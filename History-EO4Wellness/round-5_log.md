@@ -10,7 +10,7 @@
 3.3 Project Planning: Putting It All Together   |  46% 
 4. Python Scripting Fundamentals                |  53%
 5. Django for WordPress Developers              |  14%
-8.6 Google Slides                               |  13%
+8.6 Google Slides                               |  52%
 
 =======
 COMPLETED: (Start Date) 
@@ -32,10 +32,10 @@ Master Tough Subjects  (June/2026)              | 100%
 8.5 Google Sheets                               | 100%
 
 ```
-Day 30= July 9th.  So far 10 Certificates of Completion in 30 days
+Day 30= July 9th.  So far 
 
 ### NEXT TEMPLATE:
-## 🌱 R5D29 2026-07-08
+## 🌱 R5D30 2026-07-09
 
     Project 3: PM - Project Initiation: Starting a Successful Project
 ```
@@ -44,6 +44,41 @@ Day 30= July 9th.  So far 10 Certificates of Completion in 30 days
     Project 4: Python - 
     Project 5: Django for WP Dev
     Project 8.5 Google Sheets - 
+    Extras: Today is 30 days of coding and I've completed 10 Certificates of Completion in this past 30 days. 
+
+
+## 🌱 R5D29 2026-07-08
+
+    Project 3: PM - Project Initiation: Starting a Successful Project
+```
+Project Budgeting 
+
+What are the techniques to assure you are not under or over estimating? 
+- researching historical data 
+- leveraging experts 
+- bottom-up approach (thinking about all costs of everything from the bottom up) 
+- confirming assurance 
+- setting baseline 
+
+Make adjustments in real-time. 
+
+Project Plant Pals: 
+Use the bottom-up approach. Break down the project into tasks and estimate the cost of each item.  Fix costs: (one-time, fixed like job posting). Buffer: 5% of total project cost added for "in case" buffer.  Estimated cost: Final Cost: Recalibrate as needed. 
+
+In the previous lessons, you learned that projects come in all shapes and sizes—and so do their budgets. Budgets can be created in a simple spreadsheet or with more complex software programs. Determining which tool is right for you and your project will require input from your organization and your customer.  
+
+Budget spreadsheet templates
+
+Budget templates are a useful tool for helping you estimate, track, and maintain a project budget. Below, you will find a few different budget templates that you can use for future projects. Each of these templates is formatted in a digital spreadsheet.  
+
+[Free Budget Templates](https://excel.cloud.microsoft/create/en/budget-templates/?source=create_flow)
+
+Cost Control - minimize variance - proactive 
+
+```
+    Project 4: Python - Labs and Structured Code for Reuse 
+    Project 5: Django for WP Dev
+    Project 8.5 Google Slides - ongoing study 
     Extras: freeCodeCamp Spanish 
 
 
