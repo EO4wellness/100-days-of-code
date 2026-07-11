@@ -7,10 +7,10 @@
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
 
-3.3 Project Planning: Putting It All Together   |  60% 
+3.3 Project Planning: Putting It All Together   |  80% 
 4. Python Scripting Fundamentals                |  56%
 5. Django for WordPress Developers              |  14%
-8.8 Google Chat                                 |   5%
+8.9 Google Sheets Advanced Topics               |  54%
 
 =======
 COMPLETED: (Start Date) 
@@ -32,11 +32,13 @@ Master Tough Subjects  (June/2026)              | 100%
 8.5 Google Sheets                               | 100%
 8.6 Google Slides                               | 100%
 8.7 Google Meet                                 | 100%
+8.8 Google Chat                                 | 100%
+8.9 Google Sheets Advanced Topics               |   0%
 
 ```
 
 ### NEXT TEMPLATE:
-## 🌱 R5D32 2026-07-11
+## 🌱 R5D33 2026-07-12
 
     Project 3: PM - Project Initiation: Starting a Successful Project
 ```
@@ -45,10 +47,26 @@ Master Tough Subjects  (June/2026)              | 100%
 ```
     Project 4: Python - Reviewing labs.
     Project 5: Django for WP Dev
-    Project 8.5 Google Sheets - 
+    Project 8.5 Google Sheets Advanced Topics - Consider making a sheets theme template to preserve your chosen format for all project-related sheets.  format tool:  conditional formatting which automatically applies cell formatting if the contents of the cell meets predefined criteria, known as formatting rules--this helps find unintentional ERRORs. 
+
+Open the FORMAT MENU--> click conditional formatting.  This is the formatting rules panel. Choose between a single color or color scale style.  Choose a range of cells to apply the formatting to by entering the beginning cell address and the end cell address or click the selected data range to click and drag to select the cells to formt.  
+
+
     Extras:  
 
 
+## 🌱 R5D32 2026-07-11
+
+    Project 3: PM - Project Initiation: Starting a Successful Project
+```
+Today's study pertained to Risk Management and Mitigation Techniques for Risk Management.  
+
+```
+    Project 4: Python - Reviewing labs.
+    Project 5: Django for WP Dev
+    Project 8.5 Google Chat - chat.google.com  Google Chat supports: multimodal sharing, link sharing, group or individual, and tagging with @username, options are triggered with hovering over message to reveal the message.  Status is manual or automatic.  Google detects your status based on your use of your device, then color codes it, as well as in words:  available, idle (away), busy. Google chat collaboration - forward to INBOX to keep in Gmail even if deleted in Chat (my take on this:  this is a **potential security risk** feature for PM to know about when sharing within Gmail chat any project-related secrets or sensitive details; another **risk** is external collaboration is easy (just enter their email) and could be inadvertently triggered to share private details which should be NDA). PMs can upload custom emojis for project status workflows, etc. Spaces: create this dedicated space, holding a historical record, to save files and tasks/communication with a group. Use effectively for PM. Have a brief Best Practices training for each project so threads stay organized and everyone on the project knows how to best use it for searching and communicating. You cannot change settings after it is created-plan ahead.  1. Create Space and settings 2. Add people.  Click space name to view list of people. (these can be removed/reviewed for internal/external invites) 3.  Can turn any conversation in chat into a new space. PERSONAL SPACE menu shows the spaces we've already joined, been invited to, join, etc. there is a preview function. Join to manage notifications. In-Line Threading (on any specific topic; "reply in thread" after hoover) vs new. Anyone who creates a space is the space manager.  A diamond appears next to their name. Your choice if the space is discoverable or not. It can be found under the space name and the drop down menu. Assign and Remove Space Manager - space name --> view member --> options next to their name. Manage access --> restricted, discoverable. Audience option from drop down. Open Google Chat and click Start A Chat or New Chat (in Gmail). Then select Find Apps. May be restricted by admin but otherwise you can select it from the list, or type its name in the search bar, then chat with it. "Uninstall" do the opposite. Connect apps to Google Chat such as: Asana, Meet App (schedule meeting), Google Drive app, Tasks (assigned), Giphy (more than the gif app in the text box provides).
+
+    Extras:  
 
 ## 🌱 R5D31 2026-07-10
 
@@ -57,7 +75,7 @@ Master Tough Subjects  (June/2026)              | 100%
 Completed SOW exercise and reviewed exemplar. 
 ```
     Project 4: Python -  Reviewing labs.
-    Project 8.5 Google Sheets - Completed course/earned certification; started Google chat. 
+    Project 8.5 Google Meet - Completed course/earned certification; started Google Chat. 
     Extras:  Spanish.  Applied for new PM roles. 
 
 
