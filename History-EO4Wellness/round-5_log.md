@@ -11,6 +11,7 @@
 4. Python Scripting Fundamentals                |  56%
 5. Django for WordPress Developers              |  14%
 8.9 Google Sheets Advanced Topics               |  54%
+9. Microsoft Excel Professional Certificate     |   0%
 
 =======
 COMPLETED: (Start Date) 
@@ -38,6 +39,19 @@ Master Tough Subjects  (June/2026)              | 100%
 ```
 
 ### NEXT TEMPLATE:
+## 🌱 R5D34 2026-07-13
+
+    Project 3: PM - Project Initiation: Starting a Successful Project
+```
+
+
+```
+    Project 4: Python - Reviewing labs.
+    Project 5: Django for WP Dev
+    Project 9: Microsoft Excel Professional Certificate - Begin
+    Extras: Twitch milestone.
+
+
 ## 🌱 R5D33 2026-07-12
 
     Project 3: PM - Project Initiation: Starting a Successful Project
