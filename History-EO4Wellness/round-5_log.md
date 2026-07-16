@@ -6,12 +6,11 @@
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
-
-3.3 Project Planning: Putting It All Together   |  80% 
+3.3 Project Execution: Running the Project      |  50% 
 4. Python Scripting Fundamentals                |  56%
 5. Django for WordPress Developers              |  14%
-8.9 Google Sheets Advanced Topics               |  54%
 9. Microsoft Excel Professional Certificate     |   0%
+10.5 Gemini in Google Sheets                    |  33%
 
 =======
 COMPLETED: (Start Date) 
@@ -23,9 +22,12 @@ Master Tough Subjects  (June/2026)              | 100%
 3.1 Foundations of Project Management (6/7/26)  | 100% 
 3.2 Project Initiation: (6/15/26)
     Starting a Successful Project               | 100%
-3.3 (6/26/26)
+3.3 Project Planning: Putting It All Together 
+    (6/26/26)                                   | 100%
+3.4 Project Execution: Running the Project      |  50%
+    (7/12/26) 
 6. Intro to ClickUp in Project Management       | 100%
-8: Google Workplace (9 Courses) 
+8: Google Workplace (9 Courses)                 | 100%
 8.1 Gmail                                       | 100%
 8.2 Google Calendar                             | 100%
 8.3 Google Drive                                | 100%
@@ -34,21 +36,71 @@ Master Tough Subjects  (June/2026)              | 100%
 8.6 Google Slides                               | 100%
 8.7 Google Meet                                 | 100%
 8.8 Google Chat                                 | 100%
-8.9 Google Sheets Advanced Topics               |   0%
-
+8.9 Google Sheets Advanced Topics               | 100%
+10.1 Google Workspace with Gemini (8 courses)   | 100%
+10.2 Gemini in Gmail                            | 100%
+10.3 Gemini in Google Docs                      | 100%
+10.4 Gemini in Google Slides                    | 100%
 ```
 
 ### NEXT TEMPLATE:
-## 🌱 R5D34 2026-07-13
+## 🌱 R5D37 2026-07-16
 
-    Project 3: PM - Project Initiation: Starting a Successful Project
+    Project 3.4: Project Execution: Running the Project 
 ```
 
 
 ```
     Project 4: Python - Reviewing labs.
-    Project 5: Django for WP Dev
-    Project 9: Microsoft Excel Professional Certificate - Begin
+    Project 10.5 Gemini in Google Sheets - Began coursework. 
+```
+     New Document:  sheets.google.com 
+      Tool Menu--> help me organize 
+       Insert --> Help me organize 
+    A side bar pops opens to create a template.  Describe the idea for your template in natural language as a prompt. Make it specific to your use case. 
+   Doesn't currently use to generate spreadsheets, but doesn't yet format or do images.  Don't use questions in the prompt.  
+   Finally click CREATE
+   Wait for it to generate. 
+  Click INSERT 
+
+  start with a blank sheet or you'll get a popup which in effect deletes all info in the current sheet 
+
+```    
+    Extras: Last week training - new role 
+
+
+## 🌱 R5D36 2026-07-15
+
+    Project 3.4: Project Execution: Running the Project 
+```
+Began Module 3. Data-Informed Decision Making. 
+
+```
+    Project 4: Python - Reviewing labs.
+    10.4 Gemini in Google Slides Completed course work 
+    Extras: Last week training - new role  Website updates and publishing content. 
+
+## 🌱 R5D35 2026-07-14
+
+    Project 3.4: Project Execution: Running the Project 
+```
+Finished Module 2.  It examined Quality management, continuous improvement, customer relationships with communication skills, measuring customer satisfaction, and retrospectives. 
+
+```
+    Project 4: Python - Reviewing labs.
+    10.3 Gemini in Google Docs completed course 
+    Extras: Last week training - new role 
+
+
+## 🌱 R5D34 2026-07-13
+
+    Project 3.4: Project Execution: Running the Project 
+```
+Studied and finished Module 1 today.  This covered risk mitigation topics. 
+
+```
+    Project 10.1 Google Workspace with Gemini - began the first of 8 courses in this series and completed it today. 
+    Project 10.2 Gemini in Gmail - TIL where to locate "Help Me Write" after Compose. Provide 1) context (I am a...help me write a...) and a descriptive prompt. 2) examples if desired of the type of content yhou are looking for --> click create. Improving Prompts - edit a prompt to improve a results.  Formalize, elaborate, or shorten your draft copy you've already written.  Edit prompt results as needed before using or discarding.  Add details like Tone, Recipient, Topic, Length. Formalize= making it more business friendly.  Elaborate=makes it longer Shorten=makes it more conscience 
     Extras: Twitch milestone.
 
 
@@ -56,7 +108,7 @@ Master Tough Subjects  (June/2026)              | 100%
 
     Project 3: PM - Project Initiation: Starting a Successful Project
 ```
-
+I successfully completed project management course 3 and am on to PM course #4: Running the Project.  Course 3 was really fun!  The real-world activities were engaging and realistic. 
 
 ```
     Project 4: Python - Reviewing labs.
