@@ -6,11 +6,12 @@
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
-3.3 Project Execution: Running the Project      |  50% 
+3.5 Agile Project Management                    |  34% 
 4. Python Scripting Fundamentals                |  56%
 5. Django for WordPress Developers              |  14%
-9. Microsoft Excel Professional Certificate     |   0%
-10.5 Gemini in Google Sheets                    |  33%
+9. Microsoft Excel Professional Certificate     |   8%
+11.2 Microsoft Excel: 
+    From Basics to AI-Powered Workflows         |  67%
 
 =======
 COMPLETED: (Start Date) 
@@ -24,8 +25,11 @@ Master Tough Subjects  (June/2026)              | 100%
     Starting a Successful Project               | 100%
 3.3 Project Planning: Putting It All Together 
     (6/26/26)                                   | 100%
-3.4 Project Execution: Running the Project      |  50%
+3.4 Project Execution: Running the Project      | 100%
     (7/12/26) 
+3.5 Agile Project Management (7/20/26)          | 
+3.6
+3.7
 6. Intro to ClickUp in Project Management       | 100%
 8: Google Workplace (9 Courses)                 | 100%
 8.1 Gmail                                       | 100%
@@ -41,9 +45,82 @@ Master Tough Subjects  (June/2026)              | 100%
 10.2 Gemini in Gmail                            | 100%
 10.3 Gemini in Google Docs                      | 100%
 10.4 Gemini in Google Slides                    | 100%
+10.5 Gemini in Google Sheets                    | 100%
+10.6 Gemini in Google Meet                      | 100%
+10.7 Gemini in Google Drive                     | 100%
+10.8 Gemini in Google Vids                      | 100%
+11.1 Microsoft Excel: 
+    From Basics to Ai-Powered Workflows         | 100% 
+11.2 Microsoft Copilot for Excel                |
+11.3 AI-Powered Data Analysis with MS Copilot   |
+12: Organizing Communication and Documentation  | 100% 
+    Google Project Management Skills 
+
 ```
 
 ### NEXT TEMPLATE:
+
+## 🌱 R5D44 2026-07-23
+
+    Project 3.4: Project Execution: Running the Project 
+```
+
+
+```
+    Project 4: Python - Reviewing labs.
+    Project  
+```
+
+```    
+    Extras: 
+
+
+
+
+
+## 🌱 R5D43 2026-07-22
+
+Somehow I lost some momentum tracking my TIL activities.  Nevertheless, I've been regularly doing daily studies. I did get stalled on my Python coursework as it assumed you were a networking security expert.  I am not.  I'm trying to learn python (only). 
+    Project 3.5: Agile Project Management 
+```
+I've completed course 4 of Google Career Certificates in Project Management and am now on to Scrum/Agile studies.  Looking at the pillars of scrum, the history of Agile, the principles involved I find GREAT familiarity with both Agile and Scrum.  It is PERFECT for startups!  I'm very familiar with helping and working with startups. 
+
+```
+    Project 11: Microsoft Excel: Looking at use of Python and CoPilot in Excel.
+Telling stories with data to overcome "what does it mean" at the end of your presentation.  Make sure the story is clear in 5 seconds. 
+
+```
+
+
+```    
+    Extras: 
+
+
+## 🌱 R5D38 2026-07-17
+
+    Project 3.4: Project Execution: Running the Project 
+``
+
+
+```
+    Project 4: Python - Reviewing labs.
+    Project 10.5 Gemini in Google Sheets - Began coursework. 
+    Project 12: Organizing Communication and Documentation Completed course today. 
+```
+     New Document:  sheets.google.com 
+      Tool Menu--> help me organize 
+       Insert --> Help me organize 
+    A side bar pops opens to create a template.  Describe the idea for your template in natural language as a prompt. Make it specific to your use case. 
+   Doesn't currently use to generate spreadsheets, but doesn't yet format or do images.  Don't use questions in the prompt.  
+   Finally click CREATE
+   Wait for it to generate. 
+  Click INSERT 
+
+  start with a blank sheet or you'll get a popup which in effect deletes all info in the current sheet 
+
+```    
+    Extras: 
+
 ## 🌱 R5D37 2026-07-16
 
     Project 3.4: Project Execution: Running the Project 
@@ -66,7 +143,7 @@ Master Tough Subjects  (June/2026)              | 100%
   start with a blank sheet or you'll get a popup which in effect deletes all info in the current sheet 
 
 ```    
-    Extras: Last week training - new role 
+    Extras: 
 
 
 ## 🌱 R5D36 2026-07-15
