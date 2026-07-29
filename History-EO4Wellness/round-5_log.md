@@ -6,12 +6,14 @@
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 ```
-3.5 Agile Project Management                    |  34% 
-4. Python Scripting Fundamentals                |  56%
+3.5 Agile Project Management                    |  75% 
+4. Python Scripting Fundamentals                |  57%
 5. Django for WordPress Developers              |  14%
-9. Microsoft Excel Professional Certificate     |   8%
-11.2 Microsoft Excel: 
-    From Basics to AI-Powered Workflows         |  67%
+9. Microsoft Excel Professional Certificate     |  16%
+11.3 Microsoft Excel: 
+    From Basics to AI-Powered Workflows 
+    AI-Powered Data Analysis with MS Copilot    |  51%
+14. Udacity AWS Scholarship                     | Registered for Kickoff 
 
 =======
 COMPLETED: (Start Date) 
@@ -27,7 +29,7 @@ Master Tough Subjects  (June/2026)              | 100%
     (6/26/26)                                   | 100%
 3.4 Project Execution: Running the Project      | 100%
     (7/12/26) 
-3.5 Agile Project Management (7/20/26)          | 
+3.5 Agile Project Management (7/20/26)          |  70%
 3.6
 3.7
 6. Intro to ClickUp in Project Management       | 100%
@@ -51,7 +53,7 @@ Master Tough Subjects  (June/2026)              | 100%
 10.8 Gemini in Google Vids                      | 100%
 11.1 Microsoft Excel: 
     From Basics to Ai-Powered Workflows         | 100% 
-11.2 Microsoft Copilot for Excel                |
+11.2 Microsoft Copilot for Excel                | 100% 
 11.3 AI-Powered Data Analysis with MS Copilot   |
 12: Organizing Communication and Documentation  | 100% 
     Google Project Management Skills 
@@ -59,16 +61,78 @@ Master Tough Subjects  (June/2026)              | 100%
 ```
 
 ### NEXT TEMPLATE:
+## 🌱 R5D50 2026-07-29
 
-## 🌱 R5D44 2026-07-23
+    Project 3.4: Project Execution: Running the Project 
+
+
+    Project 11.3: Excel 
+
+```
+
+```   
+
+## 🌱 R5D49 2026-07-28
+
+    Project 3.4: Project Execution: Running the Project 
+Today's study is Applying Agile in the Organization-understanding value-driven delivery 
+
+    Project 11.3: Excel 
+Module 4-effective data, correlation and descriptive stats, determining statistical significance, matrix generation 
+   
+    Extras: Website development and basic python lesson on Udacity. 
+
+## 🌱 R5D48 2026-07-27
+
+    Project 3.4: Project Execution: Running the Project 
+Finished Module 3.  This is the module where we learn about scrum and sprints.  It was fun revisiting this topic.  I see Agile principles, scrum and sprint results around me daily as I interact with the world and online.  I also have fond memories of sprints and scrum interactions with Udacity projects/scholarships. It is very helpful they use/teach the technique to help students practice.  
+    Project 11.3: Excel - studying 
+    Project 14:  Some time ago I was offered a scholarship by AWS/Udacity.  I completed it in the early part of 2026 and took their final exam to see if I qualified for the upcoming scholarship sprint.  Today I received news I was accepted into the next sprint and I registered for the upcoming kickoff meeting. 
+  
+    Extras: Continued spending the day cleaning malware out of a supply-chain hack. The bad actors compromised a server and stole all the client data from the servers to hack the clients as well.  I've been cleaning, cleaning, cleaning... time to scan again. 
+
+```Python
+Reviewing Udacity Python course the first assignment under "Arithmetic Operators included solving this:  
+
+My electricity bills for the last three months have been $23, $32 and $64. What is the average monthly electricity bill over the three month period? Write an expression to calculate the mean, and use print() to view the result.
+
+My solution: 
+print((23+32+64)/3)
+
+You work for a tiler.  Let's do calculations for the tiler. Two parts of a floor need tiling. One part is 9 tiles wide by 7 tiles long, the other is 5 tiles wide by 7 tiles long. Tiles come in packages of 6.
+
+    How many tiles are needed?
+    You buy 17 packages of tiles containing 6 tiles each. How many tiles will be left over?
+
+My solution: 
+# Fill this in with an expression that calculates how many tiles are needed.
+print((9*7)+(5*7))
+# Fill this in with an expression that calculates how many tiles will be left over.
+print((17*6) - (9*7 + 5*7))
+
+
+
+``` 
+
+## 🌱 R5D47 2026-07-26
 
     Project 3.4: Project Execution: Running the Project 
 ```
-
+studied scrum tools - velocity and burn down charts, kanban boards, velocity dos and don'ts. Transparency and coolaboration. 
 
 ```
-    Project 4: Python - Reviewing labs.
-    Project  
+    Project 11.3: Excel -studying tidy data 
+    Extra: spent the day cleaning malware out of a supply-chain hack. The bad actors compromised a server and stole all the client data from the servers to hack the clients as well.  I've been cleaning, cleaning, cleaning... time to scan again.  
+
+## 🌱 R5D46 2026-07-25
+
+    Project 3.4: Project Execution: Running the Project 
+```
+scrum events - meetings 
+
+```
+    Project 11.3: Excel 
+
 ```
 
 ```    
@@ -76,6 +140,37 @@ Master Tough Subjects  (June/2026)              | 100%
 
 
 
+## 🌱 R5D45 2026-07-24
+
+    Project 3.4: Project Execution: Running the Project 
+```
+Project: Creating a Product Backlog 
+using Asana to create Product Backlog for Scrum / Agile PM 
+examined other workflow tools too such as ClickUp and Monday.com
+looked at templates and assignment of implementing Sprint Planning both in excel and in work tools like Asana and Clickup/Monday.com 
+
+
+```
+    Project 11.3- Excel Course  
+```
+
+```    
+    Extras: Spanish 
+
+
+
+## 🌱 R5D44 2026-07-23
+
+    Project 3.4: Project Execution: Running the Project 
+```
+Sailed thru intro to Scrum. 
+
+```
+    Project: Excel Finished course 2 of 3.  This course looked at use cases and examples of how to use Copilot responsibly within the Excel environment and how it functions with various excel tools and features--turning previously "manual" labor roles into GenAI assisted, human verified content for data-story telling and data-driven decision making quicker than coopetitors. 
+```
+
+```    
+    Extras: 
 
 
 ## 🌱 R5D43 2026-07-22
