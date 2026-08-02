@@ -5,15 +5,14 @@
 * The acronym is ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
-```
-3.5 Agile Project Management                    |  75% 
-4. Python Scripting Fundamentals                |  57%
-5. Django for WordPress Developers              |  14%
-9. Microsoft Excel Professional Certificate     |  16%
-11.3 Microsoft Excel: 
-    From Basics to AI-Powered Workflows 
-    AI-Powered Data Analysis with MS Copilot    |  51%
-14. Udacity AWS Scholarship                     | Registered for Kickoff 
+
+3.6 PM-Using AI in Job Search (7/29/26)         |  
+3.7 PM-Capstone project (7/29/26)               |  10%
+9.  Microsoft Excel Professional Certificate    |  17%
+14. Udacity AWS Scholarship (8/4-11/4)          | Registered for Kickoff 
+15. Udacity Python                              | In progress 
+16: Python from Scratch: Learn by Coding        |   6%
+    by Jet Brains Python
 
 =======
 COMPLETED: (Start Date) 
@@ -29,9 +28,9 @@ Master Tough Subjects  (June/2026)              | 100%
     (6/26/26)                                   | 100%
 3.4 Project Execution: Running the Project      | 100%
     (7/12/26) 
-3.5 Agile Project Management (7/20/26)          |  70%
-3.6
-3.7
+3.5 Agile Project Management (7/20/26)          | 100%
+3.6 AI Job Search 
+3.7 Capstone Project 
 6. Intro to ClickUp in Project Management       | 100%
 8: Google Workplace (9 Courses)                 | 100%
 8.1 Gmail                                       | 100%
@@ -54,23 +53,139 @@ Master Tough Subjects  (June/2026)              | 100%
 11.1 Microsoft Excel: 
     From Basics to Ai-Powered Workflows         | 100% 
 11.2 Microsoft Copilot for Excel                | 100% 
-11.3 AI-Powered Data Analysis with MS Copilot   |
+11.3 AI-Powered Data Analysis with MS Copilot   | 100%
 12: Organizing Communication and Documentation  | 100% 
     Google Project Management Skills 
+14: Udacity AWS scholarship (8/4-11/4)          |
+15: Udacity-Python Course                       |
+16: Python from Scratch: Learn by Coding        |  
+    by Jet Brains Python 
 
-```
 
 ### NEXT TEMPLATE:
-## 🌱 R5D50 2026-07-29
+    
+## 🌱 R5D55 2026-08-03
+    Project 3.6 PM-Using AI in Job Search  
+    Project 3.7 PM-Capstone project - Week 1 -
+         Initiating a Project-Project Charter 
 
-    Project 3.4: Project Execution: Running the Project 
 
 
-    Project 11.3: Excel 
+## 🌱 R5D54 2026-08-02
+
+    Project 3.6 PM-Using AI in Job Search - working on the job search plan with Gemini and Copilot.  Increasing my portfolio collection and structure.  
+    Project 3.7 PM-Capstone project - Week 1     
+        Continued work on: Initiating a Project-Project Charter 
+    Project 14 - Review of scholarship details to help cohort answers questions.  Visiting AWS Skill Builder to begin the Digital Training Learning Guide and Introduction to Classroom and Lab environments.  Set up my learning profile. 
+    Project 16 - Variables 
+
+```Python
+
+a = 1
+# We'll explain the expression str(a) later in the course.
+# For now: it is used to convert the variable "a" into a string.
+print("a = " + str(a))
+
+# Assign "World" to the name variable using the assignment operator
+name = "World"
+print("Hello, " + str(name))
+
+# Reassign the name variable with your actual name
+name = "Student"
+print("Hello, " + str(name))
+
+
+# Use chain assignment here to assign the value 2 to variables "a" and "b".
+a = b = 2 
+print("a = " + str(a))
+print("b = " + str(b))
 
 ```
+    Extra:  attended a RAG Agentic seminar on Zoom showing best practices of token use, database/vector search, compressed vocabulary to reduce tokens for cost/efficiency- RAG history and best practice of implementation 
+
+
+## 🌱 R5D53 2026-08-01
+
+    Project 3.6 PM-Using AI in Job Search - Continuing Course & developing portfolio 
+    Project 3.7 PM-Capstone project - Week 1 - 
+    Project 15 - download and installed JetBrains Python Toolbox 
+```
+In Python, comments start with the hash character followed by a single space and they continue ​until the end of the line. ​You can quickly comment or uncomment a line or block of code in PyCharm by pressing Command ​forward slash on Mac or Control forward slash on Windows. ​Always make sure your comments stay up to date when the code changes. ​Outdated comments that contradict the code are worse than having none at all. ​Comments should be clear, complete sentences, and start with a capital letter unless you're ​naming an identifier. ​Block comments apply to the code that follows them and should be indented to the same level ​as that code. 
+​Use inline comments sparingly and always separate them from the code with at least two spaces. ​You can also comment out a line or block of code if you don't want to delete it but ​need to disable it temporarily. ​And remember you can read more about commenting best practices in PEP 8, the official Python ​style guide. ​Now let's test it out in the next task. 
+```
+
+## 🌱 R5D52 2026-07-31
+
+    Project 3.6: Interacted with Google's Career Dreamer to uncover my Career Identity Statement 
+                 Completed Module 1 of Accelerate your Job Search with AI 
+
+
+  
+## 🌱 R5D51 2026-07-30
+
+    Project 3.6: Interacted with Google's Career Dream to uncover my likely soft transferable skills 
+
+ 
+
+## 🌱 R5D50 2026-07-29
+
+    Project 3.5: Project Execution: Running the Project 
+High level view of product roadmaps and Effective Value Roadmap  and responding to change over time as well as making a release plan.  Finished Agile Project Management course and began on Capstone project. 
+    Project 3.6:  Transferable skills - skills-based hiring practices are more and more common 
+                  1.  Reflect on life experiences 
+                  2.  Think about the transferable skills you used in those activities 
+                  3.  Thank about how your transferable skills could contribute to a job/career 
+         
+     -  communication - navigating ambiguity - emotional regulation -  problem solving 
+
+    Project 11.3: Excel - Completed SB's AI-Powered Data Analysis with MS Copilot course work 
+
+```Python 
+the first two lines of this were given, the rest were worked out per the comments.  
+
+# The current volume of a water reservoir (in cubic metres)
+reservoir_volume = 4.445e8
+# The amount of rainfall from a storm (in cubic metres)
+rainfall = 5e6
+
+# decrease the rainfall variable by 10% to account for runoff
+rainfall = rainfall - rainfall * 0.10
+# add the rainfall variable to the reservoir_volume variable
+reservoir_volume = reservoir_volume + rainfall
+# increase reservoir_volume by 5% to account for stormwater that flows
+# into the reservoir in the days following the storm
+reservoir_volume = reservoir_volume + (reservoir_volume * 0.05)
+# decrease reservoir_volume by 5% to account for evaporation
+reservoir_volume = reservoir_volume - (reservoir_volume * 0.05)
+# subtract 2.5e5 cubic metres from reservoir_volume to account for water
+# that's piped to arid regions.
+reservoir_volume = reservoir_volume - 2.5e5
+# print the new value of the reservoir_volume variable
+print(reservoir_volume)
+
+
+carrots = 24
+rabbits = 8
+crs_per_rab = carrots/rabbits
+rabbits = 12
+print(crs_per_rab)
+
+# What does this return?   3 
+
+# Given this list of states and when they joined the union: 
+# https://en.wikipedia.org/wiki/List_of_U.S._states_by_date_of_admission_to_the_Union 
+# Which of the following variable names would make sense in Python to do so? 
+
+- del = 1 
+- delaware = 1 
+- 1 de = first 
+- de = 1
+
+The correct answers are de = 1 and Delaware = 1.  del is a reserved variable name and 1 de isn't a valid variable name either, also first is a string not a numeric value. 
+
 
 ```   
+
 
 ## 🌱 R5D49 2026-07-28
 
@@ -80,7 +195,32 @@ Today's study is Applying Agile in the Organization-understanding value-driven d
     Project 11.3: Excel 
 Module 4-effective data, correlation and descriptive stats, determining statistical significance, matrix generation 
    
-    Extras: Website development and basic python lesson on Udacity. 
+    Extras: Website development and basic python lesson on Udacity. Python course was looking at the fact that assigning a value to a variable is not the same as an equality sign in math, though they look the same.  
+
+```Python 
+= sign is called the Assignment Operator in Python
+
+example of assigning a value to a variable.  Our variable name is mv_population, the value of the population in Mountain View is 74728.  so assigning the actual mountain view population to the variable called mv_population would look like this in python: 
+
+mv_population = 74728
+
+print="What is the population of Mountain View? 
+print= (my_population)
+
+#returns What is the population of Mountain View?  74728
+
+
+x = 2 
+y = x 
+print (y)
+#returns 2 
+
+x = 2
+y = z 
+print (y) 
+#returns an error message of
+#NameError: name 'z' is not defined 
+```
 
 ## 🌱 R5D48 2026-07-27
 
