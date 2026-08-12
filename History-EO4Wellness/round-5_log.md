@@ -2,17 +2,19 @@
 * Log of [T-I-L]((https://github.com/EO4wellness/T-I-L)) and [#100-Days-Of-Code Challenge](https://github.com/EO4wellness/100-days-of-code/)
 * Round 5 began: R5D1 June 10, 2026  
 * Round 5 concluded: R5D100 
-* The acronym is ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
+* ROUND 5 DAY X for each day's entry along with the calendar date it was accomplished.  
 
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 
 3.6 PM-Using AI in Job Search (7/29/26)         |  
-3.7 PM-Capstone project (7/29/26)               |  10%
-9.  Microsoft Excel Professional Certificate    |  17%
-14. Udacity AWS Scholarship (8/4-11/4)          | Registered for Kickoff 
+3.7 PM-Capstone project (7/29/26)               |  35%
+9.  Microsoft Excel Professional Certificate    |  37%
+14. Udacity AWS Scholarship (8/4-11/4)          |  18%
 15. Udacity Python                              | In progress 
-16: Python from Scratch: Learn by Coding        |   6%
+16: Python from Scratch: Learn by Coding        |  46%
     by Jet Brains Python
+18: AWS Skill Builder Courses                   | Ongoing 
+
 
 =======
 COMPLETED: (Start Date) 
@@ -60,16 +62,714 @@ Master Tough Subjects  (June/2026)              | 100%
 15: Udacity-Python Course                       |
 16: Python from Scratch: Learn by Coding        |  
     by Jet Brains Python 
+17: Use Canva to Create Desktop
+    and Mobile-Friendly Web Pages               | 100% 
+
+18: AWS Skill Builder Courses: 
+    1. Generative AI Learning Plan for Decision Makers (3 hours) 
+       a) Introduction to Generative AI- The Art of the Possible (8/4/26 Certificate of Completion) 
+       b) Planning a Generative AI Project - (8/6/26 Certificate of Completion) 
+       c) Building a Generative AI-Ready Organization (8/7/26 Certificate of Completion) 
+    2. AWS Agentic AI Learning Plan (40 hours) 
+  	2.1 Introduction to Agentic AI on AWS (completed 8/7)
+	2.2 Kiro-Getting Started 
+	2.3 Spec-Driven Development with Kiro 
+	2.4 Amazon Bedrock AgentCore Getting Started
+	2.5 Agentic AI Framework Deep Dive - Overview
+	2.6 Agentic AI Framework Deep Dive - Model Context Protocol 
+	2.7 Agentic AI Framework Deep Dive - Architecture and Use Cases
+	2.8 Agentic AI Framework Deep Dive - Build Multi-Agent Systems 
+	2.9 Building Your Agentic Applications the Well-Architected Way 
+
+    3. AWS Artificial Intelligence Practitioner Learning Plan (8 hours) 
+    4. AWS Generative AI Developer Advanced Learning Plan (includes Labs) approximately 46 hours
+    5. If time allows-business intelligence course or lab(s) 
+
 
 
 ### NEXT TEMPLATE:
-    
-## 🌱 R5D55 2026-08-03
+
+## 🌱 R5D62 2026-08-10
+    Project 3.6 PM-Using AI in Job Search Platforms 
+    Project 3.7 PM-Capstone project - Week 2 Timeline Management 
+    Project 14.2 Udacity topic of study: 
+    Project 18.2.4 Amazon Bedrock AgentCore Getting Started
+
+## 🌱 R5D61 2026-08-09
+    Project 3.6 PM-Using AI in Job Search  - Cover letter with AI and Online presence, look for green flags online. 
+    Project 3.7 PM-Capstone project - Week 2 - worked on timelines 
+         Initiating a Project-Project Charter 
+    Project 15 -  posted Sprint 1: Week 1 Day 5 in community forum. Studied Course 2:  
+
+    Project 16 - Python -worked on 
+    Project 18 - AWS  Completed - Introduction to Agentic AI on AWS in the AWS Generative AI learning path.  Posted my certificate of completion to LinkedIn
+
+## 🌱 R5D60 2026-08-08 
+    Project 3.6 PM-Using AI in Job Search  made new resume following [gemini's suggestions](https://grow.google/career-dreamer/home/gemini)
+    Project 3.7 PM-Capstone project - Week 2 Finishing up week 2.  
+    Project 15 -  posted Sprint 1: Week 1 Day 5 in community forum. Studied Course 2: Lesson REact 
+
+
+    Project 16- Python Module 3 - string slicing, in operator, string length, character escaping, string methods, string formatting. 
+```Python 
+# find and print the first half of a string
+# my solution notes-->I need to recall: 
+# division produces a float.  i need an integer 
+# i need to print half the length of this string
+
+phrase = """
+It is a really long string
+triple-quoted strings are used
+to define multi-line strings
+"""
+index_to_slice = int(len(phrase)/2)   
+first_half = phrase[0:index_to_slice]   
+print(first_half)
+
+```
+### Escaping in Python.  
+```Python 
+
+# need a backslash, here is how to escape it: 
+
+print('\\\\')
+#output of this statement is: \ 
+
+# special meanings \n -->new line 
+# \t --> tab 
+
+    Project 18 - Restapi 
+
+## 🌱 R5D59 2026-08-07
     Project 3.6 PM-Using AI in Job Search  
     Project 3.7 PM-Capstone project - Week 1 -
          Initiating a Project-Project Charter 
+    Project 15 -  posted Sprint 1: Week 1 Day 4 in community forum. Studied Course 2: Lesson 3- Role-Based prompting
+
+    Project 16- Module 3 -
+    Project 18 - Twilio, What are APIs, design your mashup, web APIs vs local, use of vagrant to protect your host computer during course projects, protocols, OSI model layers - abstraction layers: Application, presentation, session, transport, network, data link, physical. our device(s) OS handle most of the layers of the OSI model, and as developers we just make sure the application layer can communicate with the presentation layer--the OS generally do the rest. More info about [OSI Model](https://en.wikipedia.org/wiki/OSI_model).  This provides for the transmission of Packets.  Packet loss is what we experience when it suddenly stops working.  The most common Application protocol (for communication) is HTTP-the hypertext transfer protocol. Other examples of application protocols include:  http, https, ftp, ssh, pop, imap, and so on.  The application protocol is the highest level of communication for sending and receiving information over the internet.  But to study API protocols we need to add two more layers above the application layer.  For our course, we are using the terms Web Service and Message Formatting for these additional communication protocols. Update: While SOAP is still used in some contexts, RESTful APIs currently dominate the API landscape. It is no longer an 'up and coming' technology, but rather simply the best practice for API development.  The Web Service layer is referring to the protocols which can sit on top of the applicaiton layer and can determine the format in which APIs are sent and received.  SOAP (Simple Object Access protocol)  make use of XML markup language to transmit sets of information in the form of objects. SOAP sits atop HTTP applicaiton protocol but can also function with SMTP or simple male transfer protocol.  REST  (REpresentational State Transfer) REST is more of a set of styles and guidelines than a specific protocol.  It leverages the features of HTTP to transmit information.   GET, POST, PUT, DELETE are common. 
+
+Message Formatting protocol: XML and JSON.  These stand for eXtensible Markup Language or JavaScript Object Notation respectively (attribute value pairs).  Recently, REST is gaining in popularity over SOAP. 
+
+Structure of data: 
+
+ XML 	|	vs 	|	JSON 
+
+1997		| 2001 
+		
+REST utilizes CONSTRAINTS.  [Thomas Fielding on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+
+1.  There must be a separation between clients and servers. The client is the machine requesting a resource.  The server is the one providing the resource. Any device may function as both the client or the server but during the HTTP protocol activity cycle it must remain either he client or the server. 
+
+2.  STATELESS - remembers your activity, such as a shopping cart.  A truly RESTful request cycle cannot retain any information about the client.  It must treat each request as if it is the independent--the only one it has seen.  The server cannot remember its clients or give back information accordingly.  In fact, each new request from a client to a server must be treated as though it was the first request the server has ever seen from that client.  The server should not remember its clients.  The server should give up to date information to clients.  The server can also allow authorized clients to make modifications.  By using tokens we can have a stateless design that can create a user experience that seems state-remembering to the user. 
+
+3.  Cacheable (or non-cacheable) status.  All response messages from the server to the client are labeled as cacheable or non-cacheable.  Responses can be cached by the client if the information on the server hasn't changed since the last request. 
+
+4.  Uniform Interface (between all clients and servers) for example-there are end points and gaining access to the end points are exactly the same if you are doing it from a laptop or a desktop, etc. 
+
+5.  Layered System - this allows a request from a client to go to a server without having to understand all of the complexities and dependencies which are required to complete the request no matter how many additional requests the server needs to make in order to complete the original client request. 
+
+6.  CODE on DEMAND (optional restraint) While optional, this allows for the opportunity for code (such as JavaScript, for example) to be sent to the client for execution on the client's device.  
+
+Why should REST be stateless? 
+That helps because it makes APIs:
+
+- simpler to scale
+- easier to cache
+- more reliable if one server goes down and another handles the next request
+- easier to reason about, since each request stands on its own
+A simple way to think about it: the server treats every request like a fresh interaction, not part of an ongoing conversation.
+
+API CALL TEMPLATE: 
+
+```Python
+import requests
+
+url = "https://api.example.com/users/123"
+response = requests.get(url)
+
+print(response.status_code)
+print(response.json())
+```
+
+```PHP
+<?php
+$response = wp_remote_get('https://api.example.com/users/123');
+
+if (is_wp_error($response)) {
+    echo $response->get_error_message();
+} else {
+    $body = wp_remote_retrieve_body($response);
+    echo $body;
+}
+?>
+
+Google Maps API(opens in a new tab) https://developers.google.com/maps/?hl=en 
+
+First, get your Google Maps API key(opens in a new tab) https://developers.google.com/maps/documentation/geocoding/get-api-key 
+
+Then use the Google Maps Geocoding API(opens in a new tab). https://developers.google.com/maps/documentation/geocoding/intro
+
+Action steps:
+
+open the link to get a Google Maps API key
+open the Geocoding API docs
+use a tool like curl to send a request for a city name
+read the response and find the latitude/longitude
+
+curl "https://maps.googleapis.com/maps/api/geocode/json?address=Boston&key=YOUR_API_KEY"
+
+"location": {
+  "lat": ...,
+  "lng": ...
+}
+
+Here's the Foursquare API(opens in a new tab). https://developer.foursquare.com/ 
+
+You may have realized that Foursquare has a geolocating capability as well, but since you already learned how to use the google maps one, you might as well put it to good use ;-)
+
+You can copy and paste the coordinates below: Mountain View, California (37.392971, -122.076044)
+Miami, Florida (25.773822, -80.237947)
+Washington, DC (38.897478, -77.000147)
+New York, New York (40.768349, -73.96575)
+```
+```Python
+import httplib2
+import json
+
+def getGeocodeLocation(inputString):
+	google_api_key = "Paste your key here" 
+	locationString = inputString.replace("", "+")
+	url = ("https://maps.googleapis.com/map/api/geocode/json?address=%s&key=%s'% (locationString, google_api-key))
+	h = hettplib2.Http()
+	response, content = h.request(url, 'GET')
+	result = json.loads(content) 
+	return result #just printing to see what it looks like
+
+#save this file. 
+# then in terminal pointing to the same folder where the above code is saved: 
+
+>>> from geocode import getGeocodeLocation
+
+import httplib2
+import json
+
+def getGeocodeLocation(inputString):
+    # Use Google Maps to convert a location into Latitute/Longitute coordinates
+    # FORMAT: https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=API_KEY
+    google_api_key = "PASTE_YOUR_KEY_HERE"
+    locationString = inputString.replace(" ", "+")
+    url = ('https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s'% (locationString, google_api_key))
+    h = httplib2.Http()
+    result = json.loads(h.request(url,'GET')[1])
+    latitude = result['results'][0]['geometry']['location']['lat']
+    longitude = result['results'][0]['geometry']['location']['lng']
+    return (latitude,longitude)
+
+```
+
+findARestaurant(mealType, location) 
+
+```
+from geocode import getGeocodeLocation
+import json
+import httplib2
+
+import sys
+import codecs
+sys.stdout = codecs.getwriter('utf8')(sys.stdout)
+sys.stderr = codecs.getwriter('utf8')(sys.stderr)
+
+foursquare_client_id = "PASTE_CLIENT_ID_HERE"
+foursquare_client_secret = "PASTE_CLIENT_SECRET_HERE"
 
 
+def findARestaurant(mealType,location):
+	#1. Use getGeocodeLocation to get the latitude and longitude coordinates of the location string.
+	latitude, longitude = getGeocodeLocation(location)
+	#2.  Use foursquare API to find a nearby restaurant with the latitude, longitude, and mealType strings.
+	#HINT: format for url will be something like https://api.foursquare.com/v2/venues/search?client_id=CLIENT_ID&client_secret=CLIENT_SECRET&v=20130815&ll=40.7,-74&query=sushi
+	url = ('https://api.foursquare.com/v2/venues/search?client_id=%s&client_secret=%s&v=20130815&ll=%s,%s&query=%s' % (foursquare_client_id, foursquare_client_secret,latitude,longitude,mealType))
+	h = httplib2.Http()
+	result = json.loads(h.request(url,'GET')[1])
+	
+	if result['response']['venues']:
+		#3.  Grab the first restaurant
+		restaurant = result['response']['venues'][0]
+		venue_id = restaurant['id'] 
+		restaurant_name = restaurant['name']
+		restaurant_address = restaurant['location']['formattedAddress']
+		address = ""
+		for i in restaurant_address:
+			address += i + " "
+		restaurant_address = address
+		#4.  Get a  300x300 picture of the restaurant using the venue_id (you can change this by altering the 300x300 value in the URL or replacing it with 'orginal' to get the original picture
+		url = ('https://api.foursquare.com/v2/venues/%s/photos?client_id=%s&v=20150603&client_secret=%s' % ((venue_id,foursquare_client_id,foursquare_client_secret)))
+		result = json.loads(h.request(url, 'GET')[1])
+		#5.  Grab the first image
+		if result['response']['photos']['items']:
+			firstpic = result['response']['photos']['items'][0]
+			prefix = firstpic['prefix']
+			suffix = firstpic['suffix']
+			imageURL = prefix + "300x300" + suffix
+		else:
+			#6.  if no image available, insert default image url
+			imageURL = "http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct"
+		#7.  return a dictionary containing the restaurant name, address, and image url
+		restaurantInfo = {'name':restaurant_name, 'address':restaurant_address, 'image':imageURL}
+		print "Restaurant Name: %s" % restaurantInfo['name']
+		print "Restaurant Address: %s" % restaurantInfo['address']
+		print "Image: %s \n" % restaurantInfo['image']
+		return restaurantInfo
+	else:
+		print "No Restaurants Found for %s" % location
+		return "No Restaurants Found"
+
+
+#but this no longer works as it is outdated.  the principle is the same. 
+
+import requests
+
+# -----------------------------
+# FREE GEOCODING (OpenStreetMap)
+# -----------------------------
+def get_lat_long(location):
+    url = "https://nominatim.openstreetmap.org/search"
+    params = {
+        "q": location,
+        "format": "json",
+        "limit": 1
+    }
+    response = requests.get(url, params=params).json()
+
+    if not response:
+        return None, None
+
+    return float(response[0]["lat"]), float(response[0]["lon"])
+
+
+# -----------------------------
+# FREE RESTAURANT SEARCH (Yelp)
+# -----------------------------
+YELP_API_KEY = "PASTE_YELP_API_KEY_HERE"
+
+def findARestaurant(mealType, location):
+    # 1. Get lat/long
+    lat, lon = get_lat_long(location)
+    if lat is None:
+        print(f"Could not geocode location: {location}")
+        return None
+
+    # 2. Search Yelp
+    url = "https://api.yelp.com/v3/businesses/search"
+    headers = {"Authorization": f"Bearer {YELP_API_KEY}"}
+    params = {
+        "term": mealType,
+        "latitude": lat,
+        "longitude": lon,
+        "limit": 1
+    }
+
+    response = requests.get(url, headers=headers, params=params).json()
+
+    if "businesses" not in response or len(response["businesses"]) == 0:
+        print(f"No restaurants found for {mealType} in {location}")
+        return None
+
+    restaurant = response["businesses"][0]
+
+    # 3. Extract info
+    name = restaurant["name"]
+    address = " ".join(restaurant["location"]["display_address"])
+    image
+
+```
+
+Some Interesting APIs to Explore
+
+[Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
+[StackExchange API](https://api.stackexchange.com/)
+[Google Maps API](https://developers.google.com/maps/)
+
+[flask](http://flask.pocoo.org/docs/1.0/tutorial/)
+
+Common Accidental API Risks:
+
+exposing secrets like API keys
+trusting user input too much
+missing authentication or authorization checks
+returning too much data
+building endpoints that allow injection or abuse
+That doesn’t mean you’re likely to create some catastrophic exploit right away — just that insecure code is often written by people who didn’t realize the risk yet. That’s exactly why courses include topics like securing your API.
+
+A good mindset is: “make it work” first, then ask “what could a stranger do with this?” If you want, I can give you a beginner-safe checklist for avoiding the most common API security mistakes while you practice.
+
+## Client-Server API Flow: 
+PULL PROTOCOL 
+
+- communication is always initiated by the client. 
+- client sends HTTP request to the server 
+- the server responds with a message 
+- server messages are just bodies of text
+- machines interpret into actions / images / multimedia
+
+Every HTTP Request has a HEADER, blank line, optional body
+the first line of the header is called the REQUEST LINE. 
+ 
+requestion lines contain: 
+1.  The HTTP Verb
+2.  The URI 
+3.  The HTTP Version Number 
+
+syntax is this: 
+
+VERB / URI / http version 
+
+examples: 
+
+GET /home.html HTTP/1.1 
+POST / index.html HTTP/1.1 
+DELETE / query.html HTTP/1.1 
+
+URI = the resource path being requested, often part of a full URL
+
+After the request line we have the optional request headers. These are parameters that can be used to describe specific properties about a request. Request headers appear in name value pairs. Multiple values can be separated by commas
+
+Syntax: 
+Header-Name: value
+
+
+Example: 
+Host: example.com
+Accept: application/json
+Authorization: Bearer abc123
+
+So “name-value pairs” means:
+
+name = the header label
+value = the information for that label
+And “multiple values separated by commas” means a header can sometimes list more than one option, like:
+
+Accept: application/json, text/html
+
+They function like extra instructions / metadata attached to the request. The request line says “what I want,” and the headers say things like “here’s who I am,” “here’s what format I want,” or “here’s extra context.”
+
+Common use cases:
+
+identify the target site
+text
+
+Host: example.com
+tell the server what response format you want
+text
+
+Accept: application/json
+send login/auth info
+text
+
+Authorization: Bearer ...
+describe the body you’re sending
+text
+
+Content-Type: application/json
+send cookies/session info
+text
+
+Cookie: ...
+So the main purpose is to help the server decide how to handle the request and what kind of response to send back. If you want, I can map those headers to real examples from WordPress login or API calls.
+
+Example HTTP Request: 
+
+GET /home.html HTTP/1.1
+Host: www.example.com
+Accept: text/html
+User-Agent: Mozilla/5.0
+
+What each part means:
+
+first line = request line
+Host = which website/server you want
+Accept = what kind of response format you can handle
+User-Agent = information about the client making the request
+
+POST example too:
+
+POST /signup HTTP/1.1
+Host: www.example.com
+Content-Type: application/json
+Accept: application/json
+
+{"email":"user@example.com","name":"User"}
+
+
+
+After HTTP requests are received, the server returns an HTTP Response. 
+- the first line of the response is called the Status Line.   The status line contains 1) the HTTP version, 2, the Status Code, and 3 A Reason phrase. 
+- the structure is a header, a blank, line, and an optional body
+
+### Status Codes & Reason Phrases: 
+- 200 OK
+- 404 Not Found 
+- 403 Forbidden 
+- 500 Internal Server Error 
+
+RESOURCES: 
+Check out the official [cURL documentation](http://curl.haxx.se/docs/manpage.html) and this [blog post](http://www.ethanmick.com/getting-started-with-curl/) for getting started with cURL.
+
+Check out the [Postman Documentation](https://www.getpostman.com/docs) as well.
+
+You should also be familiar with [query strings](https://en.wikipedia.org/wiki/Query_string) as option to pass in variables straight from the URI.
+```
+Download the code for [api_server.py](https://github.com/udacity/APIs/blob/master/Lesson_2/06_Sending%20API%20Requests/api_server.py) here.
+
+#THIS IS A WEBSERVER FOR DEMONSTRATING THE TYPES OF RESPONSES WE SEE FROM AN API ENDPOINT
+from flask import Flask
+app = Flask(__name__)
+
+#GET REQUEST
+
+@app.route('/readHello')
+def getRequestHello():
+	return "Hi, I got your GET Request!"
+
+#POST REQUEST
+@app.route('/createHello', methods = ['POST'])
+def postRequestHello():
+	return "I see you sent a POST message :-)"
+#UPDATE REQUEST
+@app.route('/updateHello', methods = ['PUT'])
+def updateRequestHello():
+	return "Sending Hello on an PUT request!"
+
+#DELETE REQUEST
+@app.route('/deleteHello', methods = ['DELETE'])
+def deleteRequestHello():
+	return "Deleting your hard drive.....haha just kidding! I received a DELETE request!"
+
+if __name__ == '__main__':
+    app.debug = True
+    app.run(host='0.0.0.0', port=5000)	
+
+
+There are some exceptions, but for most use cases:
+
+HTTP <--> CRUD
+GET <--> READ
+POST<--> CREATE
+PUT <--> UPDATE/CREATE
+PATCH <--> UPDATE
+DELETE-<-->DELETE
+```
+
+## 🌱 R5D58 2026-08-06
+    Project 3.6 PM-Using AI in Job Search  
+    Project 3.7 PM-Capstone project - Week 2 - Build out a project plan 
+         Initiating a Project-Project Charter (completed) 
+         
+    Project 15 -  posted Sprint 1: Week 1 Day 3 in community forum. Studied Course 2: Lesson 3- Role-Based prompting. Finished AWS Skill Builder session Planning a Generative AI Project.  Planned remaining goals for the next 3 months of my gifted by the scholarship subscription to Skill Builder. 
+
+    Project 16- Python Module 3 - 
+    Extras-worked on Udacity Gen AI Scholarship by completing Role-Based Prompting studies (Finished Course 2.3) The course was very straightforward and so far I've not got into "new" info. 
+
+### Great Prompts: 
+-  < Role > 
+-  < Task >
+-  < Requested Output Format >
+-  < Examples >
+-  < Context >
+
+Part of making AI Agents is evaluation-we must test the responses in tone, answer, tasks. Reliable testing?  Ground Truth Evaluations:  Ideal (ground truth) vs actual.  You can do this by curating a set of inputs and ideal outputs. For structured data (python, json, etc) check formatting/structure and completeness, accuracy, etc.  For unstructured data (text, images) you can use VLM or LLM as a judge.  Look at the LLM traces.  Use human evaluation pipeline. 
+
+```
+
+
+Purpose of Ground Truth
+
+    establish the “correct” or expected answer/output
+    use it as a benchmark to judge model or agent performance
+
+What an evaluation pipeline does
+
+    takes an input/task
+    gets the model or agent output
+    compares that output against ground truth
+    produces a score, label, or pass/fail result
+
+Core components
+
+    dataset of prompts/tasks
+    ground truth answers or labels
+    evaluation criteria/metrics
+    scoring or comparison logic
+    reporting/analysis of results
+
+Why it matters
+
+    helps measure quality consistently
+    makes improvements trackable over time
+    reveals failure patterns and weak spots
+
+Common challenges
+
+    ground truth may be incomplete or subjective
+    some tasks allow multiple valid answers
+    automated scoring can miss nuance
+    bad benchmark data leads to misleading results
+
+In agent systems
+
+    can evaluate correctness, tool use, reasoning steps, or final task completion
+    often used to compare prompt versions, workflows, or agent personas
+
+Main takeaway
+
+    ground truth is the reference standard, and the evaluation pipeline is the process that uses that standard to measure performance
+
+
+“Simple metrics” here usually means easy-to-calculate checks for whether the output is doing the basic job.
+
+Examples:
+- **accuracy** — did it give the correct answer?
+- **match rate** — does the output match the expected label/category?
+- **pass/fail** — did it complete the task correctly?
+- **format compliance** — did it return the required structure, like valid JSON?
+- **tool success rate** — did it call the right tool and finish the workflow?
+- **response time / latency** — how long did it take?
+- **error rate** — how often it fails, crashes, or gives unusable output
+
+“Robustness testing” means checking whether the system still behaves well when conditions are messy or hostile:
+- confusing wording
+- typos
+- incomplete input
+- contradictory instructions
+- prompt injection or adversarial attempts
+- edge cases it didn’t see in normal testing
+
+“Task consistency” means it handles the same kind of task reliably across similar inputs.
+“Persona consistency” means it stays in the intended role, tone, and behavior over time — for example, a customer support agent stays helpful, professional, and within policy instead of drifting.
+
+So in short:
+- **simple metrics** = basic measurable performance checks
+- **robustness** = does it hold up under stress or attack?
+- **consistency** = does it behave reliably across runs and over time?
+
+
+```
+examples: 
+CODING - Fibonacci Sequence + Optimize using Memorization 
+BUSINESS ANALYSIS - your a top-notch marketer (give the data) 
+WRITING (creative) - your an award-winning fantasy author (write this chapter for this context book) 
+
+```python
+--Plain Prompt Yields: 
+
+def fibonacci(n):
+    sequence = []
+    a, b = 0, 1
+    for i in range(n):
+        sequence.append(a)
+        a, b = b, a + b
+    return sequence
+
+--No role just Fibonacci Sequence and use Memorization 
+
+cache = {}
+
+def fib(n):
+    if n in cache:
+        return cache[n]
+    if n <= 1:
+        return n
+    cache[n] = fib(n-1) + fib(n-2)
+    return cache[n]
+
+-- Full Prompt: You are a senior python developer specializing in efficient algorithms and clean code practices. you write robust, well-documented python code.  include type hints for the function signature and return value.  ensure the code is clean, readable, and follows standard python conventions based on pep 8. 
+
+from typing import List
+
+
+def fibonacci(n: int) -> List[int]:
+    """
+    Generate the first n numbers in the Fibonacci sequence.
+
+    Args:
+        n: The number of Fibonacci numbers to generate.
+
+    Returns:
+        A list containing the first n Fibonacci numbers.
+
+    Raises:
+        ValueError: If n is negative.
+    """
+    if n < 0:
+        raise ValueError("n must be a non-negative integer")
+
+    sequence: List[int] = []
+    a, b = 0, 1
+
+    for _ in range(n):
+        sequence.append(a)
+        a, b = b, a + b
+
+    return sequence
+```
+    
+## 🌱 R5D57 2026-08-05
+    Project 3.6 PM-Using AI in Job Search  
+    Project 3.7 PM-Capstone project - Week 1 -
+         Initiating a Project-Project Charter 
+    Project 15 - Attended Kick Off Meeting, posted Sprint 1: Week 1 Day 2 in community forum. Studied Course 2: Lesson 2-The role of Prompting in Agentic AI with AWS. Perquisites:  https://www.udacity.com/enrollment/ud388  and Python refresher--at least to the level of being able to read python and understand it. 
+    Project 16- Module 3 -Concatenation & String Multiplication.
+    Extra:  Applied for AI trainer role, interviewed for 2 PM roles. 
+```
+COURSE OVERVIEW-SKILL SET LEARNED:
+Nanodegree Skills
+Prompting for Effective LLM Reasoning
+
+Implementing Role-Based Prompting • Agentic Reasoning Frameworks • Iterative Prompt Development • Prompt Chain Design • Feedback Loop Design • Systematic Prompt Refinement • Implementing Prompt Chains • Implementing Feedback Loops • CoT and ReAct • Persona-Based Prompt Design
+Building Agents with Amazon Bedrock AgentCore and Strands SDK
+
+Web Search Integration & Data Retrieval for AI Agents • Implementing API Integration for Agents • LLM Structured Outputs • Implementing State Management for AI Agents • State Management for AI Agents • Implementing Web Search Integration and Data Retrieval for AI Agents • RAG Implementation • Agent Tool Use • Implementing Agent Memory • Database Interaction for AI Agents • Agent Memory Design • API Integration for Agents • Implementing Long-term Memory Management for AI Agents • Implementing LLM Structured Outputs • Implementing Agent Tool Use • Long-term Memory Management for AI Agents
+Multi-Agent Systems and Protocol Integration on AWS
+
+Implementing Inter-Agent Communication • Implementing Multi-Agent State Management • Multi-Agent State Management Concepts • Agentic Parallel Workflow Design • Multi-Agent Orchestration Concepts • Multi-Agent System Design • Implementing Parallel Agent Workflows • Implementing Multi-Agent State Coordination • Implementing Multi-Agent RAG • Implementing Multi-Agent Architectures • Multi-Agent Routing Concepts • Multi-Agent RAG Concepts • Implementing Multi-Agent Orchestration • Implementing Multi-Agent Routing • Implementing Multi-Agent Deployment and Observability • Multi-Agent Implementation • LLM Selection • Implementing Agentic AI Governance
+
+[DAILY SCRUM FORMAT](https://community.udacity.com/c/agentic-engineer-tech-support/sprint-1-week-1-day-2)
+```
+Yesterday: Started ND.  Studied topics:  Course 1: Getting Started topics with Sebastian Thrun.  Found I am excited to participate in the portfolio-building real-world workplace scenarios!  I set up the schedule in my calendar, scheduling study time around my current scheduling for other non-scholarship items I’m already committed to doing.  I made note of the HELP resources so if I need them I can consult them in the future.  
+
+Today:  Attending Kick-Off Meeting.  I’m continuing with AWS Skill Builder study in addition to review of ND prerequisites Python (Coursera’s JetBrains 21% completed) and API (Udacity course RESTful APIs  54% completed) 
+
+Blockers: 
+1.  Sound for the Nanodegree is not working well inside Firefox browser.  I chatted with the AI tool in our classroom and it suggested Chrome as the solution.  I tried this and it worked. 
+
+ I wasn’t certain my skill set on the prerequisites was going to be sufficient so I started the above Python and API review courses. 
+
+Yesterday when I first accessed my ND classroom it stated that my First Project was overdue.  I asked about this and  mentioned it should be fixed.  However, when I looked it said it is due in a two weeks not before Sept, the date given in a) course email b) the weekly schedule c) the kick-off meeting. I’m confused but will do my best to complete it as soon as possible.  I do have the 1 doubt after hearing Amy’s discussion about webinars if it is wise to turn in the first project prior to the walkthru meetings/webinars. 
+
+My Nanodegree Study Plan: 
+- Kick Off Meeting 8/5/2026
+- Intro: Begin Your Journey 8/4/2026
+- The Role of Prompting in Agentic AI with AWS 8/5/2026
+- Role-Based Prompting 8/6/2026
+- Implementing Role-Based Prompting with Bedrock Playground 8/7/2026
+- Chain-of-Thought and ReACT Prompting 8/8/2026
+- Use 8/9/2026 and 8/10/2026 as contingency “mop up” days to stay on track to finish these tasks by end of week one to keep track with our scheduling. 
+```
+ 
+## 🌱 R5D56 2026-08-04
+    Project 3.6 PM-Using AI in Job Search  
+    Project 3.7 PM-Capstone project - Week 1 -
+         Initiating a Project-Project Charter 
+    Project 15-Completed Day 1 scrum for this week 1 sprint, studied Intro to Nanodegree materials, making a study schedule in my calendar, set up reminders, and added the info about how and where to get help if it is needed.  Drew up a plan for finishing the first project on time to maintain the study schedule. Put in our co-hort meetings in my planner. Finished Prompting for Effective LLM Reasoning Course 2: Lesson 1
+
+    Project 16-Finished Module 2 with 100% QUIZ score!  
+    
+## 🌱 R5D55 2026-08-03
+    Project 3.6 PM-Using AI in Job Search  - working on resume update
+    Project 3.7 PM-Capstone project - Week 1 -
+         Initiating a Project-Project Charter - Finishing up module 1, week 1 
+    Project 16 - Working on Module 2 topics including variables, types, converting types, arithmetic operators, assignments, Boolean, and comparison. 
 
 ## 🌱 R5D54 2026-08-02
 
@@ -588,9 +1288,9 @@ Cost Control - minimize variance - proactive
 
 ```
     Project 4: Python - Labs and Structured Code for Reuse 
-    Project 5: Django for WP Dev
-    Project 8.5 Google Slides - ongoing study 
-    Extras: freeCodeCamp Spanish 
+   
+    Project 16: ND
+
 
 
 ## 🌱 R5D28 2026-07-07
