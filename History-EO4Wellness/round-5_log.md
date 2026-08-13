@@ -7,13 +7,13 @@
 ### TOC Courses (Udacity, Coursera, Udemy):	| Completion Rate: 
 
 3.6 PM-Using AI in Job Search (7/29/26)         |  
-3.7 PM-Capstone project (7/29/26)               |  35%
-9.  Microsoft Excel Professional Certificate    |  37%
-14. Udacity AWS Scholarship (8/4-11/4)          |  18%
-15. Udacity Python                              | In progress 
-16: Python from Scratch: Learn by Coding        |  46%
+3.7 PM-Capstone project (7/29/26)               |  65%
+9.  Microsoft Excel Professional Certificate    |  51%
+14. Udacity AWS Scholarship (8/4-11/4)          |  32%
+16: Python from Scratch: Learn by Coding        |  51%
     by Jet Brains Python
 18: AWS Skill Builder Courses                   | Ongoing 
+19: Visual Elements of user Interface Design    |  36%
 
 
 =======
@@ -89,17 +89,109 @@ Master Tough Subjects  (June/2026)              | 100%
 
 ### NEXT TEMPLATE:
 
-## 🌱 R5D62 2026-08-10
+## 🌱 R5D66 2026-08-14
+    Project 3.6 PM-Using AI in Job Search Platforms ongoing 
+    Project 3.7 PM-Capstone project - Week 4-finished the credential-final week wrap up 
+    Project 14.2 Udacity topic of study: Implementing Prompt Chaining with Bedrock Agent Flows and API-finished.  posted Sprint 1: Week 2 Day 10 in community forum. 
+    Project 18.2.4 AWS Skill Builder topic on MCP-completed and certificate of completion with its description posted to LinkedIn Interoperability Challenges i Multi-Agent systems --Information Siloes due to proprietary access APIs, integration complexities with different systems requiring custom connectors and scalability bottlenecks when connecting multiple models and systems so MCP was proposed in 2024 by Anthropic to help solve these types of issues. (other option is A2A) massive rapid adoption 
+
+
+## 🌱 R5D65 2026-08-13
+    Project 3.6 PM-Using AI in Job Search Platforms ongoing 
+    Project 3.7 PM-Capstone project - Week 2 Timeline Management working through module 3 with quality, evaluation of quality standards, surveys, stakeholder presentations after reaching milestones, as well as facilitating retrospectives and turning around negatives with SMART outcomes. 
+    Project 14.2 Udacity topic of study: Implementing Prompt Chaining with Bedrock Agent Flows and API.  posted Sprint 1: Week 2 Day 9 in community forum. 
+    Project 18.2.4 AWS Skill Builder topic-completed and certificate of completion with its description posted to LinkedIn - Agentic AI Framework Deep Dive - Overview review of CrewAI (crew + flow), Strands, LangChain/LangGraph and also Agent Core. 
+
+## 🌱 R5D64 2026-08-12
     Project 3.6 PM-Using AI in Job Search Platforms 
     Project 3.7 PM-Capstone project - Week 2 Timeline Management 
-    Project 14.2 Udacity topic of study: 
+    Project 14.2   Udacity topic of study: Completed Integrating Prompts into Python with Amazon Bedrock API  and  Implementing Prompt Refinement with Bedrock API. posted Sprint 1: Week 2 Day 8 in community forum. Studied Course 2: 
+    Project 18.2.4 Amazon Bedrock AgentCore Getting Started - cloud quest.  Added Completion certificate for Lab - Explore Foundation Models and Prompt Engineering to LinkedIn 
+    Project 19: Completed Week 1 Visual Elements of User Interface Design 
+    Extra: Was extended an AI training role today. Started onboarding and tasking.
+
+### UI began with Analog Models - Real World Knowledge 
+- buttons (real or digital) 
+- correlation to real world 
+- learned behavior and conventions 
+- cause and effect or action/reaction = needs feedback to know it worked 
+- consistency - logic/systematically if they look the same, they should function the same way
+- seamless-easy with the least friction 
+-  immediate intuition 
+- interface conventions 
+- such as swipe--may produce other results in different aps but we expect swipe to work
+- value - we've interacted we feel we are getting something of value from our interaction
+- control+z UNDO - consumers want to feel safe in the digital world 
+- what does the user bring to the experience
+
+### Interface Conventions
+- unfamiliar objects are dysfunctional 
+- familiar is reassuring we know what's going to happen intuitive from the arrangement 
+- human ergonomics 
+- size/shape of buttons need to correlate to human anatomy/vision, solution-display what's being entered 
+- how we interact with a cell phone, vs tablet, vs laptop, vs desktop, vs smart tv--our visual field and where our hands go are very different in relationship to device/and our body.  some objects are mobile some are fixed. 
+- search is a convention 
+
+### Best Practices Interface Conventions:
+    
+- Real world knowledge is based on analog models. For example, we understand the functionality of digital buttons on a screen because we’ve experienced analog buttons in the real world—on calculators, remote controls, elevators, and so on. 
+
+- Learned behavior If real world knowledge is based on analog models, then perhaps you can say learned behavior is based on digital models. For instance, swiping left or right is a digital convention that is now fairly common among plenty of apps, but has no corollary in the real world. It is an action users have picked up from using smartphones and the apps on them. 
+
+- Cause and effect is about action and reaction. When a user presses a button and something happens, they quickly understand the functionality of the button. For example, pressing “Send” to send an email message, or “Submit” to submit a form.
+
+- Consistency is about applying a systematic logic to the way interfaces look and function so they remain familiar to a user. For example, on a telephone keypad, where all of the numbered buttons look the same, you can anticipate that pressing the number “8” will have more or less the same function as pressing the number “1”. 
+
+- Seamlessness is about ensuring that the action and reaction are closely linked. The interaction should be easy (with as few steps as possible), and results should be immediate. 
+
+- Immediate intuition We’ve been conditioned that in order to interact with an interface we need to touch it in some way. While the system may not be immediately obvious, the solution is usually quickly discovered. 
+
+- Fulfillment is the payoff for the user! An interface should function as it was intended, but there are other ways to reaffirm it as a positive experience. Anyone who uses Mailchimp to send email to a list of customers is likely familiar with the “Freddie High Five” that appears after you send a campaign. 
+
+- Undo/redo gives the user peace of mind that their actions are reversible. A good UI will allow a user to change their mind after they’ve made an action, or at least notify the user before they take a crucial step. You can see a few examples of this in Google’s webmail service, Gmail, from notifying you if you’ve possibly forgotten to attach a document to an outgoing email, to giving you a short window of time to “undo” a sent message before it leaves your outbox.
+
+[The 4 Golden Rules of UI Design, by Nick Babich, Adobe Blog, October 7, 2019.](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)
+
+[10 Usability Heuristics for User Interface Design, by Jakob Nielsen, Nielsen Norman Group website, updated January 30, 2024.](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+Principle of Consistency and Standards in User Interface Design, by Euphemia Wong, Interaction Design Foundation, January 2, 2021.](https://www.interaction-design.org/literature/article/principle-of-consistency-and-standards-in-user-interface-design)
+
+
+```Python
+# JetBrains Python on Coursera-Finished Module 5 today 
+
+from random import random  # Importing a pseudo-random number generator module
+
+my_random_number = random() * 100
+
+if my_random_number > 50:
+    print(my_random_number)
+else:
+    print("Too small!")
+
+# learned the above can also be coded in one line
+# print(my_random_number) if my_random_number > 50 else print("Too small!")
+
+```
+## 🌱 R5D63 2026-08-11
+    Project 3.6 PM-Using AI in Job Search Platforms ongoing 
+    Project 3.7 PM-Capstone project - Week 2 Timeline Management 
+    Project 14.2 Attend Aug 11, 2026 workshop - Project Walkthrough. Udacity topic of study: Prompt Instruction Refinement posted Sprint 1: Week 2 Day 8 in community forum.  
+    Project 18.2.4 Amazon Bedrock AgentCore Getting Started - did lab on prompting using bedrock playground 
+    Extra: Was interviewed and extended a part-time seasonal role today.  
+           Was onboarded and awaiting the equipment to arrive to start working.
+
+## 🌱 R5D62 2026-08-10
+    Project 3.6 PM-Using AI in Job Search Platforms ongoing
+    Project 3.7 PM-Capstone project - Week 2 Timeline Management 
+    Project 14.2 Udacity topic of study:  posted Sprint 1: Week 1 Day 7 in community forum. Studied Course 2: 
     Project 18.2.4 Amazon Bedrock AgentCore Getting Started
 
 ## 🌱 R5D61 2026-08-09
     Project 3.6 PM-Using AI in Job Search  - Cover letter with AI and Online presence, look for green flags online. 
     Project 3.7 PM-Capstone project - Week 2 - worked on timelines 
          Initiating a Project-Project Charter 
-    Project 15 -  posted Sprint 1: Week 1 Day 5 in community forum. Studied Course 2:  
+    Project 14 -  posted Sprint 1: Week 1 Day 6 in community forum. Studied Course 2:  
 
     Project 16 - Python -worked on 
     Project 18 - AWS  Completed - Introduction to Agentic AI on AWS in the AWS Generative AI learning path.  Posted my certificate of completion to LinkedIn
